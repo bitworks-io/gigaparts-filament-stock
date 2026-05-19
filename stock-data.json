@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-19T04:22:09+00:00",
-  "previousUpdatedAt": "2026-05-18T23:17:24+00:00",
+  "updatedAt": "2026-05-19T08:37:30+00:00",
+  "previousUpdatedAt": "2026-05-19T04:22:09+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3634,7 +3634,7 @@
           "sku": "3DPM0160",
           "productId": "38444",
           "inStock": true,
-          "price": 17.99,
+          "price": 12.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0160#product-38444"
         },
         {
@@ -5222,7 +5222,7 @@
           "sku": "3DPM0312",
           "productId": "38506",
           "inStock": true,
-          "price": 17.99,
+          "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0312#product-38506"
         },
         {
@@ -6012,19 +6012,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG CF",
-        "group": "PETG",
-        "name": "Malachite Green (1kg, Spool)",
-        "sku": "3DPF170",
-        "productId": "28895",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html?sku=3DPF170#product-28895",
-        "price": 34.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
