@@ -44,3 +44,16 @@ GitHub Actions needs:
 
 - `NOTIFY_WORKER_URL=https://<worker-url>/api/stock-events`
 - `NOTIFY_WORKER_TOKEN=<same value as STOCK_EVENT_TOKEN>`
+
+## Telegram Bot Commands
+
+After a user opens the pairing link from the tracker, the bot confirms the
+connection and summarizes the available commands:
+
+- `/list` - show the Telegram-synced saved filament list for that chat.
+- `/status` - show whether the chat is connected and how many saved items are
+  synced.
+- `/help` - show a short usage summary and tracker link.
+
+Saved-list replies are capped before Telegram delivery so a large saved list
+cannot produce an oversized bot response.

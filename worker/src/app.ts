@@ -65,6 +65,7 @@ export interface Store {
   removeTelegramLink(deviceId: string): Promise<void>;
   telegramLink(deviceId: string): Promise<TelegramLink | null>;
   telegramSavedItems(chatId: string): Promise<string[]>;
+  telegramLinkedDeviceCount(chatId: string): Promise<number>;
   replaceTelegramSavedItems(chatId: string, itemKeys: string[]): Promise<void>;
   mergeTelegramSavedItems(chatId: string, itemKeys: string[]): Promise<void>;
   telegramChatsWithSavedItem(itemKey: string): Promise<string[]>;
@@ -331,20 +332,155 @@ async function withinRateLimit(request: Request, store: Store, scope: string, li
 async function handleTelegramUpdate(update: any, store: Store, env: Env, fetcher: Fetcher, now: Date): Promise<void> {
   const message = update?.message;
   const textValue = typeof message?.text === "string" ? message.text : "";
-  const match = textValue.match(/^\/start\s+([A-Za-z0-9_-]+)$/);
   const chatId = message?.chat?.id == null ? "" : String(message.chat.id);
-  if (!chatId || !match) return;
+  if (!chatId || !textValue) return;
+  if (!await withinTelegramRateLimit(store, chatId, now)) return;
 
-  const deviceId = await store.consumeTelegramPairingToken(match[1], now.toISOString());
-  if (!deviceId) {
-    await sendTelegramMessage(fetcher, env, chatId, "This GigaParts stock alert link is expired or already used. Open the tracker and connect Telegram again.");
+  const command = parseTelegramCommand(textValue, env.TELEGRAM_BOT_USERNAME);
+  if (!command) {
+    await sendTelegramMessage(fetcher, env, chatId, unknownTelegramCommandMessage());
     return;
   }
 
-  const username = typeof message.chat.username === "string" ? message.chat.username : undefined;
-  await store.upsertTelegramLink(deviceId, { chatId, username });
-  await store.mergeTelegramSavedItems(chatId, await store.savedItems(deviceId));
-  await sendTelegramMessage(fetcher, env, chatId, "Telegram is connected. Saved filament restock alerts will be sent here.");
+  if (command.name === "start") {
+    if (command.argument) {
+      const deviceId = await store.consumeTelegramPairingToken(command.argument, now.toISOString());
+      if (!deviceId) {
+        await sendTelegramMessage(fetcher, env, chatId, "This GigaParts stock alert link is expired or already used. Open the tracker and connect Telegram again.");
+        return;
+      }
+
+      const username = typeof message.chat.username === "string" ? message.chat.username : undefined;
+      await store.upsertTelegramLink(deviceId, { chatId, username });
+      await store.mergeTelegramSavedItems(chatId, await store.savedItems(deviceId));
+      const itemCount = (await store.telegramSavedItems(chatId)).length;
+      await sendTelegramMessage(fetcher, env, chatId, telegramConnectedMessage(itemCount));
+      return;
+    }
+
+    await sendTelegramMessage(fetcher, env, chatId, await telegramStatusMessage(store, chatId));
+    return;
+  }
+
+  if (command.name === "list") {
+    await sendTelegramMessage(fetcher, env, chatId, await telegramSavedListMessage(store, chatId));
+    return;
+  }
+
+  if (command.name === "status") {
+    await sendTelegramMessage(fetcher, env, chatId, await telegramStatusMessage(store, chatId));
+    return;
+  }
+
+  if (command.name === "help") {
+    await sendTelegramMessage(fetcher, env, chatId, telegramHelpMessage());
+    return;
+  }
+
+  await sendTelegramMessage(fetcher, env, chatId, unknownTelegramCommandMessage());
+}
+
+function parseTelegramCommand(textValue: string, botUsername: string): { name: string; argument: string } | null {
+  const trimmed = textValue.trim();
+  const match = trimmed.match(/^\/([A-Za-z0-9_]+)(?:@([A-Za-z0-9_]+))?(?:\s+(.+))?$/);
+  if (!match) return null;
+  const targetBot = match[2] || "";
+  if (targetBot && botUsername && targetBot.toLowerCase() !== botUsername.toLowerCase()) return null;
+  return {
+    name: match[1].toLowerCase(),
+    argument: (match[3] || "").trim()
+  };
+}
+
+async function withinTelegramRateLimit(store: Store, chatId: string, now: Date): Promise<boolean> {
+  const windowSeconds = 60 * 60;
+  const windowStartMs = Math.floor(now.getTime() / (windowSeconds * 1000)) * windowSeconds * 1000;
+  const chatHash = await hashToken(chatId);
+  const count = await store.incrementRateLimit(`telegram:chat:${chatHash}`, new Date(windowStartMs).toISOString());
+  return count <= 60;
+}
+
+function telegramConnectedMessage(itemCount: number): string {
+  return [
+    "Telegram is connected. Saved filament restock alerts will be sent here.",
+    "",
+    `Current saved list: ${itemCount} saved ${itemCount === 1 ? "item" : "items"}.`,
+    "Commands:",
+    "/list - show your Telegram-synced saved list",
+    "/status - show connection status",
+    "/help - show bot help"
+  ].join("\n");
+}
+
+function telegramHelpMessage(): string {
+  return [
+    "GigaParts Filament Stock Alerts",
+    "",
+    "This bot sends restock alerts for filament saved on the tracker after Telegram is connected.",
+    "",
+    "Commands:",
+    "/list - show your Telegram-synced saved list",
+    "/status - show connection status and saved count",
+    "/help - show this help",
+    "",
+    "Tracker: https://bitworks-io.github.io/gigaparts-filament-stock/"
+  ].join("\n");
+}
+
+async function telegramStatusMessage(store: Store, chatId: string): Promise<string> {
+  const linkedDevices = await store.telegramLinkedDeviceCount(chatId);
+  if (!linkedDevices) {
+    return [
+      "This Telegram chat is not connected yet.",
+      "Open the tracker, choose Connect Telegram, then open the pairing link here.",
+      "",
+      "Tracker: https://bitworks-io.github.io/gigaparts-filament-stock/"
+    ].join("\n");
+  }
+
+  const savedCount = (await store.telegramSavedItems(chatId)).length;
+  return [
+    `Connected. ${savedCount} saved ${savedCount === 1 ? "item" : "items"} are synced to this Telegram chat.`,
+    "Use /list to show the saved list or /help for commands."
+  ].join("\n");
+}
+
+async function telegramSavedListMessage(store: Store, chatId: string): Promise<string> {
+  if (!await store.telegramLinkedDeviceCount(chatId)) {
+    return [
+      "This Telegram chat is not connected yet.",
+      "Open the tracker, choose Connect Telegram, then open the pairing link here."
+    ].join("\n");
+  }
+
+  const items = await store.telegramSavedItems(chatId);
+  if (!items.length) {
+    return [
+      "Your Telegram-synced saved filament list is empty.",
+      "Add filaments on the tracker and they will sync here after Telegram is connected."
+    ].join("\n");
+  }
+
+  const lines = [`Saved filament list (${items.length} ${items.length === 1 ? "item" : "items"}):`];
+  let shown = 0;
+  for (const itemKey of items) {
+    const row = `${shown + 1}. ${formatSavedItemKey(itemKey)}`;
+    if (shown >= 50 || lines.join("\n").length + row.length + 80 > 3500) break;
+    lines.push(row);
+    shown += 1;
+  }
+  if (shown < items.length) lines.push(`...and ${items.length - shown} more. Open the tracker for the full list.`);
+  lines.push("", "Tracker: https://bitworks-io.github.io/gigaparts-filament-stock/");
+  return lines.join("\n");
+}
+
+function formatSavedItemKey(itemKey: string): string {
+  const parts = itemKey.split("|").map(part => part.trim()).filter(Boolean);
+  return (parts.length ? parts.join(" - ") : itemKey).slice(0, 160);
+}
+
+function unknownTelegramCommandMessage(): string {
+  return "I do not understand that command. Send /help for available GigaParts stock alert commands.";
 }
 
 async function handleStockEvent(
@@ -575,6 +711,10 @@ export class MemoryStore implements Store {
     return [...(this.telegramSaved.get(chatId) || new Set<string>())].sort();
   }
 
+  async telegramLinkedDeviceCount(chatId: string): Promise<number> {
+    return [...this.telegram.values()].filter(link => link.chatId === chatId).length;
+  }
+
   async replaceTelegramSavedItems(chatId: string, itemKeys: string[]): Promise<void> {
     this.telegramSaved.set(chatId, new Set(itemKeys));
   }
@@ -705,6 +845,13 @@ class D1Store implements Store {
       "select item_key as itemKey from telegram_saved_items where chat_id = ? order by item_key"
     ).bind(chatId).all<{ itemKey: string }>();
     return result.results.map(row => row.itemKey);
+  }
+
+  async telegramLinkedDeviceCount(chatId: string): Promise<number> {
+    const row = await this.db.prepare(
+      "select count(distinct device_id) as deviceCount from telegram_links where chat_id = ? and enabled = 1"
+    ).bind(chatId).first<{ deviceCount: number }>();
+    return row?.deviceCount || 0;
   }
 
   async replaceTelegramSavedItems(chatId: string, itemKeys: string[]): Promise<void> {

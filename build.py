@@ -1081,7 +1081,7 @@ function renderSavedList(){{
       <input id="telegram-pairing-url" type="text" readonly aria-label="Telegram pairing link">
       <button id="telegram-copy-link" type="button">Copy Telegram Link</button>
     </div>
-    <div class="saved-note">iPhone/iPad: install this site to your Home Screen before enabling Web Push. Telegram works from any browser after pairing. Telegram-linked browsers share one saved list; removing or clearing here updates that shared list.</div>
+    <div class="saved-note">iPhone/iPad: install this site to your Home Screen before enabling Web Push. Telegram works from any browser after pairing. Telegram-linked browsers share one saved list; removing or clearing here updates that shared list. Telegram bot commands include /list, /status, and /help.</div>
     ${{items.length?`<ul class="saved-items">${{items.map(item=>`<li>
       <div class="saved-main"><strong>${{item.brand?esc(item.brand)+" - ":""}}${{esc(item.line)}} - ${{esc(item.name)}}</strong><span>${{item.sku?esc(item.sku)+" - ":""}}${{item.price!=null?money(item.price):""}}</span></div>
       <span class="saved-status ${{item.inStock?"in":"out"}}">${{item.inStock?"In stock":"Out of stock"}}</span>

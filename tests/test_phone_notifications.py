@@ -46,6 +46,7 @@ class PhoneNotificationBuildTests(unittest.TestCase):
         self.assertIn("mergeSavedItemKeys", html)
         self.assertIn("showTelegramPairingLink", html)
         self.assertIn("Telegram-linked browsers share one saved list", html)
+        self.assertIn("Telegram bot commands include /list", html)
 
     def test_build_writes_manifest_and_service_worker(self):
         build = load_build()

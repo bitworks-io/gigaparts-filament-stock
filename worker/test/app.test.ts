@@ -19,6 +19,11 @@ async function json(response: Response) {
   return response.json() as Promise<Record<string, unknown>>;
 }
 
+function telegramText(fetcher: ReturnType<typeof vi.fn>, index: number): string {
+  const init = fetcher.mock.calls[index]?.[1] as RequestInit | undefined;
+  return JSON.parse(String(init?.body || "{}")).text;
+}
+
 describe("notification worker app", () => {
   it("registers an anonymous device and authenticates saved item sync", async () => {
     const store = new MemoryStore();
@@ -132,6 +137,9 @@ describe("notification worker app", () => {
     expect(webhookResponse.status).toBe(204);
     expect(await store.telegramLink(String(device.deviceId))).toMatchObject({ chatId: "12345", username: "maker" });
     expect(telegram).toHaveBeenCalledOnce();
+    expect(telegramText(telegram, 0)).toContain("Telegram is connected");
+    expect(telegramText(telegram, 0)).toContain("/list");
+    expect(telegramText(telegram, 0)).toContain("0 saved");
 
     const replayResponse = await app.fetch(
       new Request("https://worker.test/telegram/webhook", {
@@ -146,6 +154,39 @@ describe("notification worker app", () => {
     );
     expect(replayResponse.status).toBe(204);
     expect(telegram).toHaveBeenCalledTimes(2);
+  });
+
+  it("answers Telegram list, status, help, and unknown commands", async () => {
+    const store = new MemoryStore();
+    const telegram = vi.fn(async () => new Response(JSON.stringify({ ok: true }), { status: 200 }));
+    const app = createApp({ store, fetcher: telegram });
+    const device = await store.createDevice("device-token");
+    await store.replaceSavedItems(device.id, ["Bambu|PLA Basic|SKU123", "Polymaker|PETG|sku-1"]);
+    await store.upsertTelegramLink(device.id, { chatId: "12345", username: "maker" });
+    await store.mergeTelegramSavedItems("12345", await store.savedItems(device.id));
+
+    for (const text of ["/list", "/status", "/help", "/wat"]) {
+      const response = await app.fetch(
+        new Request("https://worker.test/telegram/webhook", {
+          method: "POST",
+          headers: {
+            "content-type": "application/json",
+            "x-telegram-bot-api-secret-token": "telegram-secret"
+          },
+          body: JSON.stringify({ message: { chat: { id: 12345, username: "maker" }, text } })
+        }),
+        env()
+      );
+      expect(response.status).toBe(204);
+    }
+
+    expect(telegramText(telegram, 0)).toContain("Saved filament list (2 items)");
+    expect(telegramText(telegram, 0)).toContain("Bambu - PLA Basic - SKU123");
+    expect(telegramText(telegram, 0)).toContain("Polymaker - PETG - sku-1");
+    expect(telegramText(telegram, 1)).toContain("Connected");
+    expect(telegramText(telegram, 1)).toContain("2 saved");
+    expect(telegramText(telegram, 2)).toContain("/list");
+    expect(telegramText(telegram, 3)).toContain("I do not understand that command");
   });
 
   it("uses a Telegram chat as a portable saved list across devices", async () => {
