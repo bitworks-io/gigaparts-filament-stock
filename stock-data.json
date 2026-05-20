@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-20T12:02:23+00:00",
-  "previousUpdatedAt": "2026-05-20T04:24:18+00:00",
+  "updatedAt": "2026-05-20T15:52:59+00:00",
+  "previousUpdatedAt": "2026-05-20T12:02:23+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5951,19 +5951,7 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Metal",
-        "group": "PLA",
-        "name": "Iron Gray Metallic (1kg, Spool)",
-        "sku": "3DPF044",
-        "productId": "28791",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-metal-3d-printer-filament.html?sku=3DPF044#product-28791",
-        "price": 24.99,
-        "inStock": true
-      }
-    ],
+    "inStock": [],
     "outOfStock": []
   },
   "errors": []
