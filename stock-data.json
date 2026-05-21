@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-20T23:38:12+00:00",
-  "previousUpdatedAt": "2026-05-20T21:08:21+00:00",
+  "updatedAt": "2026-05-21T04:40:49+00:00",
+  "previousUpdatedAt": "2026-05-20T23:38:12+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6012,30 +6012,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "ABS",
-        "group": "ABS",
-        "name": "Azure (1kg, Refill)",
-        "sku": "3DPF244",
-        "productId": "32643",
-        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF244#product-32643",
-        "price": 19.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Apple Green (1kg, Refill)",
-        "sku": "3DPF364",
-        "productId": "33825",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF364#product-33825",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
