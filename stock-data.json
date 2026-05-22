@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-22T20:04:30+00:00",
-  "previousUpdatedAt": "2026-05-22T18:02:14+00:00",
+  "updatedAt": "2026-05-22T21:22:22+00:00",
+  "previousUpdatedAt": "2026-05-22T20:04:30+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1431,7 +1431,7 @@
           "hex": "#042e56",
           "sku": "3DPF227",
           "productId": "32733",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF227#product-32733"
         },
@@ -5951,20 +5951,20 @@
     }
   ],
   "changes": {
-    "inStock": [
+    "inStock": [],
+    "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Basic Gradient",
+        "line": "PLA Matte",
         "group": "PLA",
-        "name": "Arctic Whisper (1kg, Spool)",
-        "sku": "3DPF011",
-        "productId": "28758",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF011#product-28758",
-        "price": 24.99,
-        "inStock": true
+        "name": "Dark Blue (1kg, Refill)",
+        "sku": "3DPF227",
+        "productId": "32733",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF227#product-32733",
+        "price": 19.99,
+        "inStock": false
       }
-    ],
-    "outOfStock": []
+    ]
   },
   "errors": []
 }
