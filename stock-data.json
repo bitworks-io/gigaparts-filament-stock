@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-22T11:53:13+00:00",
-  "previousUpdatedAt": "2026-05-22T08:31:30+00:00",
+  "updatedAt": "2026-05-22T15:18:30+00:00",
+  "previousUpdatedAt": "2026-05-22T11:53:13+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -513,7 +513,7 @@
           "hex": "",
           "sku": "3DPF011",
           "productId": "28758",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF011#product-28758"
         },
@@ -2031,7 +2031,7 @@
           "hex": "#000000",
           "sku": "3DPF270",
           "productId": "32625",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF270#product-32625"
         },
@@ -5952,7 +5952,30 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PETG HF",
+        "group": "PETG",
+        "name": "Black (1kg, Refill)",
+        "sku": "3DPF270",
+        "productId": "32625",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF270#product-32625",
+        "price": 19.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic Gradient",
+        "group": "PLA",
+        "name": "Arctic Whisper (1kg, Spool)",
+        "sku": "3DPF011",
+        "productId": "28758",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF011#product-28758",
+        "price": 24.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
