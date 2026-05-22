@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-22T18:02:14+00:00",
-  "previousUpdatedAt": "2026-05-22T15:18:30+00:00",
+  "updatedAt": "2026-05-22T20:04:30+00:00",
+  "previousUpdatedAt": "2026-05-22T18:02:14+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -513,7 +513,7 @@
           "hex": "",
           "sku": "3DPF011",
           "productId": "28758",
-          "inStock": false,
+          "inStock": true,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF011#product-28758"
         },
@@ -5951,20 +5951,20 @@
     }
   ],
   "changes": {
-    "inStock": [],
-    "outOfStock": [
+    "inStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Tough+",
+        "line": "PLA Basic Gradient",
         "group": "PLA",
-        "name": "Cyan (Spool, 1kg)",
-        "sku": "3DPF414",
-        "productId": "36438",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF414#product-36438",
-        "price": 23.99,
-        "inStock": false
+        "name": "Arctic Whisper (1kg, Spool)",
+        "sku": "3DPF011",
+        "productId": "28758",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF011#product-28758",
+        "price": 24.99,
+        "inStock": true
       }
-    ]
+    ],
+    "outOfStock": []
   },
   "errors": []
 }
