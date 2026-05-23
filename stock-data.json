@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-23T17:15:01+00:00",
-  "previousUpdatedAt": "2026-05-23T15:16:04+00:00",
+  "updatedAt": "2026-05-23T19:35:24+00:00",
+  "previousUpdatedAt": "2026-05-23T17:15:01+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6012,19 +6012,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "ABS GF",
-        "group": "ABS",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF128",
-        "productId": "31483",
-        "url": "https://www.gigaparts.com/bambu-lab-abs-gf-3d-printer-filament.html?sku=3DPF128#product-31483",
-        "price": 29.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
