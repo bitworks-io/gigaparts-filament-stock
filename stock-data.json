@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-23T04:05:23+00:00",
-  "previousUpdatedAt": "2026-05-22T23:17:46+00:00",
+  "updatedAt": "2026-05-23T06:44:23+00:00",
+  "previousUpdatedAt": "2026-05-23T04:05:23+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3270,7 +3270,7 @@
           "sku": "3DPM0271",
           "productId": "38499",
           "inStock": true,
-          "price": 12.99,
+          "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0271#product-38499"
         },
         {
@@ -4784,7 +4784,7 @@
           "sku": "3DPM0030",
           "productId": "38427",
           "inStock": true,
-          "price": 24.99,
+          "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-glow-pla-3d-printer-filament.html?sku=3DPM0030#product-38427"
         }
       ]
@@ -5952,19 +5952,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Silk+",
-        "group": "PLA",
-        "name": "Titan Gray (1kg, Spool)",
-        "sku": "3DPF373",
-        "productId": "33845",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF373#product-33845",
-        "price": 22.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
