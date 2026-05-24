@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-24T16:12:01+00:00",
-  "previousUpdatedAt": "2026-05-24T14:42:29+00:00",
+  "updatedAt": "2026-05-24T18:10:30+00:00",
+  "previousUpdatedAt": "2026-05-24T16:12:01+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -921,7 +921,7 @@
           "hex": "",
           "sku": "3DPF055",
           "productId": "28802",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF055#product-28802"
         },
@@ -1411,7 +1411,7 @@
           "hex": "#ae96d4",
           "sku": "3DPF235",
           "productId": "32731",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF235#product-32731"
         },
@@ -2001,7 +2001,7 @@
           "hex": "#878787",
           "sku": "3DPF162",
           "productId": "32123",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF162#product-32123"
         },
@@ -5952,7 +5952,41 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PETG HF",
+        "group": "PETG",
+        "name": "Gray (1kg, Spool)",
+        "sku": "3DPF162",
+        "productId": "32123",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF162#product-32123",
+        "price": 22.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Matte",
+        "group": "PLA",
+        "name": "Lilac Purple (1kg, Refill)",
+        "sku": "3DPF235",
+        "productId": "32731",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF235#product-32731",
+        "price": 19.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Silk Multi-Color",
+        "group": "PLA",
+        "name": "Midnight Blaze (Blue-Red) (1kg, Spool)",
+        "sku": "3DPF055",
+        "productId": "28802",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF055#product-28802",
+        "price": 24.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
