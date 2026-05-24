@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-24T00:09:01+00:00",
-  "previousUpdatedAt": "2026-05-23T22:07:57+00:00",
+  "updatedAt": "2026-05-24T05:12:19+00:00",
+  "previousUpdatedAt": "2026-05-24T00:09:01+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4844,7 +4844,7 @@
           "sku": "3DPM0030",
           "productId": "38427",
           "inStock": true,
-          "price": 19.99,
+          "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-glow-pla-3d-printer-filament.html?sku=3DPM0030#product-38427"
         }
       ]
@@ -5174,7 +5174,7 @@
           "sku": "3DPM0318",
           "productId": "38512",
           "inStock": true,
-          "price": 22.99,
+          "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-metallic-pla-pro-metallic-3d-printer-filament.html?sku=3DPM0318#product-38512"
         },
         {
