@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-24T20:14:59+00:00",
-  "previousUpdatedAt": "2026-05-24T18:10:30+00:00",
+  "updatedAt": "2026-05-24T22:07:47+00:00",
+  "previousUpdatedAt": "2026-05-24T20:14:59+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -961,7 +961,7 @@
           "hex": "",
           "sku": "3DPF402",
           "productId": "35314",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF402#product-35314"
         },
@@ -5955,34 +5955,12 @@
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Basic Gradient",
-        "group": "PLA",
-        "name": "4144 (1kg, Spool)",
-        "sku": "",
-        "productId": "33820",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-33820",
-        "price": 0,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA CF",
-        "group": "PLA",
-        "name": "Lava Gray (1kg, Spool)",
-        "sku": "3DPF096",
-        "productId": "28838",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html?sku=3DPF096#product-28838",
-        "price": 34.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
         "line": "PLA Silk Multi-Color",
         "group": "PLA",
-        "name": "Neon City (Blue-Magenta) (1kg, Spool)",
-        "sku": "3DPF056",
-        "productId": "28803",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF056#product-28803",
+        "name": "Dawn Radiance (1kg, Spool)",
+        "sku": "3DPF402",
+        "productId": "35314",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF402#product-35314",
         "price": 24.99,
         "inStock": false
       }
