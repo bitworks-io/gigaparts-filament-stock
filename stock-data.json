@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-24T12:09:28+00:00",
-  "previousUpdatedAt": "2026-05-24T10:49:26+00:00",
+  "updatedAt": "2026-05-24T14:42:29+00:00",
+  "previousUpdatedAt": "2026-05-24T12:09:28+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5952,30 +5952,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PC",
-        "group": "PC",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF134",
-        "productId": "28867",
-        "url": "https://www.gigaparts.com/bambu-lab-pc-3d-printer-filament.html?sku=3DPF134#product-28867",
-        "price": 39.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic Gradient",
-        "group": "PLA",
-        "name": "Arctic Whisper (1kg, Spool)",
-        "sku": "3DPF011",
-        "productId": "28758",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF011#product-28758",
-        "price": 24.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
