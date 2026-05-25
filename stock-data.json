@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-24T22:07:47+00:00",
-  "previousUpdatedAt": "2026-05-24T20:14:59+00:00",
+  "updatedAt": "2026-05-25T00:11:34+00:00",
+  "previousUpdatedAt": "2026-05-24T22:07:47+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -941,7 +941,7 @@
           "hex": "",
           "sku": "3DPF057",
           "productId": "28804",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF057#product-28804"
         },
@@ -5957,10 +5957,10 @@
         "brand": "Bambu",
         "line": "PLA Silk Multi-Color",
         "group": "PLA",
-        "name": "Dawn Radiance (1kg, Spool)",
-        "sku": "3DPF402",
-        "productId": "35314",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF402#product-35314",
+        "name": "Blue Hawaii (Blue-Green) (1kg, Spool)",
+        "sku": "3DPF057",
+        "productId": "28804",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF057#product-28804",
         "price": 24.99,
         "inStock": false
       }
