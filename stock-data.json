@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-25T00:11:34+00:00",
-  "previousUpdatedAt": "2026-05-24T22:07:47+00:00",
+  "updatedAt": "2026-05-25T05:47:49+00:00",
+  "previousUpdatedAt": "2026-05-25T00:11:34+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -2990,7 +2990,7 @@
           "sku": "3DPM0243",
           "productId": "38471",
           "inStock": true,
-          "price": 19.99,
+          "price": 14.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0243#product-38471"
         },
         {
@@ -5114,7 +5114,7 @@
           "sku": "3DPM0318",
           "productId": "38512",
           "inStock": true,
-          "price": 17.99,
+          "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-metallic-pla-pro-metallic-3d-printer-filament.html?sku=3DPM0318#product-38512"
         },
         {
@@ -5952,19 +5952,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Silk Multi-Color",
-        "group": "PLA",
-        "name": "Blue Hawaii (Blue-Green) (1kg, Spool)",
-        "sku": "3DPF057",
-        "productId": "28804",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF057#product-28804",
-        "price": 24.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
