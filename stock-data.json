@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-27T04:45:47+00:00",
-  "previousUpdatedAt": "2026-05-26T23:20:56+00:00",
+  "updatedAt": "2026-05-27T08:48:03+00:00",
+  "previousUpdatedAt": "2026-05-27T04:45:47+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5144,7 +5144,7 @@
           "sku": "3DPM0330",
           "productId": "38524",
           "inStock": true,
-          "price": 22.99,
+          "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-metallic-pla-pro-metallic-3d-printer-filament.html?sku=3DPM0330#product-38524"
         }
       ]
@@ -5302,7 +5302,7 @@
           "sku": "3DPM0327",
           "productId": "38521",
           "inStock": true,
-          "price": 17.99,
+          "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0327#product-38521"
         },
         {
