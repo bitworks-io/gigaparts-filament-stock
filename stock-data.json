@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-28T17:01:26+00:00",
-  "previousUpdatedAt": "2026-05-28T12:42:50+00:00",
+  "updatedAt": "2026-05-28T19:44:17+00:00",
+  "previousUpdatedAt": "2026-05-28T17:01:26+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1901,7 +1901,7 @@
           "hex": "#000000",
           "sku": "3DPF164",
           "productId": "31855",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF164#product-31855"
         },
@@ -1961,7 +1961,7 @@
           "hex": "#000000",
           "sku": "3DPF270",
           "productId": "32625",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF270#product-32625"
         },
@@ -5882,7 +5882,30 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PETG HF",
+        "group": "PETG",
+        "name": "Black (1kg, Refill)",
+        "sku": "3DPF270",
+        "productId": "32625",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF270#product-32625",
+        "price": 19.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PETG HF",
+        "group": "PETG",
+        "name": "Black (1kg, Spool)",
+        "sku": "3DPF164",
+        "productId": "31855",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF164#product-31855",
+        "price": 22.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
