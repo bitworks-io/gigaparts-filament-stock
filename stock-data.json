@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-28T23:41:42+00:00",
-  "previousUpdatedAt": "2026-05-28T22:03:36+00:00",
+  "updatedAt": "2026-05-29T04:39:14+00:00",
+  "previousUpdatedAt": "2026-05-28T23:41:42+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1921,7 +1921,7 @@
           "hex": "#ffffff",
           "sku": "3DPF166",
           "productId": "31857",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF166#product-31857"
         },
@@ -5885,13 +5885,13 @@
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Wood",
-        "group": "PLA",
-        "name": "White Oak (1kg, Spool)",
-        "sku": "3DPF315",
-        "productId": "33084",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-wood-3d-printer-filament.html?sku=3DPF315#product-33084",
-        "price": 24.99,
+        "line": "PETG HF",
+        "group": "PETG",
+        "name": "White (1kg, Spool)",
+        "sku": "3DPF166",
+        "productId": "31857",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF166#product-31857",
+        "price": 22.99,
         "inStock": false
       }
     ]
