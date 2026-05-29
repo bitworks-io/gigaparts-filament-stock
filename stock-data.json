@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-29T04:39:14+00:00",
-  "previousUpdatedAt": "2026-05-28T23:41:42+00:00",
+  "updatedAt": "2026-05-29T08:50:18+00:00",
+  "previousUpdatedAt": "2026-05-29T04:39:14+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3564,7 +3564,7 @@
           "sku": "3DPM0166",
           "productId": "38450",
           "inStock": true,
-          "price": 12.99,
+          "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0166#product-38450"
         },
         {
@@ -4152,7 +4152,7 @@
           "sku": "3DPM0041",
           "productId": "38431",
           "inStock": true,
-          "price": 29.99,
+          "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DPM0041#product-38431"
         },
         {
@@ -5882,19 +5882,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG HF",
-        "group": "PETG",
-        "name": "White (1kg, Spool)",
-        "sku": "3DPF166",
-        "productId": "31857",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF166#product-31857",
-        "price": 22.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
