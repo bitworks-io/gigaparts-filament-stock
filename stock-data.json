@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-29T22:02:50+00:00",
-  "previousUpdatedAt": "2026-05-29T19:39:01+00:00",
+  "updatedAt": "2026-05-29T23:40:01+00:00",
+  "previousUpdatedAt": "2026-05-29T22:02:50+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5882,19 +5882,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "ABS",
-        "group": "ABS",
-        "name": "White (1kg, Spool)",
-        "sku": "3DPF113",
-        "productId": "28855",
-        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF113#product-28855",
-        "price": 22.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
