@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-29T16:52:56+00:00",
-  "previousUpdatedAt": "2026-05-29T12:26:04+00:00",
+  "updatedAt": "2026-05-29T19:39:01+00:00",
+  "previousUpdatedAt": "2026-05-29T16:52:56+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1105,7 +1105,7 @@
           "hex": "#ffffff",
           "sku": "3DPF079",
           "productId": "28826",
-          "inStock": true,
+          "inStock": false,
           "price": 44.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html?sku=3DPF079#product-28826"
         },
@@ -5882,7 +5882,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Aero",
+        "group": "PLA",
+        "name": "White (1kg, Spool)",
+        "sku": "3DPF079",
+        "productId": "28826",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html?sku=3DPF079#product-28826",
+        "price": 44.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
