@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-30T04:14:41+00:00",
-  "previousUpdatedAt": "2026-05-29T23:40:01+00:00",
+  "updatedAt": "2026-05-30T07:49:12+00:00",
+  "previousUpdatedAt": "2026-05-30T04:14:41+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3534,7 +3534,7 @@
           "sku": "3DPM0163",
           "productId": "38447",
           "inStock": true,
-          "price": 17.99,
+          "price": 12.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0163#product-38447"
         },
         {
@@ -4152,7 +4152,7 @@
           "sku": "3DPM0041",
           "productId": "38431",
           "inStock": true,
-          "price": 24.99,
+          "price": 29.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DPM0041#product-38431"
         },
         {
