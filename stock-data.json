@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-30T16:13:44+00:00",
-  "previousUpdatedAt": "2026-05-30T14:46:16+00:00",
+  "updatedAt": "2026-05-30T18:13:57+00:00",
+  "previousUpdatedAt": "2026-05-30T16:13:44+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -205,7 +205,7 @@
           "hex": "#2a4b91",
           "sku": "3DPF206",
           "productId": "32371",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF206#product-32371"
         },
@@ -1211,7 +1211,7 @@
           "hex": "#000000",
           "sku": "3DPF033",
           "productId": "28780",
-          "inStock": false,
+          "inStock": true,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF033#product-28780"
         },
@@ -2421,7 +2421,7 @@
           "hex": "#ffffff",
           "sku": "3DPF113",
           "productId": "28855",
-          "inStock": false,
+          "inStock": true,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF113#product-28855"
         },
@@ -5881,8 +5881,43 @@
     }
   ],
   "changes": {
-    "inStock": [],
-    "outOfStock": []
+    "inStock": [
+      {
+        "brand": "Bambu",
+        "line": "ABS",
+        "group": "ABS",
+        "name": "White (1kg, Spool)",
+        "sku": "3DPF113",
+        "productId": "28855",
+        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF113#product-28855",
+        "price": 22.99,
+        "inStock": true
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Matte",
+        "group": "PLA",
+        "name": "Charcoal (1kg, Spool)",
+        "sku": "3DPF033",
+        "productId": "28780",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF033#product-28780",
+        "price": 22.99,
+        "inStock": true
+      }
+    ],
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Blue (1kg, Refill)",
+        "sku": "3DPF206",
+        "productId": "32371",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF206#product-32371",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
