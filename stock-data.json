@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-30T20:16:09+00:00",
-  "previousUpdatedAt": "2026-05-30T18:13:57+00:00",
+  "updatedAt": "2026-05-30T22:11:20+00:00",
+  "previousUpdatedAt": "2026-05-30T20:16:09+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -455,7 +455,7 @@
           "hex": "#6f4e34",
           "sku": "3DPF358",
           "productId": "33818",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF358#product-33818"
         },
@@ -5887,10 +5887,10 @@
         "brand": "Bambu",
         "line": "PLA Basic",
         "group": "PLA",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF010",
-        "productId": "28757",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF010#product-28757",
+        "name": "Cocoa Brown (1kg, Spool)",
+        "sku": "3DPF358",
+        "productId": "33818",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF358#product-33818",
         "price": 22.99,
         "inStock": false
       }
