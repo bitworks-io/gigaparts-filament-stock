@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-31T16:21:31+00:00",
-  "previousUpdatedAt": "2026-05-31T14:08:29+00:00",
+  "updatedAt": "2026-05-31T18:14:56+00:00",
+  "previousUpdatedAt": "2026-05-31T16:21:31+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1057,7 +1057,7 @@
           "hex": "#f5b6cd",
           "sku": "3DPF422",
           "productId": "36446",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-translucent-3d-printer-filament.html?sku=3DPF422#product-36446"
         },
@@ -5882,7 +5882,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Translucent",
+        "group": "PLA",
+        "name": "Cherry Pink (Spool, 1kg)",
+        "sku": "3DPF422",
+        "productId": "36446",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-translucent-3d-printer-filament.html?sku=3DPF422#product-36446",
+        "price": 24.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
