@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-31T18:14:56+00:00",
-  "previousUpdatedAt": "2026-05-31T16:21:31+00:00",
+  "updatedAt": "2026-05-31T20:20:02+00:00",
+  "previousUpdatedAt": "2026-05-31T18:14:56+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -425,7 +425,7 @@
           "hex": "#00b1b7",
           "sku": "3DPF352",
           "productId": "33097",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF352#product-33097"
         },
@@ -5885,13 +5885,13 @@
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Translucent",
+        "line": "PLA Basic",
         "group": "PLA",
-        "name": "Cherry Pink (Spool, 1kg)",
-        "sku": "3DPF422",
-        "productId": "36446",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-translucent-3d-printer-filament.html?sku=3DPF422#product-36446",
-        "price": 24.99,
+        "name": "Turquoise (1kg, Refill)",
+        "sku": "3DPF352",
+        "productId": "33097",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF352#product-33097",
+        "price": 19.99,
         "inStock": false
       }
     ]
