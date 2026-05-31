@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-30T22:11:20+00:00",
-  "previousUpdatedAt": "2026-05-30T20:16:09+00:00",
+  "updatedAt": "2026-05-31T00:12:48+00:00",
+  "previousUpdatedAt": "2026-05-30T22:11:20+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -2461,7 +2461,7 @@
           "hex": "#789d4a",
           "sku": "3DPF248",
           "productId": "32417",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF248#product-32417"
         },
@@ -2501,7 +2501,7 @@
           "hex": "#e8102d",
           "sku": "3DPF250",
           "productId": "32723",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF250#product-32723"
         },
@@ -5885,13 +5885,24 @@
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Cocoa Brown (1kg, Spool)",
-        "sku": "3DPF358",
-        "productId": "33818",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF358#product-33818",
-        "price": 22.99,
+        "line": "ABS",
+        "group": "ABS",
+        "name": "Olive (1kg, Refill)",
+        "sku": "3DPF248",
+        "productId": "32417",
+        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF248#product-32417",
+        "price": 19.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "ABS",
+        "group": "ABS",
+        "name": "Red (1kg, Refill)",
+        "sku": "3DPF250",
+        "productId": "32723",
+        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF250#product-32723",
+        "price": 19.99,
         "inStock": false
       }
     ]
