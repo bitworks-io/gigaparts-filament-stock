@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-04T08:58:20+00:00",
-  "previousUpdatedAt": "2026-06-04T05:01:43+00:00",
+  "updatedAt": "2026-06-04T12:14:14+00:00",
+  "previousUpdatedAt": "2026-06-04T08:58:20+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6162,19 +6162,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG CF",
-        "group": "PETG",
-        "name": "Titan Gray (1kg, Spool)",
-        "sku": "3DPF169",
-        "productId": "28894",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html?sku=3DPF169#product-28894",
-        "price": 34.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
