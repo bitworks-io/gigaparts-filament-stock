@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-04T19:30:09+00:00",
-  "previousUpdatedAt": "2026-06-04T16:28:20+00:00",
+  "updatedAt": "2026-06-04T21:51:55+00:00",
+  "previousUpdatedAt": "2026-06-04T19:30:09+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6162,19 +6162,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "ASA",
-        "group": "ASA",
-        "name": "White (1kg, Spool)",
-        "sku": "",
-        "productId": "28864",
-        "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28864",
-        "price": 0,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
