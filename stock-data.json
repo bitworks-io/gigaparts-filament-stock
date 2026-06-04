@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-03T23:58:07+00:00",
-  "previousUpdatedAt": "2026-06-03T21:28:50+00:00",
+  "updatedAt": "2026-06-04T05:01:43+00:00",
+  "previousUpdatedAt": "2026-06-03T23:58:07+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6162,30 +6162,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Silk+",
-        "group": "PLA",
-        "name": "Champagne (1kg, Spool)",
-        "sku": "3DPF382",
-        "productId": "33838",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF382#product-33838",
-        "price": 22.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "TPU for AMS",
-        "group": "TPU",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF323",
-        "productId": "33037",
-        "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF323#product-33037",
-        "price": 38.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
