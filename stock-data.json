@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-05T20:54:59+00:00",
-  "previousUpdatedAt": "2026-06-05T19:06:10+00:00",
+  "updatedAt": "2026-06-05T22:22:32+00:00",
+  "previousUpdatedAt": "2026-06-05T20:54:59+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6161,30 +6161,7 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Bambu Green (1kg, Refill)",
-        "sku": "3DPF213",
-        "productId": "32372",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF213#product-32372",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Metal",
-        "group": "PLA",
-        "name": "Cobalt Blue Metallic (1kg, Spool)",
-        "sku": "3DPF043",
-        "productId": "28790",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-metal-3d-printer-filament.html?sku=3DPF043#product-28790",
-        "price": 24.99,
-        "inStock": true
-      }
-    ],
+    "inStock": [],
     "outOfStock": []
   },
   "errors": []
