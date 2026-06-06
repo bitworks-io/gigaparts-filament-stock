@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-06T00:17:58+00:00",
-  "previousUpdatedAt": "2026-06-05T22:22:32+00:00",
+  "updatedAt": "2026-06-06T05:03:47+00:00",
+  "previousUpdatedAt": "2026-06-06T00:17:58+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -815,7 +815,7 @@
           "hex": "#5c9748",
           "sku": "3DPF097",
           "productId": "28839",
-          "inStock": true,
+          "inStock": false,
           "price": 34.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html?sku=3DPF097#product-28839"
         },
@@ -6162,7 +6162,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA CF",
+        "group": "PLA",
+        "name": "Matcha Green (1kg, Spool)",
+        "sku": "3DPF097",
+        "productId": "28839",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html?sku=3DPF097#product-28839",
+        "price": 34.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
