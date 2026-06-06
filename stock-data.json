@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-06T16:17:26+00:00",
-  "previousUpdatedAt": "2026-06-06T14:51:57+00:00",
+  "updatedAt": "2026-06-06T20:19:43+00:00",
+  "previousUpdatedAt": "2026-06-06T16:17:26+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -911,7 +911,7 @@
           "hex": "",
           "sku": "3DPF054",
           "productId": "28801",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF054#product-28801"
         },
@@ -2565,7 +2565,7 @@
           "hex": "#f4ed2a",
           "sku": "3DPF327",
           "productId": "33072",
-          "inStock": true,
+          "inStock": false,
           "price": 38.99,
           "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF327#product-33072"
         },
@@ -3593,7 +3593,7 @@
           "hex": "#2f2e30",
           "sku": "3DPM0159",
           "productId": "38443",
-          "inStock": true,
+          "inStock": false,
           "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0159#product-38443"
         },
@@ -5562,7 +5562,41 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Silk Multi-Color",
+        "group": "PLA",
+        "name": "Gilded Rose (Pink-Gold) (1kg, Spool)",
+        "sku": "3DPF054",
+        "productId": "28801",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF054#product-28801",
+        "price": 24.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "TPU for AMS",
+        "group": "TPU",
+        "name": "Yellow (1kg, Spool)",
+        "sku": "3DPF327",
+        "productId": "33072",
+        "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF327#product-33072",
+        "price": 38.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Matte PLA",
+        "group": "PLA",
+        "name": "Charcoal Black (Refill, 1kg)",
+        "sku": "3DPM0159",
+        "productId": "38443",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0159#product-38443",
+        "price": 17.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
