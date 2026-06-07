@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-07T20:22:45+00:00",
-  "previousUpdatedAt": "2026-06-07T18:17:33+00:00",
+  "updatedAt": "2026-06-07T22:15:46+00:00",
+  "previousUpdatedAt": "2026-06-07T20:22:45+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -931,7 +931,7 @@
           "hex": "",
           "sku": "3DPF056",
           "productId": "28803",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF056#product-28803"
         },
@@ -971,7 +971,7 @@
           "hex": "",
           "sku": "3DPF403",
           "productId": "35315",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF403#product-35315"
         },
@@ -5562,7 +5562,30 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Silk Multi-Color",
+        "group": "PLA",
+        "name": "Aurora Purple (1kg, Spool)",
+        "sku": "3DPF403",
+        "productId": "35315",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF403#product-35315",
+        "price": 24.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Silk Multi-Color",
+        "group": "PLA",
+        "name": "Neon City (Blue-Magenta) (1kg, Spool)",
+        "sku": "3DPF056",
+        "productId": "28803",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF056#product-28803",
+        "price": 24.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
