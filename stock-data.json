@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-07T00:16:00+00:00",
-  "previousUpdatedAt": "2026-06-06T22:14:46+00:00",
+  "updatedAt": "2026-06-07T05:50:06+00:00",
+  "previousUpdatedAt": "2026-06-07T00:16:00+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5562,19 +5562,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Ivory White (1kg, Spool)",
-        "sku": "3DPF040",
-        "productId": "28787",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF040#product-28787",
-        "price": 22.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
