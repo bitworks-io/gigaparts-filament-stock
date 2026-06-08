@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-08T16:15:39+00:00",
-  "previousUpdatedAt": "2026-06-08T11:19:40+00:00",
+  "updatedAt": "2026-06-08T19:33:55+00:00",
+  "previousUpdatedAt": "2026-06-08T16:15:39+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -855,7 +855,7 @@
           "hex": "#4d5054",
           "sku": "3DPF240",
           "productId": "33085",
-          "inStock": true,
+          "inStock": false,
           "price": 31.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html?sku=3DPF240#product-33085"
         },
@@ -971,7 +971,7 @@
           "hex": "",
           "sku": "3DPF403",
           "productId": "35315",
-          "inStock": false,
+          "inStock": true,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF403#product-35315"
         },
@@ -5561,8 +5561,32 @@
     }
   ],
   "changes": {
-    "inStock": [],
-    "outOfStock": []
+    "inStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Silk Multi-Color",
+        "group": "PLA",
+        "name": "Aurora Purple (1kg, Spool)",
+        "sku": "3DPF403",
+        "productId": "35315",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF403#product-35315",
+        "price": 24.99,
+        "inStock": true
+      }
+    ],
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA CF",
+        "group": "PLA",
+        "name": "Lava Gray (1kg, Refill)",
+        "sku": "3DPF240",
+        "productId": "33085",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html?sku=3DPF240#product-33085",
+        "price": 31.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
