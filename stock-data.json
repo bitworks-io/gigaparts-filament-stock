@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-09T12:14:19+00:00",
-  "previousUpdatedAt": "2026-06-09T08:39:14+00:00",
+  "updatedAt": "2026-06-09T16:13:00+00:00",
+  "previousUpdatedAt": "2026-06-09T12:14:19+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -508,84 +508,314 @@
       "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html",
       "items": [
         {
-          "name": "4143 (1kg, Spool)",
-          "color": "4143",
+          "name": "4155 (1kg, Refill)",
+          "color": "4155",
           "hex": "",
           "sku": "",
-          "productId": "33817",
-          "inStock": false,
+          "productId": "32102",
+          "inStock": true,
           "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-33817"
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-32102"
         },
         {
-          "name": "4144 (1kg, Spool)",
-          "color": "4144",
+          "name": "4156 (1kg, Refill)",
+          "color": "4156",
           "hex": "",
           "sku": "",
-          "productId": "33820",
-          "inStock": false,
+          "productId": "32413",
+          "inStock": true,
           "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-33820"
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-32413"
         },
         {
-          "name": "4145 (1kg, Spool)",
-          "color": "4145",
+          "name": "4157 (1kg, Refill)",
+          "color": "4157",
           "hex": "",
           "sku": "",
-          "productId": "33819",
-          "inStock": false,
+          "productId": "32722",
+          "inStock": true,
           "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-33819"
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-32722"
         },
         {
-          "name": "4139 (1kg, Spool)",
-          "color": "4139",
+          "name": "4158 (1kg, Refill)",
+          "color": "4158",
           "hex": "",
           "sku": "",
-          "productId": "28758",
-          "inStock": false,
+          "productId": "32728",
+          "inStock": true,
           "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-28758"
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-32728"
         },
         {
-          "name": "4140 (1kg, Spool)",
-          "color": "4140",
+          "name": "4159 (1kg, Refill)",
+          "color": "4159",
           "hex": "",
           "sku": "",
-          "productId": "28759",
-          "inStock": false,
+          "productId": "32733",
+          "inStock": true,
           "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-28759"
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-32733"
         },
         {
-          "name": "4141 (1kg, Spool)",
-          "color": "4141",
+          "name": "4160 (1kg, Refill)",
+          "color": "4160",
           "hex": "",
           "sku": "",
-          "productId": "28760",
-          "inStock": false,
+          "productId": "32642",
+          "inStock": true,
           "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-28760"
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-32642"
         },
         {
-          "name": "4434 (1kg, Spool)",
-          "color": "4434",
+          "name": "4161 (1kg, Refill)",
+          "color": "4161",
           "hex": "",
           "sku": "",
-          "productId": "28761",
-          "inStock": false,
+          "productId": "32808",
+          "inStock": true,
           "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-28761"
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-32808"
         },
         {
-          "name": "4435 (1kg, Spool)",
-          "color": "4435",
+          "name": "4162 (1kg, Refill)",
+          "color": "4162",
           "hex": "",
           "sku": "",
-          "productId": "28762",
+          "productId": "33041",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-33041"
+        },
+        {
+          "name": "4163 (1kg, Refill)",
+          "color": "4163",
+          "hex": "",
+          "sku": "",
+          "productId": "32414",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-32414"
+        },
+        {
+          "name": "4164 (1kg, Refill)",
+          "color": "4164",
+          "hex": "",
+          "sku": "",
+          "productId": "33040",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-33040"
+        },
+        {
+          "name": "4165 (1kg, Refill)",
+          "color": "4165",
+          "hex": "",
+          "sku": "",
+          "productId": "32726",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-32726"
+        },
+        {
+          "name": "4166 (1kg, Refill)",
+          "color": "4166",
+          "hex": "",
+          "sku": "",
+          "productId": "32732",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-32732"
+        },
+        {
+          "name": "4167 (1kg, Refill)",
+          "color": "4167",
+          "hex": "",
+          "sku": "",
+          "productId": "32731",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-32731"
+        },
+        {
+          "name": "4168 (1kg, Refill)",
+          "color": "4168",
+          "hex": "",
+          "sku": "",
+          "productId": "32730",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-32730"
+        },
+        {
+          "name": "4169 (1kg, Refill)",
+          "color": "4169",
+          "hex": "",
+          "sku": "",
+          "productId": "32729",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-32729"
+        },
+        {
+          "name": "4170 (1kg, Refill)",
+          "color": "4170",
+          "hex": "",
+          "sku": "",
+          "productId": "32641",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-32641"
+        },
+        {
+          "name": "4171 (1kg, Refill)",
+          "color": "4171",
+          "hex": "",
+          "sku": "",
+          "productId": "33039",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-33039"
+        },
+        {
+          "name": "4172 (1kg, Refill)",
+          "color": "4172",
+          "hex": "",
+          "sku": "",
+          "productId": "33831",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-33831"
+        },
+        {
+          "name": "4173 (1kg, Refill)",
+          "color": "4173",
+          "hex": "",
+          "sku": "",
+          "productId": "33829",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-33829"
+        },
+        {
+          "name": "4174 (1kg, Refill)",
+          "color": "4174",
+          "hex": "",
+          "sku": "",
+          "productId": "33825",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-33825"
+        },
+        {
+          "name": "4175 (1kg, Refill)",
+          "color": "4175",
+          "hex": "",
+          "sku": "",
+          "productId": "33828",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-33828"
+        },
+        {
+          "name": "4176 (1kg, Refill)",
+          "color": "4176",
+          "hex": "",
+          "sku": "",
+          "productId": "33827",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-33827"
+        },
+        {
+          "name": "4177 (1kg, Refill)",
+          "color": "4177",
+          "hex": "",
+          "sku": "",
+          "productId": "33832",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-33832"
+        },
+        {
+          "name": "4178 (1kg, Refill)",
+          "color": "4178",
+          "hex": "",
+          "sku": "",
+          "productId": "33830",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-33830"
+        },
+        {
+          "name": "4179 (1kg, Refill)",
+          "color": "4179",
+          "hex": "",
+          "sku": "",
+          "productId": "33826",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-33826"
+        },
+        {
+          "name": "4156 (1kg, Spool)",
+          "color": "4156",
+          "hex": "",
+          "sku": "",
+          "productId": "28773",
           "inStock": false,
           "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-28762"
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-28773"
+        },
+        {
+          "name": "4157 (1kg, Spool)",
+          "color": "4157",
+          "hex": "",
+          "sku": "",
+          "productId": "28774",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-28774"
+        },
+        {
+          "name": "4160 (1kg, Spool)",
+          "color": "4160",
+          "hex": "",
+          "sku": "",
+          "productId": "28777",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-28777"
+        },
+        {
+          "name": "4163 (1kg, Spool)",
+          "color": "4163",
+          "hex": "",
+          "sku": "",
+          "productId": "28780",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-28780"
+        },
+        {
+          "name": "4168 (1kg, Spool)",
+          "color": "4168",
+          "hex": "",
+          "sku": "",
+          "productId": "28785",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-28785"
+        },
+        {
+          "name": "4170 (1kg, Spool)",
+          "color": "4170",
+          "hex": "",
+          "sku": "",
+          "productId": "28787",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html#product-28787"
         }
       ]
     },
@@ -2354,74 +2584,14 @@
       "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html",
       "items": [
         {
-          "name": "Black (1kg, Refill)",
-          "color": "Black",
-          "hex": "#000000",
-          "sku": "",
-          "productId": "33102",
-          "inStock": false,
-          "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html#product-33102"
-        },
-        {
-          "name": "4104 (1kg, Spool)",
-          "color": "4104",
+          "name": "Default",
+          "color": "",
           "hex": "",
-          "sku": "",
-          "productId": "28893",
+          "sku": "3DP-PETG-CF",
+          "productId": "35290",
           "inStock": false,
-          "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html#product-28893"
-        },
-        {
-          "name": "4105 (1kg, Spool)",
-          "color": "4105",
-          "hex": "",
-          "sku": "",
-          "productId": "28894",
-          "inStock": false,
-          "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html#product-28894"
-        },
-        {
-          "name": "4106 (1kg, Spool)",
-          "color": "4106",
-          "hex": "",
-          "sku": "",
-          "productId": "28895",
-          "inStock": false,
-          "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html#product-28895"
-        },
-        {
-          "name": "Black (1kg, Spool)",
-          "color": "Black",
-          "hex": "#000000",
-          "sku": "",
-          "productId": "28896",
-          "inStock": false,
-          "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html#product-28896"
-        },
-        {
-          "name": "4107 (1kg, Spool)",
-          "color": "4107",
-          "hex": "",
-          "sku": "",
-          "productId": "28897",
-          "inStock": false,
-          "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html#product-28897"
-        },
-        {
-          "name": "4108 (1kg, Spool)",
-          "color": "4108",
-          "hex": "",
-          "sku": "",
-          "productId": "28898",
-          "inStock": false,
-          "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html#product-28898"
+          "price": 0.0,
+          "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html?sku=3DP-PETG-CF#product-35290"
         }
       ]
     },
@@ -2912,64 +3082,14 @@
       "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html",
       "items": [
         {
-          "name": "Blue (1kg, Spool)",
-          "color": "Blue",
-          "hex": "#2a4b91",
-          "sku": "",
-          "productId": "28859",
+          "name": "Default",
+          "color": "",
+          "hex": "",
+          "sku": "3DP-ASA",
+          "productId": "35283",
           "inStock": false,
-          "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28859"
-        },
-        {
-          "name": "Gray (1kg, Spool)",
-          "color": "Gray",
-          "hex": "#878787",
-          "sku": "",
-          "productId": "28860",
-          "inStock": false,
-          "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28860"
-        },
-        {
-          "name": "Green (1kg, Spool)",
-          "color": "Green",
-          "hex": "#0b8f42",
-          "sku": "",
-          "productId": "28861",
-          "inStock": false,
-          "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28861"
-        },
-        {
-          "name": "Black (1kg, Spool)",
-          "color": "Black",
-          "hex": "#000000",
-          "sku": "",
-          "productId": "28862",
-          "inStock": false,
-          "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28862"
-        },
-        {
-          "name": "Red (1kg, Spool)",
-          "color": "Red",
-          "hex": "#e8102d",
-          "sku": "",
-          "productId": "28863",
-          "inStock": false,
-          "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28863"
-        },
-        {
-          "name": "White (1kg, Spool)",
-          "color": "White",
-          "hex": "#ffffff",
-          "sku": "",
-          "productId": "28864",
-          "inStock": false,
-          "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28864"
+          "price": 0.0,
+          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html?sku=3DP-ASA#product-35283"
         }
       ]
     },
