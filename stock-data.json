@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-09T19:28:24+00:00",
-  "previousUpdatedAt": "2026-06-09T16:13:00+00:00",
+  "updatedAt": "2026-06-09T21:57:59+00:00",
+  "previousUpdatedAt": "2026-06-09T19:28:24+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1679,7 +1679,7 @@
           "hex": "#565656",
           "sku": "3DPF373",
           "productId": "33845",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF373#product-33845"
         },
@@ -2852,64 +2852,94 @@
       "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html",
       "items": [
         {
-          "name": "Blue (1kg, Spool)",
-          "color": "Blue",
-          "hex": "#2a4b91",
+          "name": "4146 (1kg, Refill)",
+          "color": "4146",
+          "hex": "",
           "sku": "",
-          "productId": "28859",
+          "productId": "33085",
           "inStock": false,
           "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28859"
+          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-33085"
         },
         {
-          "name": "Gray (1kg, Spool)",
-          "color": "Gray",
-          "hex": "#878787",
+          "name": "Black (1kg, Refill)",
+          "color": "Black",
+          "hex": "#000000",
           "sku": "",
-          "productId": "28860",
+          "productId": "33098",
           "inStock": false,
           "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28860"
+          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-33098"
         },
         {
-          "name": "Green (1kg, Spool)",
-          "color": "Green",
-          "hex": "#0b8f42",
+          "name": "4147 (1kg, Spool)",
+          "color": "4147",
+          "hex": "",
           "sku": "",
-          "productId": "28861",
+          "productId": "28836",
           "inStock": false,
           "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28861"
+          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28836"
+        },
+        {
+          "name": "4148 (1kg, Spool)",
+          "color": "4148",
+          "hex": "",
+          "sku": "",
+          "productId": "28837",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28837"
+        },
+        {
+          "name": "4146 (1kg, Spool)",
+          "color": "4146",
+          "hex": "",
+          "sku": "",
+          "productId": "28838",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28838"
+        },
+        {
+          "name": "4149 (1kg, Spool)",
+          "color": "4149",
+          "hex": "",
+          "sku": "",
+          "productId": "28839",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28839"
         },
         {
           "name": "Black (1kg, Spool)",
           "color": "Black",
           "hex": "#000000",
           "sku": "",
-          "productId": "28862",
+          "productId": "28840",
           "inStock": false,
           "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28862"
+          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28840"
         },
         {
-          "name": "Red (1kg, Spool)",
-          "color": "Red",
-          "hex": "#e8102d",
+          "name": "4150 (1kg, Spool)",
+          "color": "4150",
+          "hex": "",
           "sku": "",
-          "productId": "28863",
-          "inStock": false,
+          "productId": "28841",
+          "inStock": true,
           "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28863"
+          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28841"
         },
         {
-          "name": "White (1kg, Spool)",
-          "color": "White",
-          "hex": "#ffffff",
+          "name": "4151 (1kg, Spool)",
+          "color": "4151",
+          "hex": "",
           "sku": "",
-          "productId": "28864",
-          "inStock": false,
+          "productId": "28842",
+          "inStock": true,
           "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28864"
+          "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html#product-28842"
         }
       ]
     },
@@ -5501,42 +5531,20 @@
     }
   ],
   "changes": {
-    "inStock": [
+    "inStock": [],
+    "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PETG HF",
-        "group": "PETG",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF164",
-        "productId": "31855",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF164#product-31855",
-        "price": 22.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
+        "line": "PLA Silk+",
         "group": "PLA",
-        "name": "Blue (1kg, Spool)",
-        "sku": "3DPF004",
-        "productId": "28751",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF004#product-28751",
+        "name": "Titan Gray (1kg, Spool)",
+        "sku": "3DPF373",
+        "productId": "33845",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF373#product-33845",
         "price": 22.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Mandarin Orange (1kg, Spool)",
-        "sku": "3DPF026",
-        "productId": "28773",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF026#product-28773",
-        "price": 22.99,
-        "inStock": true
+        "inStock": false
       }
-    ],
-    "outOfStock": []
+    ]
   },
   "errors": []
 }
