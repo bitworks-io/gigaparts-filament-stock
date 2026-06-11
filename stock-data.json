@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-11T19:43:47+00:00",
-  "previousUpdatedAt": "2026-06-11T16:19:38+00:00",
+  "updatedAt": "2026-06-11T22:11:58+00:00",
+  "previousUpdatedAt": "2026-06-11T19:43:47+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1885,7 +1885,7 @@
           "hex": "#000000",
           "sku": "3DPF469",
           "productId": "39452",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF469#product-39452"
         },
@@ -5631,29 +5631,8 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "ASA",
-        "group": "ASA",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF120",
-        "productId": "28862",
-        "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html?sku=3DPF120#product-28862",
-        "price": 29.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PETG Basic",
-        "group": "PETG",
-        "name": "Black (1kg, Refill)",
-        "sku": "3DPF470",
-        "productId": "39453",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF470#product-39453",
-        "price": 19.99,
-        "inStock": true
-      },
+    "inStock": [],
+    "outOfStock": [
       {
         "brand": "Bambu",
         "line": "PETG Basic",
@@ -5663,195 +5642,6 @@
         "productId": "39452",
         "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF469#product-39452",
         "price": 22.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PETG Basic",
-        "group": "PETG",
-        "name": "Gray (1kg, Spool)",
-        "sku": "3DPF467",
-        "productId": "39450",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF467#product-39450",
-        "price": 22.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PETG Basic",
-        "group": "PETG",
-        "name": "Red (1kg, Refill)",
-        "sku": "3DPF472",
-        "productId": "39455",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF472#product-39455",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PETG Basic",
-        "group": "PETG",
-        "name": "Red (1kg, Spool)",
-        "sku": "3DPF471",
-        "productId": "39454",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF471#product-39454",
-        "price": 22.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PETG Basic",
-        "group": "PETG",
-        "name": "White (1kg, Refill)",
-        "sku": "3DPF474",
-        "productId": "39457",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF474#product-39457",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PETG Basic",
-        "group": "PETG",
-        "name": "White (1kg, Spool)",
-        "sku": "3DPF473",
-        "productId": "39456",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF473#product-39456",
-        "price": 22.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PETG Basic",
-        "group": "PETG",
-        "name": "Yellow (1kg, Spool)",
-        "sku": "3DPF475",
-        "productId": "39458",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF475#product-39458",
-        "price": 22.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Cocoa Brown (1kg, Spool)",
-        "sku": "3DPF358",
-        "productId": "33818",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF358#product-33818",
-        "price": 22.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Silk Multi-Color",
-        "group": "PLA",
-        "name": "Aurora Purple (1kg, Spool)",
-        "sku": "3DPF403",
-        "productId": "35315",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF403#product-35315",
-        "price": 24.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Silk Multi-Color",
-        "group": "PLA",
-        "name": "South Beach (1kg, Spool)",
-        "sku": "3DPF404",
-        "productId": "35316",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF404#product-35316",
-        "price": 24.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Tough+",
-        "group": "PLA",
-        "name": "Black (Refill, 1kg)",
-        "sku": "3DPF464",
-        "productId": "39484",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF464#product-39484",
-        "price": 20.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "TPU 85A / TPU 90A",
-        "group": "TPU",
-        "name": "Cocoa Brown (TPU 90A, 1kg, Spool)",
-        "sku": "3DPF450",
-        "productId": "39481",
-        "url": "https://www.gigaparts.com/bambu-lab-tpu-90a-85a-3d-printer-filament.html?sku=3DPF450#product-39481",
-        "price": 41.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "TPU 85A / TPU 90A",
-        "group": "TPU",
-        "name": "Crystal Blue (TPU 90A, 1kg, Spool)",
-        "sku": "3DPF448",
-        "productId": "39480",
-        "url": "https://www.gigaparts.com/bambu-lab-tpu-90a-85a-3d-printer-filament.html?sku=3DPF448#product-39480",
-        "price": 41.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "TPU 85A / TPU 90A",
-        "group": "TPU",
-        "name": "Flesh (TPU 85A, 1kg, Spool)",
-        "sku": "3DPF453",
-        "productId": "39478",
-        "url": "https://www.gigaparts.com/bambu-lab-tpu-90a-85a-3d-printer-filament.html?sku=3DPF453#product-39478",
-        "price": 44.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "TPU 85A / TPU 90A",
-        "group": "TPU",
-        "name": "Grape Jelly (TPU 90A, 1kg, Spool)",
-        "sku": "3DPF451",
-        "productId": "39482",
-        "url": "https://www.gigaparts.com/bambu-lab-tpu-90a-85a-3d-printer-filament.html?sku=3DPF451#product-39482",
-        "price": 41.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "TPU 85A / TPU 90A",
-        "group": "TPU",
-        "name": "Lime Green (TPU 85A, 1kg, Spool)",
-        "sku": "3DPF452",
-        "productId": "39477",
-        "url": "https://www.gigaparts.com/bambu-lab-tpu-90a-85a-3d-printer-filament.html?sku=3DPF452#product-39477",
-        "price": 44.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "TPU 85A / TPU 90A",
-        "group": "TPU",
-        "name": "Quicksilver (TPU 90A, 1kg, Spool)",
-        "sku": "3DPF449",
-        "productId": "39479",
-        "url": "https://www.gigaparts.com/bambu-lab-tpu-90a-85a-3d-printer-filament.html?sku=3DPF449#product-39479",
-        "price": 41.99,
-        "inStock": true
-      }
-    ],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Basic PLA",
-        "group": "PLA",
-        "name": "Dark Grey (Spool, 1kg)",
-        "sku": "3DPM0265",
-        "productId": "38493",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0265#product-38493",
-        "price": 19.99,
         "inStock": false
       }
     ]
