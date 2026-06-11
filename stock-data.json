@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-11T01:35:37+00:00",
-  "previousUpdatedAt": "2026-06-10T22:18:51+00:00",
+  "updatedAt": "2026-06-11T07:01:53+00:00",
+  "previousUpdatedAt": "2026-06-11T01:35:37+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -641,7 +641,7 @@
           "hex": "#f4ed2a",
           "sku": "3DPF086",
           "productId": "28832",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-glow-3d-printer-filament.html?sku=3DPF086#product-28832"
         }
@@ -971,7 +971,7 @@
           "hex": "",
           "sku": "3DPF403",
           "productId": "35315",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF403#product-35315"
         },
@@ -5565,24 +5565,24 @@
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PETG HF",
-        "group": "PETG",
-        "name": "Red (1kg, Spool)",
-        "sku": "3DPF165",
-        "productId": "31856",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF165#product-31856",
-        "price": 22.99,
+        "line": "PLA Glow",
+        "group": "PLA",
+        "name": "Yellow (1kg, Spool)",
+        "sku": "3DPF086",
+        "productId": "28832",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-glow-3d-printer-filament.html?sku=3DPF086#product-28832",
+        "price": 24.99,
         "inStock": false
       },
       {
         "brand": "Bambu",
-        "line": "PLA Aero",
+        "line": "PLA Silk Multi-Color",
         "group": "PLA",
-        "name": "Gray (1kg, Spool)",
-        "sku": "",
-        "productId": "33816",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html#product-33816",
-        "price": 0,
+        "name": "Aurora Purple (1kg, Spool)",
+        "sku": "3DPF403",
+        "productId": "35315",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF403#product-35315",
+        "price": 24.99,
         "inStock": false
       }
     ]
