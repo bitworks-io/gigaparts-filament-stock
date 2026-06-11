@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-10T22:18:51+00:00",
-  "previousUpdatedAt": "2026-06-10T19:44:19+00:00",
+  "updatedAt": "2026-06-11T01:35:37+00:00",
+  "previousUpdatedAt": "2026-06-10T22:18:51+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1173,21 +1173,21 @@
           "name": "White (1kg, Spool)",
           "color": "White",
           "hex": "#ffffff",
-          "sku": "3DPF079",
+          "sku": "",
           "productId": "28826",
           "inStock": false,
-          "price": 44.99,
-          "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html?sku=3DPF079#product-28826"
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html#product-28826"
         },
         {
           "name": "Gray (1kg, Spool)",
           "color": "Gray",
           "hex": "#878787",
-          "sku": "3DPF384",
+          "sku": "",
           "productId": "33816",
-          "inStock": true,
-          "price": 44.99,
-          "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html?sku=3DPF384#product-33816"
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html#product-33816"
         }
       ]
     },
@@ -2121,7 +2121,7 @@
           "hex": "#e8102d",
           "sku": "3DPF165",
           "productId": "31856",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF165#product-31856"
         },
@@ -5561,51 +5561,28 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG Basic",
-        "group": "PETG",
-        "name": "Yellow (1kg, Refill)",
-        "sku": "3DPF458",
-        "productId": "39449",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF458#product-39449",
-        "price": 19.99,
-        "inStock": true
-      },
+    "inStock": [],
+    "outOfStock": [
       {
         "brand": "Bambu",
         "line": "PETG HF",
         "group": "PETG",
-        "name": "Dark Gray (1kg, Spool)",
-        "sku": "3DPF459",
-        "productId": "39444",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF459#product-39444",
+        "name": "Red (1kg, Spool)",
+        "sku": "3DPF165",
+        "productId": "31856",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF165#product-31856",
         "price": 22.99,
-        "inStock": true
+        "inStock": false
       },
       {
         "brand": "Bambu",
-        "line": "TPU for AMS",
-        "group": "TPU",
-        "name": "Yellow (1kg, Spool)",
-        "sku": "3DPF327",
-        "productId": "33072",
-        "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF327#product-33072",
-        "price": 38.99,
-        "inStock": true
-      }
-    ],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "PETG",
-        "group": "PETG",
-        "name": "Magenta (Spool, 1kg)",
-        "sku": "3DPM0398",
-        "productId": "38545",
-        "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0398#product-38545",
-        "price": 19.99,
+        "line": "PLA Aero",
+        "group": "PLA",
+        "name": "Gray (1kg, Spool)",
+        "sku": "",
+        "productId": "33816",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html#product-33816",
+        "price": 0,
         "inStock": false
       }
     ]
