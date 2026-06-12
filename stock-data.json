@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-11T22:11:58+00:00",
-  "previousUpdatedAt": "2026-06-11T19:43:47+00:00",
+  "updatedAt": "2026-06-12T01:37:03+00:00",
+  "previousUpdatedAt": "2026-06-11T22:11:58+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5632,19 +5632,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG Basic",
-        "group": "PETG",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF469",
-        "productId": "39452",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF469#product-39452",
-        "price": 22.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
