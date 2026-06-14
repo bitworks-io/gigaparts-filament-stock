@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-14T00:19:05+00:00",
-  "previousUpdatedAt": "2026-06-13T22:16:29+00:00",
+  "updatedAt": "2026-06-14T06:03:38+00:00",
+  "previousUpdatedAt": "2026-06-14T00:19:05+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5632,19 +5632,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
-        "group": "PLA",
-        "name": "Army Blue (Refill, 1kg)",
-        "sku": "3DPM0173",
-        "productId": "38457",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0173#product-38457",
-        "price": 17.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
