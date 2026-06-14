@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-14T19:54:17+00:00",
-  "previousUpdatedAt": "2026-06-14T17:41:47+00:00",
+  "updatedAt": "2026-06-14T21:36:26+00:00",
+  "previousUpdatedAt": "2026-06-14T19:54:17+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5632,30 +5632,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "ABS",
-        "group": "ABS",
-        "name": "White (1kg, Spool)",
-        "sku": "3DPF113",
-        "productId": "28855",
-        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF113#product-28855",
-        "price": 22.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "PETG",
-        "group": "PETG",
-        "name": "Green (Spool, 1kg)",
-        "sku": "3DPM0392",
-        "productId": "38539",
-        "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0392#product-38539",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
