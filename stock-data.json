@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-15T18:00:46+00:00",
-  "previousUpdatedAt": "2026-06-15T12:39:26+00:00",
+  "updatedAt": "2026-06-15T21:17:48+00:00",
+  "previousUpdatedAt": "2026-06-15T18:00:46+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4261,7 +4261,7 @@
           "hex": "",
           "sku": "3DPM0021",
           "productId": "38424",
-          "inStock": false,
+          "inStock": true,
           "price": 29.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DPM0021#product-38424"
         },
@@ -4321,7 +4321,7 @@
           "hex": "",
           "sku": "3DPM0042",
           "productId": "38432",
-          "inStock": false,
+          "inStock": true,
           "price": 29.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DPM0042#product-38432"
         },
@@ -4481,7 +4481,7 @@
           "hex": "",
           "sku": "3DPM0208",
           "productId": "38464",
-          "inStock": true,
+          "inStock": false,
           "price": 34.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-starlight-pla-3d-printer-filament.html?sku=3DPM0208#product-38464"
         },
@@ -4911,7 +4911,7 @@
           "hex": "#f67505",
           "sku": "3DPM0321",
           "productId": "38515",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0321#product-38515"
         },
@@ -5039,7 +5039,7 @@
           "hex": "#e72e1d",
           "sku": "3DPM0385",
           "productId": "38532",
-          "inStock": false,
+          "inStock": true,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0385#product-38532"
         },
@@ -5626,98 +5626,10 @@
         "brand": "Polymaker",
         "line": "PETG",
         "group": "PETG",
-        "name": "Dark Blue (Spool, 1kg)",
-        "sku": "3DPM0395",
-        "productId": "38542",
-        "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0395#product-38542",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Polymaker",
-        "line": "PETG",
-        "group": "PETG",
-        "name": "Dark Green (Spool, 1kg)",
-        "sku": "3DPM0397",
-        "productId": "38544",
-        "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0397#product-38544",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Polymaker",
-        "line": "PETG",
-        "group": "PETG",
-        "name": "Dark Grey (Spool, 1kg)",
-        "sku": "3DPM0389",
-        "productId": "38536",
-        "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0389#product-38536",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Polymaker",
-        "line": "PETG",
-        "group": "PETG",
-        "name": "Dark Purple (Spool, 1kg)",
-        "sku": "3DPM0400",
-        "productId": "38547",
-        "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0400#product-38547",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Polymaker",
-        "line": "PETG",
-        "group": "PETG",
-        "name": "Electric Blue (Spool, 1kg)",
-        "sku": "3DPM0393",
-        "productId": "38540",
-        "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0393#product-38540",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Polymaker",
-        "line": "PETG",
-        "group": "PETG",
-        "name": "Magenta (Spool, 1kg)",
-        "sku": "3DPM0398",
-        "productId": "38545",
-        "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0398#product-38545",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Polymaker",
-        "line": "PETG",
-        "group": "PETG",
-        "name": "Pink (Spool, 1kg)",
-        "sku": "3DPM0399",
-        "productId": "38546",
-        "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0399#product-38546",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Polymaker",
-        "line": "PETG",
-        "group": "PETG",
-        "name": "Purple (Spool, 1kg)",
-        "sku": "3DPM0394",
-        "productId": "38541",
-        "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0394#product-38541",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Polymaker",
-        "line": "PETG",
-        "group": "PETG",
-        "name": "Silver (Spool, 1kg)",
-        "sku": "3DPM0391",
-        "productId": "38538",
-        "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0391#product-38538",
+        "name": "Red (Spool, 1kg)",
+        "sku": "3DPM0385",
+        "productId": "38532",
+        "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0385#product-38532",
         "price": 19.99,
         "inStock": true
       },
@@ -5725,15 +5637,49 @@
         "brand": "Polymaker",
         "line": "Panchroma Starlight PLA",
         "group": "PLA",
-        "name": "Aurora (Spool, 1kg)",
-        "sku": "3DPM0038",
-        "productId": "38428",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DPM0038#product-38428",
+        "name": "Neptune (Spool, 1kg)",
+        "sku": "3DPM0021",
+        "productId": "38424",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DPM0021#product-38424",
+        "price": 29.99,
+        "inStock": true
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Starlight PLA",
+        "group": "PLA",
+        "name": "Pulsar (Spool, 1kg)",
+        "sku": "3DPM0042",
+        "productId": "38432",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DPM0042#product-38432",
         "price": 29.99,
         "inStock": true
       }
     ],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Gradient Starlight PLA",
+        "group": "PLA",
+        "name": "Purple-Red (Spool, 1kg)",
+        "sku": "3DPM0208",
+        "productId": "38464",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-starlight-pla-3d-printer-filament.html?sku=3DPM0208#product-38464",
+        "price": 34.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "PolyLite PLA Pro",
+        "group": "PLA",
+        "name": "Orange (Spool, 1kg)",
+        "sku": "3DPM0321",
+        "productId": "38515",
+        "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0321#product-38515",
+        "price": 22.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
