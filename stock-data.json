@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-16T21:16:33+00:00",
-  "previousUpdatedAt": "2026-06-16T17:19:03+00:00",
+  "updatedAt": "2026-06-16T23:46:05+00:00",
+  "previousUpdatedAt": "2026-06-16T21:16:33+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1127,7 +1127,7 @@
           "hex": "#f5b6cd",
           "sku": "3DPF422",
           "productId": "36446",
-          "inStock": false,
+          "inStock": true,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-translucent-3d-printer-filament.html?sku=3DPF422#product-36446"
         },
@@ -4921,7 +4921,7 @@
           "hex": "",
           "sku": "3DPM0322",
           "productId": "38516",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0322#product-38516"
         },
@@ -5624,61 +5624,29 @@
     "inStock": [
       {
         "brand": "Bambu",
-        "line": "PETG Basic",
-        "group": "PETG",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF469",
-        "productId": "39452",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF469#product-39452",
-        "price": 22.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PETG Basic",
-        "group": "PETG",
-        "name": "Gray (1kg, Refill)",
-        "sku": "3DPF468",
-        "productId": "39451",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF468#product-39451",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PETG Translucent",
-        "group": "PETG",
-        "name": "Brown (1kg, Spool)",
-        "sku": "3DPF157",
-        "productId": "28890",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF157#product-28890",
-        "price": 22.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PETG Translucent",
-        "group": "PETG",
-        "name": "Translucent Teal (1kg, Spool)",
-        "sku": "3DPF156",
-        "productId": "28889",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF156#product-28889",
-        "price": 22.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA CF",
+        "line": "PLA Translucent",
         "group": "PLA",
-        "name": "Lava Gray (1kg, Spool)",
-        "sku": "3DPF096",
-        "productId": "28838",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html?sku=3DPF096#product-28838",
-        "price": 34.99,
+        "name": "Cherry Pink (Spool, 1kg)",
+        "sku": "3DPF422",
+        "productId": "36446",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-translucent-3d-printer-filament.html?sku=3DPF422#product-36446",
+        "price": 24.99,
         "inStock": true
       }
     ],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "PolyLite PLA Pro",
+        "group": "PLA",
+        "name": "Purple (Spool, 1kg)",
+        "sku": "3DPM0322",
+        "productId": "38516",
+        "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0322#product-38516",
+        "price": 22.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
