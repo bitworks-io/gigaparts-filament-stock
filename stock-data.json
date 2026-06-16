@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-15T23:59:14+00:00",
-  "previousUpdatedAt": "2026-06-15T21:17:48+00:00",
+  "updatedAt": "2026-06-16T05:27:31+00:00",
+  "previousUpdatedAt": "2026-06-15T23:59:14+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1973,7 +1973,7 @@
           "hex": "#77edd7",
           "sku": "3DPF156",
           "productId": "28889",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF156#product-28889"
         },
@@ -5624,14 +5624,14 @@
     "inStock": [],
     "outOfStock": [
       {
-        "brand": "Polymaker",
-        "line": "Panchroma Gradient Starlight PLA",
-        "group": "PLA",
-        "name": "Purple (Spool, 1kg)",
-        "sku": "3DPM0206",
-        "productId": "38462",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-starlight-pla-3d-printer-filament.html?sku=3DPM0206#product-38462",
-        "price": 34.99,
+        "brand": "Bambu",
+        "line": "PETG Translucent",
+        "group": "PETG",
+        "name": "Translucent Teal (1kg, Spool)",
+        "sku": "3DPF156",
+        "productId": "28889",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF156#product-28889",
+        "price": 22.99,
         "inStock": false
       }
     ]
