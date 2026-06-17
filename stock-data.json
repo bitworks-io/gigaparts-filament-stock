@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-17T05:08:42+00:00",
-  "previousUpdatedAt": "2026-06-16T23:46:05+00:00",
+  "updatedAt": "2026-06-17T11:16:26+00:00",
+  "previousUpdatedAt": "2026-06-17T05:08:42+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5621,19 +5621,7 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Silk Multi-Color",
-        "group": "PLA",
-        "name": "Velvet Eclipse (Black-Red) (1kg, Spool)",
-        "sku": "3DPF370",
-        "productId": "33833",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF370#product-33833",
-        "price": 24.99,
-        "inStock": true
-      }
-    ],
+    "inStock": [],
     "outOfStock": []
   },
   "errors": []
