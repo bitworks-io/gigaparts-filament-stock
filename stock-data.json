@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-17T15:59:57+00:00",
-  "previousUpdatedAt": "2026-06-17T11:16:26+00:00",
+  "updatedAt": "2026-06-17T18:30:53+00:00",
+  "previousUpdatedAt": "2026-06-17T15:59:57+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1702,6 +1702,16 @@
           "inStock": true,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF463#product-39386"
+        },
+        {
+          "name": "Silver (1kg, Refill)",
+          "color": "Silver",
+          "hex": "#c9c9c9",
+          "sku": "3DPF462",
+          "productId": "39567",
+          "inStock": true,
+          "price": 19.99,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF462#product-39567"
         }
       ]
     },
@@ -3529,7 +3539,7 @@
           "hex": "#003776",
           "sku": "3DPM0270",
           "productId": "38498",
-          "inStock": false,
+          "inStock": true,
           "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0270#product-38498"
         },
@@ -3599,7 +3609,7 @@
           "hex": "#d9dfe5",
           "sku": "3DPM0277",
           "productId": "38505",
-          "inStock": false,
+          "inStock": true,
           "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0277#product-38505"
         }
@@ -4351,7 +4361,7 @@
           "hex": "",
           "sku": "3DPM0049",
           "productId": "38435",
-          "inStock": false,
+          "inStock": true,
           "price": 26.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DPM0049#product-38435"
         },
@@ -5623,80 +5633,36 @@
   "changes": {
     "inStock": [
       {
-        "brand": "Bambu",
-        "line": "PLA Basic",
+        "brand": "Polymaker",
+        "line": "Panchroma Basic PLA",
         "group": "PLA",
-        "name": "Bronze (1kg, Spool)",
-        "sku": "3DPF024",
-        "productId": "28771",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF024#product-28771",
-        "price": 22.99,
+        "name": "Blue (Refill, 1kg)",
+        "sku": "3DPM0270",
+        "productId": "38498",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0270#product-38498",
+        "price": 17.99,
         "inStock": true
       },
       {
-        "brand": "Bambu",
-        "line": "PLA Basic",
+        "brand": "Polymaker",
+        "line": "Panchroma Basic PLA",
         "group": "PLA",
-        "name": "Brown (1kg, Spool)",
-        "sku": "3DPF016",
-        "productId": "28763",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF016#product-28763",
-        "price": 24.99,
+        "name": "Cold White (Refill, 1kg)",
+        "sku": "3DPM0277",
+        "productId": "38505",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0277#product-38505",
+        "price": 17.99,
         "inStock": true
       },
       {
-        "brand": "Bambu",
-        "line": "PLA Basic",
+        "brand": "Polymaker",
+        "line": "Panchroma Starlight PLA",
         "group": "PLA",
-        "name": "Pink (1kg, Spool)",
-        "sku": "3DPF018",
-        "productId": "28765",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF018#product-28765",
-        "price": 24.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Purple (1kg, Spool)",
-        "sku": "3DPF019",
-        "productId": "28766",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF019#product-28766",
-        "price": 24.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic Gradient",
-        "group": "PLA",
-        "name": "Dusk Glare (1kg, Spool)",
-        "sku": "3DPF356",
-        "productId": "33820",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF356#product-33820",
-        "price": 24.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic Gradient",
-        "group": "PLA",
-        "name": "Pink Citrus (1kg, Spool)",
-        "sku": "3DPF014",
-        "productId": "28761",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF014#product-28761",
-        "price": 24.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Metal",
-        "group": "PLA",
-        "name": "Oxide Green Metallic (1kg, Spool)",
-        "sku": "3DPF045",
-        "productId": "28792",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-metal-3d-printer-filament.html?sku=3DPF045#product-28792",
-        "price": 24.99,
+        "name": "Nebula (Refill, 1kg)",
+        "sku": "3DPM0049",
+        "productId": "38435",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DPM0049#product-38435",
+        "price": 26.99,
         "inStock": true
       }
     ],
