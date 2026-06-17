@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-16T23:46:05+00:00",
-  "previousUpdatedAt": "2026-06-16T21:16:33+00:00",
+  "updatedAt": "2026-06-17T05:08:42+00:00",
+  "previousUpdatedAt": "2026-06-16T23:46:05+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -951,7 +951,7 @@
           "hex": "",
           "sku": "3DPF370",
           "productId": "33833",
-          "inStock": false,
+          "inStock": true,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF370#product-33833"
         },
@@ -5624,29 +5624,17 @@
     "inStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Translucent",
+        "line": "PLA Silk Multi-Color",
         "group": "PLA",
-        "name": "Cherry Pink (Spool, 1kg)",
-        "sku": "3DPF422",
-        "productId": "36446",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-translucent-3d-printer-filament.html?sku=3DPF422#product-36446",
+        "name": "Velvet Eclipse (Black-Red) (1kg, Spool)",
+        "sku": "3DPF370",
+        "productId": "33833",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF370#product-33833",
         "price": 24.99,
         "inStock": true
       }
     ],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "PolyLite PLA Pro",
-        "group": "PLA",
-        "name": "Purple (Spool, 1kg)",
-        "sku": "3DPM0322",
-        "productId": "38516",
-        "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0322#product-38516",
-        "price": 22.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
