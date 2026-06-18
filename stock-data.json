@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-18T04:58:47+00:00",
-  "previousUpdatedAt": "2026-06-17T23:48:49+00:00",
+  "updatedAt": "2026-06-18T09:24:07+00:00",
+  "previousUpdatedAt": "2026-06-18T04:58:47+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1170,24 +1170,84 @@
       "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html",
       "items": [
         {
-          "name": "White (1kg, Spool)",
+          "name": "White (Spool, 1kg)",
           "color": "White",
           "hex": "#ffffff",
           "sku": "",
-          "productId": "28826",
-          "inStock": false,
+          "productId": "36432",
+          "inStock": true,
           "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html#product-28826"
+          "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html#product-36432"
         },
         {
-          "name": "Gray (1kg, Spool)",
+          "name": "Orange (Spool, 1kg)",
+          "color": "Orange",
+          "hex": "#ff4800",
+          "sku": "",
+          "productId": "36433",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html#product-36433"
+        },
+        {
+          "name": "Black (Spool, 1kg)",
+          "color": "Black",
+          "hex": "#000000",
+          "sku": "",
+          "productId": "36434",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html#product-36434"
+        },
+        {
+          "name": "Gray (Spool, 1kg)",
           "color": "Gray",
           "hex": "#878787",
           "sku": "",
-          "productId": "33816",
+          "productId": "36435",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html#product-36435"
+        },
+        {
+          "name": "3920 (Spool, 1kg)",
+          "color": "3920",
+          "hex": "",
+          "sku": "",
+          "productId": "36436",
           "inStock": false,
           "price": 0,
-          "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html#product-33816"
+          "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html#product-36436"
+        },
+        {
+          "name": "Yellow (Spool, 1kg)",
+          "color": "Yellow",
+          "hex": "#f4ed2a",
+          "sku": "",
+          "productId": "36437",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html#product-36437"
+        },
+        {
+          "name": "4123 (Spool, 1kg)",
+          "color": "4123",
+          "hex": "",
+          "sku": "",
+          "productId": "36438",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html#product-36438"
+        },
+        {
+          "name": "Black (Refill, 1kg)",
+          "color": "Black",
+          "hex": "#000000",
+          "sku": "",
+          "productId": "39484",
+          "inStock": true,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html#product-39484"
         }
       ]
     },
