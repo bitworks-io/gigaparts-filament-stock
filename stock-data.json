@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-20T16:44:52+00:00",
-  "previousUpdatedAt": "2026-06-20T14:29:06+00:00",
+  "updatedAt": "2026-06-20T18:43:35+00:00",
+  "previousUpdatedAt": "2026-06-20T16:44:52+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -699,7 +699,7 @@
           "hex": "#b39b84",
           "sku": "3DPF047",
           "productId": "28794",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-metal-3d-printer-filament.html?sku=3DPF047#product-28794"
         }
@@ -5932,7 +5932,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Metal",
+        "group": "PLA",
+        "name": "Iridium Gold Metallic (1kg, Spool)",
+        "sku": "3DPF047",
+        "productId": "28794",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-metal-3d-printer-filament.html?sku=3DPF047#product-28794",
+        "price": 24.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
