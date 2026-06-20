@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-20T05:42:22+00:00",
-  "previousUpdatedAt": "2026-06-20T00:18:57+00:00",
+  "updatedAt": "2026-06-20T09:34:42+00:00",
+  "previousUpdatedAt": "2026-06-20T05:42:22+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5932,19 +5932,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG HF",
-        "group": "PETG",
-        "name": "Dark Gray (1kg, Spool)",
-        "sku": "3DPF459",
-        "productId": "39444",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF459#product-39444",
-        "price": 22.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
