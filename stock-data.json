@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-21T17:51:23+00:00",
-  "previousUpdatedAt": "2026-06-21T16:06:54+00:00",
+  "updatedAt": "2026-06-21T19:59:23+00:00",
+  "previousUpdatedAt": "2026-06-21T17:51:23+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -375,7 +375,7 @@
           "hex": "#f5547c",
           "sku": "3DPF347",
           "productId": "33067",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF347#product-33067"
         },
@@ -5932,7 +5932,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Hot Pink (1kg, Refill)",
+        "sku": "3DPF347",
+        "productId": "33067",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF347#product-33067",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
