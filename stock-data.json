@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-22T12:23:49+00:00",
-  "previousUpdatedAt": "2026-06-22T05:26:12+00:00",
+  "updatedAt": "2026-06-22T17:46:54+00:00",
+  "previousUpdatedAt": "2026-06-22T12:23:49+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -2959,7 +2959,7 @@
           "hex": "#000000",
           "sku": "3DPF128",
           "productId": "31483",
-          "inStock": false,
+          "inStock": true,
           "price": 29.99,
           "url": "https://www.gigaparts.com/bambu-lab-abs-gf-3d-printer-filament.html?sku=3DPF128#product-31483"
         },
@@ -3632,14 +3632,114 @@
       "url": "https://www.gigaparts.com/polymaker-panchroma-dual-matte-pla-3d-printer-filament.html",
       "items": [
         {
-          "name": "Default",
-          "color": "",
+          "name": "Camouflage Dark Green-Brown (Spool, 1kg)",
+          "color": "Camouflage Dark Green-Brown",
           "hex": "",
-          "sku": "3DP-PM-PLA-DUALMATTE",
-          "productId": "39172",
+          "sku": "3DPM0133",
+          "productId": "39125",
+          "inStock": true,
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-matte-pla-3d-printer-filament.html?sku=3DPM0133#product-39125"
+        },
+        {
+          "name": "Chameleon Teal-Yellow (Spool, 1kg)",
+          "color": "Chameleon Teal-Yellow",
+          "hex": "",
+          "sku": "3DPM0134",
+          "productId": "39126",
+          "inStock": true,
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-matte-pla-3d-printer-filament.html?sku=3DPM0134#product-39126"
+        },
+        {
+          "name": "Flamingo Pink-Red (Spool, 1kg)",
+          "color": "Flamingo Pink-Red",
+          "hex": "",
+          "sku": "3DPM0135",
+          "productId": "39127",
+          "inStock": true,
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-matte-pla-3d-printer-filament.html?sku=3DPM0135#product-39127"
+        },
+        {
+          "name": "Foggy Orange Grey-Orange (Spool, 1kg)",
+          "color": "Foggy Orange Grey-Orange",
+          "hex": "",
+          "sku": "3DPM0136",
+          "productId": "39128",
+          "inStock": true,
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-matte-pla-3d-printer-filament.html?sku=3DPM0136#product-39128"
+        },
+        {
+          "name": "Foggy Purple Grey-Purple (Spool, 1kg)",
+          "color": "Foggy Purple Grey-Purple",
+          "hex": "",
+          "sku": "3DPM0137",
+          "productId": "39129",
+          "inStock": true,
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-matte-pla-3d-printer-filament.html?sku=3DPM0137#product-39129"
+        },
+        {
+          "name": "Glacier Blue Ice-Blue (Spool, 1kg)",
+          "color": "Glacier Blue Ice-Blue",
+          "hex": "",
+          "sku": "3DPM0138",
+          "productId": "39130",
           "inStock": false,
-          "price": 0.0,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-matte-pla-3d-printer-filament.html?sku=3DP-PM-PLA-DUALMATTE#product-39172"
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-matte-pla-3d-printer-filament.html?sku=3DPM0138#product-39130"
+        },
+        {
+          "name": "Mixed Berries Red-Dark Blue (Spool, 1kg)",
+          "color": "Mixed Berries Red-Dark Blue",
+          "hex": "",
+          "sku": "3DPM0139",
+          "productId": "39131",
+          "inStock": false,
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-matte-pla-3d-printer-filament.html?sku=3DPM0139#product-39131"
+        },
+        {
+          "name": "Shadow Black White-Black (Spool, 1kg)",
+          "color": "Shadow Black White-Black",
+          "hex": "",
+          "sku": "3DPM0140",
+          "productId": "39132",
+          "inStock": true,
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-matte-pla-3d-printer-filament.html?sku=3DPM0140#product-39132"
+        },
+        {
+          "name": "Shadow Orange Orange-Black (Spool, 1kg)",
+          "color": "Shadow Orange Orange-Black",
+          "hex": "",
+          "sku": "3DPM0141",
+          "productId": "39133",
+          "inStock": true,
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-matte-pla-3d-printer-filament.html?sku=3DPM0141#product-39133"
+        },
+        {
+          "name": "Shadow Red Black-Red (Spool, 1kg)",
+          "color": "Shadow Red Black-Red",
+          "hex": "",
+          "sku": "3DPM0142",
+          "productId": "39134",
+          "inStock": false,
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-matte-pla-3d-printer-filament.html?sku=3DPM0142#product-39134"
+        },
+        {
+          "name": "Sunrise Red-Yellow (Spool, 1kg)",
+          "color": "Sunrise Red-Yellow",
+          "hex": "",
+          "sku": "3DPM0143",
+          "productId": "39135",
+          "inStock": true,
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-matte-pla-3d-printer-filament.html?sku=3DPM0143#product-39135"
         }
       ]
     },
@@ -3650,14 +3750,94 @@
       "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html",
       "items": [
         {
-          "name": "Default",
-          "color": "",
+          "name": "Aubergine Lime-Magenta (Spool, 1kg)",
+          "color": "Aubergine Lime-Magenta",
           "hex": "",
-          "sku": "3DP-PM-PLA-DUALSILK",
-          "productId": "39169",
-          "inStock": false,
-          "price": 0.0,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DP-PM-PLA-DUALSILK#product-39169"
+          "sku": "3DPM0072",
+          "productId": "39068",
+          "inStock": true,
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0072#product-39068"
+        },
+        {
+          "name": "Banquet Gold-Magenta (Spool, 1kg)",
+          "color": "Banquet Gold-Magenta",
+          "hex": "",
+          "sku": "3DPM0073",
+          "productId": "39069",
+          "inStock": true,
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0073#product-39069"
+        },
+        {
+          "name": "Beluga Silver-Blue (Spool, 1kg)",
+          "color": "Beluga Silver-Blue",
+          "hex": "",
+          "sku": "3DPM0074",
+          "productId": "39070",
+          "inStock": true,
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0074#product-39070"
+        },
+        {
+          "name": "Caribbean Sea Blue-Green (Spool, 1kg)",
+          "color": "Caribbean Sea Blue-Green",
+          "hex": "",
+          "sku": "3DPM0075",
+          "productId": "39071",
+          "inStock": true,
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0075#product-39071"
+        },
+        {
+          "name": "Chameleon Yellow-Blue (Spool, 1kg)",
+          "color": "Chameleon Yellow-Blue",
+          "hex": "",
+          "sku": "3DPM0076",
+          "productId": "39072",
+          "inStock": true,
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0076#product-39072"
+        },
+        {
+          "name": "Crown Gold-Silver (Spool, 1kg)",
+          "color": "Crown Gold-Silver",
+          "hex": "",
+          "sku": "3DPM0077",
+          "productId": "39073",
+          "inStock": true,
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0077#product-39073"
+        },
+        {
+          "name": "Jadeite Green-Chrome (Spool, 1kg)",
+          "color": "Jadeite Green-Chrome",
+          "hex": "",
+          "sku": "3DPM0078",
+          "productId": "39074",
+          "inStock": true,
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0078#product-39074"
+        },
+        {
+          "name": "Sovereign Gold-Purple (Spool, 1kg)",
+          "color": "Sovereign Gold-Purple",
+          "hex": "",
+          "sku": "3DPM0079",
+          "productId": "39075",
+          "inStock": true,
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0079#product-39075"
+        },
+        {
+          "name": "Sunset Gold-Red (Spool, 1kg)",
+          "color": "Sunset Gold-Red",
+          "hex": "",
+          "sku": "3DPM0080",
+          "productId": "39076",
+          "inStock": true,
+          "price": 22.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0080#product-39076"
         }
       ]
     },
@@ -4734,14 +4914,44 @@
       "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-celestial-pla-3d-printer-filament.html",
       "items": [
         {
-          "name": "Default",
-          "color": "",
+          "name": "Rainbow (Spool, 1kg)",
+          "color": "Rainbow",
           "hex": "",
-          "sku": "3DP-PM-PLA-GRADCLSTL",
-          "productId": "39175",
+          "sku": "3DPM0196",
+          "productId": "39156",
           "inStock": false,
-          "price": 0.0,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-celestial-pla-3d-printer-filament.html?sku=3DP-PM-PLA-GRADCLSTL#product-39175"
+          "price": 29.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-celestial-pla-3d-printer-filament.html?sku=3DPM0196#product-39156"
+        },
+        {
+          "name": "Blue-Purple (Spool, 1kg)",
+          "color": "Blue-Purple",
+          "hex": "",
+          "sku": "3DPM0197",
+          "productId": "39157",
+          "inStock": true,
+          "price": 29.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-celestial-pla-3d-printer-filament.html?sku=3DPM0197#product-39157"
+        },
+        {
+          "name": "Purple-Pink (Spool, 1kg)",
+          "color": "Purple-Pink",
+          "hex": "",
+          "sku": "3DPM0198",
+          "productId": "39158",
+          "inStock": true,
+          "price": 29.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-celestial-pla-3d-printer-filament.html?sku=3DPM0198#product-39158"
+        },
+        {
+          "name": "Blue-White (Spool, 1kg)",
+          "color": "Blue-White",
+          "hex": "",
+          "sku": "3DPM0199",
+          "productId": "39159",
+          "inStock": true,
+          "price": 29.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-celestial-pla-3d-printer-filament.html?sku=3DPM0199#product-39159"
         }
       ]
     },
@@ -4752,14 +4962,54 @@
       "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-crystal-pla-3d-printer-filament.html",
       "items": [
         {
-          "name": "Default",
-          "color": "",
+          "name": "Tourmaline (Spool, 1kg)",
+          "color": "Tourmaline",
           "hex": "",
-          "sku": "3DP-PM-PLA-GRADCRSTL",
-          "productId": "39176",
+          "sku": "3DPM0200",
+          "productId": "39160",
           "inStock": false,
-          "price": 0.0,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-crystal-pla-3d-printer-filament.html?sku=3DP-PM-PLA-GRADCRSTL#product-39176"
+          "price": 24.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-crystal-pla-3d-printer-filament.html?sku=3DPM0200#product-39160"
+        },
+        {
+          "name": "Rose Quartz (Spool, 1kg)",
+          "color": "Rose Quartz",
+          "hex": "",
+          "sku": "3DPM0201",
+          "productId": "39161",
+          "inStock": false,
+          "price": 24.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-crystal-pla-3d-printer-filament.html?sku=3DPM0201#product-39161"
+        },
+        {
+          "name": "Aquamarine (Spool, 1kg)",
+          "color": "Aquamarine",
+          "hex": "",
+          "sku": "3DPM0202",
+          "productId": "39162",
+          "inStock": true,
+          "price": 24.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-crystal-pla-3d-printer-filament.html?sku=3DPM0202#product-39162"
+        },
+        {
+          "name": "Citrine (Spool, 1kg)",
+          "color": "Citrine",
+          "hex": "",
+          "sku": "3DPM0203",
+          "productId": "39163",
+          "inStock": true,
+          "price": 24.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-crystal-pla-3d-printer-filament.html?sku=3DPM0203#product-39163"
+        },
+        {
+          "name": "Carnelian (Spool, 1kg)",
+          "color": "Carnelian",
+          "hex": "",
+          "sku": "3DPM0204",
+          "productId": "39164",
+          "inStock": true,
+          "price": 24.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-crystal-pla-3d-printer-filament.html?sku=3DPM0204#product-39164"
         }
       ]
     },
@@ -4770,14 +5020,34 @@
       "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-galaxy-pla-3d-printer-filament.html",
       "items": [
         {
-          "name": "Default",
-          "color": "",
+          "name": "Black-Blue (Spool, 1kg)",
+          "color": "Black-Blue",
           "hex": "",
-          "sku": "3DP-PM-PLA-GRADGLXY",
-          "productId": "39174",
-          "inStock": false,
-          "price": 0.0,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-galaxy-pla-3d-printer-filament.html?sku=3DP-PM-PLA-GRADGLXY#product-39174"
+          "sku": "3DPM0193",
+          "productId": "39153",
+          "inStock": true,
+          "price": 29.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-galaxy-pla-3d-printer-filament.html?sku=3DPM0193#product-39153"
+        },
+        {
+          "name": "Blue-Green (Spool, 1kg)",
+          "color": "Blue-Green",
+          "hex": "",
+          "sku": "3DPM0194",
+          "productId": "39154",
+          "inStock": true,
+          "price": 29.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-galaxy-pla-3d-printer-filament.html?sku=3DPM0194#product-39154"
+        },
+        {
+          "name": "Black-Grey (Spool, 1kg)",
+          "color": "Black-Grey",
+          "hex": "",
+          "sku": "3DPM0195",
+          "productId": "39155",
+          "inStock": true,
+          "price": 29.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-galaxy-pla-3d-printer-filament.html?sku=3DPM0195#product-39155"
         }
       ]
     },
@@ -5007,7 +5277,7 @@
           "hex": "",
           "sku": "3DPM0145",
           "productId": "39137",
-          "inStock": false,
+          "inStock": true,
           "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0145#product-39137"
         },
@@ -5057,7 +5327,7 @@
           "hex": "",
           "sku": "3DPM0150",
           "productId": "39142",
-          "inStock": false,
+          "inStock": true,
           "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0150#product-39142"
         }
@@ -5070,14 +5340,54 @@
       "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-silk-pla-3d-printer-filament.html",
       "items": [
         {
-          "name": "Default",
-          "color": "",
+          "name": "Rainbow (Spool, 1kg)",
+          "color": "Rainbow",
           "hex": "",
-          "sku": "3DP-PM-PLA-GRADSILK",
-          "productId": "39170",
+          "sku": "3DPM0084",
+          "productId": "39077",
+          "inStock": true,
+          "price": 24.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-silk-pla-3d-printer-filament.html?sku=3DPM0084#product-39077"
+        },
+        {
+          "name": "Fire (Spool, 1kg)",
+          "color": "Fire",
+          "hex": "",
+          "sku": "3DPM0085",
+          "productId": "39078",
           "inStock": false,
-          "price": 0.0,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-silk-pla-3d-printer-filament.html?sku=3DP-PM-PLA-GRADSILK#product-39170"
+          "price": 24.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-silk-pla-3d-printer-filament.html?sku=3DPM0085#product-39078"
+        },
+        {
+          "name": "Water (Spool, 1kg)",
+          "color": "Water",
+          "hex": "",
+          "sku": "3DPM0086",
+          "productId": "39079",
+          "inStock": true,
+          "price": 24.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-silk-pla-3d-printer-filament.html?sku=3DPM0086#product-39079"
+        },
+        {
+          "name": "Air (Spool, 1kg)",
+          "color": "Air",
+          "hex": "",
+          "sku": "3DPM0087",
+          "productId": "39080",
+          "inStock": false,
+          "price": 24.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-silk-pla-3d-printer-filament.html?sku=3DPM0087#product-39080"
+        },
+        {
+          "name": "Earth (Spool, 1kg)",
+          "color": "Earth",
+          "hex": "",
+          "sku": "3DPM0088",
+          "productId": "39081",
+          "inStock": false,
+          "price": 24.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-silk-pla-3d-printer-filament.html?sku=3DPM0088#product-39081"
         }
       ]
     },
@@ -5923,7 +6233,7 @@
           "hex": "",
           "sku": "3DPM0235",
           "productId": "39032",
-          "inStock": false,
+          "inStock": true,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-cope-stone-blue-1-75mm-1kg-filament-spool.html?sku=3DPM0235#product-39032"
         }
@@ -5931,7 +6241,52 @@
     }
   ],
   "changes": {
-    "inStock": [],
+    "inStock": [
+      {
+        "brand": "Bambu",
+        "line": "ABS GF",
+        "group": "ABS",
+        "name": "Black (1kg, Spool)",
+        "sku": "3DPF128",
+        "productId": "31483",
+        "url": "https://www.gigaparts.com/bambu-lab-abs-gf-3d-printer-filament.html?sku=3DPF128#product-31483",
+        "price": 29.99,
+        "inStock": true
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma CoPE Stone Blue 1.75mm 1kg Filament Spool",
+        "group": "PA",
+        "name": "Default",
+        "sku": "3DPM0235",
+        "productId": "39032",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-cope-stone-blue-1-75mm-1kg-filament-spool.html?sku=3DPM0235#product-39032",
+        "price": 19.99,
+        "inStock": true
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Gradient Matte PLA",
+        "group": "PLA",
+        "name": "Cappuccino (Spool, 1kg)",
+        "sku": "3DPM0150",
+        "productId": "39142",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0150#product-39142",
+        "price": 24.99,
+        "inStock": true
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Gradient Matte PLA",
+        "group": "PLA",
+        "name": "Fall (Spool, 1kg)",
+        "sku": "3DPM0145",
+        "productId": "39137",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0145#product-39137",
+        "price": 24.99,
+        "inStock": true
+      }
+    ],
     "outOfStock": []
   },
   "errors": []
