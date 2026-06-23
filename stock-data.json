@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-23T16:06:14+00:00",
-  "previousUpdatedAt": "2026-06-23T12:14:46+00:00",
+  "updatedAt": "2026-06-23T18:13:38+00:00",
+  "previousUpdatedAt": "2026-06-23T16:06:14+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6182,19 +6182,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Fiberon PETG-ESD Black 1.75mm 1kg Filament Spool",
-        "group": "PETG",
-        "name": "Default",
-        "sku": "3DPM0278",
-        "productId": "38417",
-        "url": "https://www.gigaparts.com/polymaker-fiberon-petg-esd-black-1-75mm-1kg-filament-spool.html?sku=3DPM0278#product-38417",
-        "price": 32.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
