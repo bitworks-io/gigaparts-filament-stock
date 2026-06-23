@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-22T23:42:30+00:00",
-  "previousUpdatedAt": "2026-06-22T21:11:53+00:00",
+  "updatedAt": "2026-06-23T04:17:42+00:00",
+  "previousUpdatedAt": "2026-06-22T23:42:30+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6232,30 +6232,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Sparkle",
-        "group": "PLA",
-        "name": "Slate Gray Sparkle (1kg, Spool)",
-        "sku": "3DPF063",
-        "productId": "28810",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-sparkle-3d-printer-filament.html?sku=3DPF063#product-28810",
-        "price": 24.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Gradient Starlight PLA",
-        "group": "PLA",
-        "name": "Blue-Green (Spool, 1kg)",
-        "sku": "3DPM0207",
-        "productId": "38463",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-starlight-pla-3d-printer-filament.html?sku=3DPM0207#product-38463",
-        "price": 34.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
