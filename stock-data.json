@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-24T15:37:34+00:00",
-  "previousUpdatedAt": "2026-06-24T12:28:18+00:00",
+  "updatedAt": "2026-06-24T18:05:25+00:00",
+  "previousUpdatedAt": "2026-06-24T15:37:34+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6241,54 +6241,8 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Glow",
-        "group": "PLA",
-        "name": "Yellow (1kg, Spool)",
-        "sku": "3DPF086",
-        "productId": "28832",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-glow-3d-printer-filament.html?sku=3DPF086#product-28832",
-        "price": 24.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Metal",
-        "group": "PLA",
-        "name": "Iridium Gold Metallic (1kg, Spool)",
-        "sku": "3DPF047",
-        "productId": "28794",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-metal-3d-printer-filament.html?sku=3DPF047#product-28794",
-        "price": 24.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Sparkle",
-        "group": "PLA",
-        "name": "Slate Gray Sparkle (1kg, Spool)",
-        "sku": "3DPF063",
-        "productId": "28810",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-sparkle-3d-printer-filament.html?sku=3DPF063#product-28810",
-        "price": 24.99,
-        "inStock": true
-      }
-    ],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA CF",
-        "group": "PLA",
-        "name": "4150 (1kg, Spool)",
-        "sku": "",
-        "productId": "28841",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html#product-28841",
-        "price": 0,
-        "inStock": false
-      }
-    ]
+    "inStock": [],
+    "outOfStock": []
   },
   "errors": []
 }
