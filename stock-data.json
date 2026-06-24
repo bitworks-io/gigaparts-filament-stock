@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-24T20:04:15+00:00",
-  "previousUpdatedAt": "2026-06-24T18:05:25+00:00",
+  "updatedAt": "2026-06-24T21:42:54+00:00",
+  "previousUpdatedAt": "2026-06-24T20:04:15+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6241,30 +6241,7 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Glow",
-        "group": "PLA",
-        "name": "Orange (1kg, Spool)",
-        "sku": "3DPF080",
-        "productId": "28827",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-glow-3d-printer-filament.html?sku=3DPF080#product-28827",
-        "price": 24.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Glow",
-        "group": "PLA",
-        "name": "Pink (1kg, Spool)",
-        "sku": "3DPF085",
-        "productId": "28831",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-glow-3d-printer-filament.html?sku=3DPF085#product-28831",
-        "price": 24.99,
-        "inStock": true
-      }
-    ],
+    "inStock": [],
     "outOfStock": []
   },
   "errors": []
