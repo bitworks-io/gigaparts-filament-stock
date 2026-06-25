@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-25T14:52:05+00:00",
-  "previousUpdatedAt": "2026-06-25T11:48:23+00:00",
+  "updatedAt": "2026-06-25T17:22:09+00:00",
+  "previousUpdatedAt": "2026-06-25T14:52:05+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6161,19 +6161,7 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "ABS",
-        "group": "ABS",
-        "name": "White (1kg, Refill)",
-        "sku": "3DPF251",
-        "productId": "32724",
-        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF251#product-32724",
-        "price": 19.99,
-        "inStock": true
-      }
-    ],
+    "inStock": [],
     "outOfStock": []
   },
   "errors": []
