@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-25T20:20:19+00:00",
-  "previousUpdatedAt": "2026-06-25T17:22:09+00:00",
+  "updatedAt": "2026-06-25T22:42:40+00:00",
+  "previousUpdatedAt": "2026-06-25T20:20:19+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6162,19 +6162,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Sparkle",
-        "group": "PLA",
-        "name": "Classic Gold Sparkle (1kg, Spool)",
-        "sku": "3DPF067",
-        "productId": "28814",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-sparkle-3d-printer-filament.html?sku=3DPF067#product-28814",
-        "price": 24.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
