@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-27T18:16:12+00:00",
-  "previousUpdatedAt": "2026-06-27T16:17:30+00:00",
+  "updatedAt": "2026-06-27T20:17:58+00:00",
+  "previousUpdatedAt": "2026-06-27T18:16:12+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1391,7 +1391,7 @@
           "hex": "#68724d",
           "sku": "3DPF230",
           "productId": "33041",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF230#product-33041"
         },
@@ -6162,7 +6162,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Matte",
+        "group": "PLA",
+        "name": "Dark Green (1kg, Refill)",
+        "sku": "3DPF230",
+        "productId": "33041",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF230#product-33041",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
