@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-28T18:16:16+00:00",
-  "previousUpdatedAt": "2026-06-28T16:22:26+00:00",
+  "updatedAt": "2026-06-28T20:22:04+00:00",
+  "previousUpdatedAt": "2026-06-28T18:16:16+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1903,7 +1903,7 @@
           "hex": "#f4fafc",
           "sku": "3DPF153",
           "productId": "28886",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF153#product-28886"
         },
@@ -6162,7 +6162,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PETG Translucent",
+        "group": "PETG",
+        "name": "Clear (1kg, Spool)",
+        "sku": "3DPF153",
+        "productId": "28886",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF153#product-28886",
+        "price": 22.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
