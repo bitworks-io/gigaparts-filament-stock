@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-30T14:39:53+00:00",
-  "previousUpdatedAt": "2026-06-30T11:49:35+00:00",
+  "updatedAt": "2026-06-30T17:12:13+00:00",
+  "previousUpdatedAt": "2026-06-30T14:39:53+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5471,7 +5471,7 @@
           "hex": "#485259",
           "sku": "3DPM0333",
           "productId": "38526",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0333#product-38526"
         }
@@ -6102,7 +6102,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "PolyLite PLA Pro",
+        "group": "PLA",
+        "name": "Dark Grey (Spool, 1kg)",
+        "sku": "3DPM0333",
+        "productId": "38526",
+        "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0333#product-38526",
+        "price": 22.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
