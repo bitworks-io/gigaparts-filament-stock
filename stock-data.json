@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-30T04:21:53+00:00",
-  "previousUpdatedAt": "2026-06-29T23:13:46+00:00",
+  "updatedAt": "2026-06-30T08:36:06+00:00",
+  "previousUpdatedAt": "2026-06-30T04:21:53+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3100,7 +3100,7 @@
           "sku": "3DPM0239",
           "productId": "38467",
           "inStock": true,
-          "price": 19.99,
+          "price": 14.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0239#product-38467"
         },
         {
@@ -5312,7 +5312,7 @@
           "sku": "3DPM0312",
           "productId": "38506",
           "inStock": true,
-          "price": 17.99,
+          "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0312#product-38506"
         },
         {
@@ -5322,7 +5322,7 @@
           "sku": "3DPM0313",
           "productId": "38507",
           "inStock": true,
-          "price": 17.99,
+          "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0313#product-38507"
         },
         {
@@ -6102,19 +6102,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Red (1kg, Spool)",
-        "sku": "3DPF021",
-        "productId": "28768",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF021#product-28768",
-        "price": 22.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
