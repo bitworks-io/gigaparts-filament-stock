@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-30T17:12:13+00:00",
-  "previousUpdatedAt": "2026-06-30T14:39:53+00:00",
+  "updatedAt": "2026-06-30T20:14:42+00:00",
+  "previousUpdatedAt": "2026-06-30T17:12:13+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -767,7 +767,7 @@
           "hex": "#cea529",
           "sku": "3DPF067",
           "productId": "28814",
-          "inStock": false,
+          "inStock": true,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-sparkle-3d-printer-filament.html?sku=3DPF067#product-28814"
         }
@@ -1667,7 +1667,7 @@
           "hex": "#ff4800",
           "sku": "3DPF408",
           "productId": "36433",
-          "inStock": false,
+          "inStock": true,
           "price": 23.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF408#product-36433"
         },
@@ -2231,7 +2231,7 @@
           "hex": "#39541a",
           "sku": "3DPF281",
           "productId": "38236",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF281#product-38236"
         },
@@ -2691,7 +2691,7 @@
           "hex": "#ffc72c",
           "sku": "3DPF252",
           "productId": "32418",
-          "inStock": false,
+          "inStock": true,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF252#product-32418"
         },
@@ -2711,7 +2711,7 @@
           "hex": "#0489fd",
           "sku": "3DPF244",
           "productId": "32643",
-          "inStock": false,
+          "inStock": true,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF244#product-32643"
         },
@@ -6101,16 +6101,61 @@
     }
   ],
   "changes": {
-    "inStock": [],
+    "inStock": [
+      {
+        "brand": "Bambu",
+        "line": "ABS",
+        "group": "ABS",
+        "name": "Azure (1kg, Refill)",
+        "sku": "3DPF244",
+        "productId": "32643",
+        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF244#product-32643",
+        "price": 19.99,
+        "inStock": true
+      },
+      {
+        "brand": "Bambu",
+        "line": "ABS",
+        "group": "ABS",
+        "name": "Tangerine Yellow (1kg, Refill)",
+        "sku": "3DPF252",
+        "productId": "32418",
+        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF252#product-32418",
+        "price": 19.99,
+        "inStock": true
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Sparkle",
+        "group": "PLA",
+        "name": "Classic Gold Sparkle (1kg, Spool)",
+        "sku": "3DPF067",
+        "productId": "28814",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-sparkle-3d-printer-filament.html?sku=3DPF067#product-28814",
+        "price": 24.99,
+        "inStock": true
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Tough+",
+        "group": "PLA",
+        "name": "Orange (Spool, 1kg)",
+        "sku": "3DPF408",
+        "productId": "36433",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF408#product-36433",
+        "price": 23.99,
+        "inStock": true
+      }
+    ],
     "outOfStock": [
       {
-        "brand": "Polymaker",
-        "line": "PolyLite PLA Pro",
-        "group": "PLA",
-        "name": "Dark Grey (Spool, 1kg)",
-        "sku": "3DPM0333",
-        "productId": "38526",
-        "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0333#product-38526",
+        "brand": "Bambu",
+        "line": "PETG HF",
+        "group": "PETG",
+        "name": "Forest Green (1kg, Spool)",
+        "sku": "3DPF281",
+        "productId": "38236",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF281#product-38236",
         "price": 22.99,
         "inStock": false
       }
