@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-01T00:18:28+00:00",
-  "previousUpdatedAt": "2026-06-30T22:25:08+00:00",
+  "updatedAt": "2026-07-01T05:52:34+00:00",
+  "previousUpdatedAt": "2026-07-01T00:18:28+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3072,7 +3072,7 @@
           "sku": "3DPF184",
           "productId": "31293",
           "inStock": false,
-          "price": 49.99,
+          "price": 59.99,
           "url": "https://www.gigaparts.com/bambu-lab-pa6-gf-3d-printer-filament.html?sku=3DPF184#product-31293"
         }
       ]
@@ -3100,7 +3100,7 @@
           "sku": "3DPM0239",
           "productId": "38467",
           "inStock": true,
-          "price": 14.99,
+          "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0239#product-38467"
         },
         {
