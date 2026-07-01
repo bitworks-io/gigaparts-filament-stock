@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-01T16:38:25+00:00",
-  "previousUpdatedAt": "2026-07-01T13:40:04+00:00",
+  "updatedAt": "2026-07-01T19:08:20+00:00",
+  "previousUpdatedAt": "2026-07-01T16:38:25+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3119,7 +3119,7 @@
           "hex": "#e72e1d",
           "sku": "3DPM0241",
           "productId": "38469",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0241#product-38469"
         },
@@ -6102,7 +6102,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Basic PLA",
+        "group": "PLA",
+        "name": "Red (Spool, 1kg)",
+        "sku": "3DPM0241",
+        "productId": "38469",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0241#product-38469",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
