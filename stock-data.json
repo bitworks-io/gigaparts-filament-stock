@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-02T16:59:32+00:00",
-  "previousUpdatedAt": "2026-07-02T14:25:57+00:00",
+  "updatedAt": "2026-07-02T18:44:53+00:00",
+  "previousUpdatedAt": "2026-07-02T16:59:32+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -2585,7 +2585,7 @@
           "hex": "#f4ed2a",
           "sku": "3DPF327",
           "productId": "33072",
-          "inStock": true,
+          "inStock": false,
           "price": 38.99,
           "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF327#product-33072"
         },
@@ -6241,53 +6241,20 @@
     }
   ],
   "changes": {
-    "inStock": [
+    "inStock": [],
+    "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Silk+",
-        "group": "PLA",
-        "name": "White (1kg, Spool)",
-        "sku": "3DPF381",
-        "productId": "33846",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF381#product-33846",
-        "price": 22.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Tough+",
-        "group": "PLA",
-        "name": "Cyan (Spool, 1kg)",
-        "sku": "3DPF414",
-        "productId": "36438",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF414#product-36438",
-        "price": 23.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Tough+",
-        "group": "PLA",
-        "name": "Silver (Spool, 1kg)",
-        "sku": "3DPF412",
-        "productId": "36436",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF412#product-36436",
-        "price": 23.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Tough+",
-        "group": "PLA",
-        "name": "Yellow (Spool, 1kg)",
-        "sku": "3DPF413",
-        "productId": "36437",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF413#product-36437",
-        "price": 23.99,
-        "inStock": true
+        "line": "TPU for AMS",
+        "group": "TPU",
+        "name": "Yellow (1kg, Spool)",
+        "sku": "3DPF327",
+        "productId": "33072",
+        "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF327#product-33072",
+        "price": 38.99,
+        "inStock": false
       }
-    ],
-    "outOfStock": []
+    ]
   },
   "errors": []
 }
