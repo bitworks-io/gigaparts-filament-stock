@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-02T14:25:57+00:00",
-  "previousUpdatedAt": "2026-07-02T11:41:47+00:00",
+  "updatedAt": "2026-07-02T16:59:32+00:00",
+  "previousUpdatedAt": "2026-07-02T14:25:57+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1689,7 +1689,7 @@
           "hex": "#ffffff",
           "sku": "3DPF381",
           "productId": "33846",
-          "inStock": false,
+          "inStock": true,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF381#product-33846"
         },
@@ -1777,7 +1777,7 @@
           "hex": "#c9c9c9",
           "sku": "3DPF412",
           "productId": "36436",
-          "inStock": false,
+          "inStock": true,
           "price": 23.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF412#product-36436"
         },
@@ -1787,7 +1787,7 @@
           "hex": "#f4ed2a",
           "sku": "3DPF413",
           "productId": "36437",
-          "inStock": false,
+          "inStock": true,
           "price": 23.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF413#product-36437"
         },
@@ -1797,7 +1797,7 @@
           "hex": "#0088d6",
           "sku": "3DPF414",
           "productId": "36438",
-          "inStock": false,
+          "inStock": true,
           "price": 23.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF414#product-36438"
         },
@@ -6241,20 +6241,53 @@
     }
   ],
   "changes": {
-    "inStock": [],
-    "outOfStock": [
+    "inStock": [
       {
         "brand": "Bambu",
-        "line": "ABS",
-        "group": "ABS",
-        "name": "Black (1kg, Refill)",
-        "sku": "3DPF249",
-        "productId": "32725",
-        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF249#product-32725",
-        "price": 19.99,
-        "inStock": false
+        "line": "PLA Silk+",
+        "group": "PLA",
+        "name": "White (1kg, Spool)",
+        "sku": "3DPF381",
+        "productId": "33846",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF381#product-33846",
+        "price": 22.99,
+        "inStock": true
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Tough+",
+        "group": "PLA",
+        "name": "Cyan (Spool, 1kg)",
+        "sku": "3DPF414",
+        "productId": "36438",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF414#product-36438",
+        "price": 23.99,
+        "inStock": true
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Tough+",
+        "group": "PLA",
+        "name": "Silver (Spool, 1kg)",
+        "sku": "3DPF412",
+        "productId": "36436",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF412#product-36436",
+        "price": 23.99,
+        "inStock": true
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Tough+",
+        "group": "PLA",
+        "name": "Yellow (Spool, 1kg)",
+        "sku": "3DPF413",
+        "productId": "36437",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF413#product-36437",
+        "price": 23.99,
+        "inStock": true
       }
-    ]
+    ],
+    "outOfStock": []
   },
   "errors": []
 }
