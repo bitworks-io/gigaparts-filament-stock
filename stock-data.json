@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-02T18:44:53+00:00",
-  "previousUpdatedAt": "2026-07-02T16:59:32+00:00",
+  "updatedAt": "2026-07-02T20:36:28+00:00",
+  "previousUpdatedAt": "2026-07-02T18:44:53+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6242,19 +6242,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "TPU for AMS",
-        "group": "TPU",
-        "name": "Yellow (1kg, Spool)",
-        "sku": "3DPF327",
-        "productId": "33072",
-        "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF327#product-33072",
-        "price": 38.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
