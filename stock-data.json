@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-03T18:23:14+00:00",
-  "previousUpdatedAt": "2026-07-03T16:43:20+00:00",
+  "updatedAt": "2026-07-03T20:21:25+00:00",
+  "previousUpdatedAt": "2026-07-03T18:23:14+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6242,19 +6242,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF010",
-        "productId": "28757",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF010#product-28757",
-        "price": 22.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
