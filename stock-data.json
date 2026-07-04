@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-04T18:12:19+00:00",
-  "previousUpdatedAt": "2026-07-04T16:13:58+00:00",
+  "updatedAt": "2026-07-04T20:15:44+00:00",
+  "previousUpdatedAt": "2026-07-04T18:12:19+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1203,7 +1203,7 @@
           "hex": "#424379",
           "sku": "3DPF092",
           "productId": "30715",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-galaxy-3d-printer-filament.html?sku=3DPF092#product-30715"
         },
@@ -6242,7 +6242,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Galaxy",
+        "group": "PLA",
+        "name": "Nebulae (1kg, Spool)",
+        "sku": "3DPF092",
+        "productId": "30715",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-galaxy-3d-printer-filament.html?sku=3DPF092#product-30715",
+        "price": 24.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
