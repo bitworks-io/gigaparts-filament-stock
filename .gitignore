@@ -2,3 +2,9 @@ __pycache__/
 .pytest_cache/
 worker/.wrangler/
 worker/node_modules/
+_site/
+_stock_history/
+index.html
+manifest.webmanifest
+stock-data.json
+sw.js
