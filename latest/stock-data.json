@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-05T17:23:45+00:00",
-  "previousUpdatedAt": "2026-07-05T16:57:37+00:00",
+  "updatedAt": "2026-07-05T19:40:08+00:00",
+  "previousUpdatedAt": "2026-07-05T17:23:45+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1993,7 +1993,7 @@
           "hex": "#77edd7",
           "sku": "3DPF156",
           "productId": "28889",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF156#product-28889"
         },
@@ -6242,7 +6242,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PETG Translucent",
+        "group": "PETG",
+        "name": "Translucent Teal (1kg, Spool)",
+        "sku": "3DPF156",
+        "productId": "28889",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF156#product-28889",
+        "price": 22.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
