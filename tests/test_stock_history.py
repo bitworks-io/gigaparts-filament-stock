@@ -119,6 +119,7 @@ class StockHistoryTests(unittest.TestCase):
         self.assertIn("actions/deploy-pages", workflow)
         self.assertIn("stock-history", workflow)
         self.assertIn("scripts/update_stock_history.py", workflow)
+        self.assertLess(workflow.index("Commit compact stock history"), workflow.index("Deploy Pages artifact"))
         self.assertNotIn("git commit -m \"Update GigaParts stock snapshot\"", workflow)
         self.assertNotIn("git add index.html stock-data.json manifest.webmanifest sw.js", workflow)
 

@@ -71,10 +71,6 @@ jobs:
         with:
           path: ${{ runner.temp }}/site
 
-      - name: Deploy Pages artifact
-        id: deployment
-        uses: actions/deploy-pages@v4
-
       - name: Commit compact stock history
         run: |
           set -euo pipefail
@@ -98,3 +94,7 @@ jobs:
             git commit -m "Update compact stock history"
             git push origin HEAD:stock-history
           fi
+
+      - name: Deploy Pages artifact
+        id: deployment
+        uses: actions/deploy-pages@v4
