@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-06T04:35:34+00:00",
-  "previousUpdatedAt": "2026-07-05T23:15:01+00:00",
+  "updatedAt": "2026-07-06T09:08:23+00:00",
+  "previousUpdatedAt": "2026-07-06T04:35:34+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6242,19 +6242,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Charcoal (1kg, Refill)",
-        "sku": "3DPF231",
-        "productId": "32414",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF231#product-32414",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
