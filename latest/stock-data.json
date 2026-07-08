@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-08T10:29:48+00:00",
-  "previousUpdatedAt": "2026-07-08T07:40:18+00:00",
+  "updatedAt": "2026-07-08T12:49:26+00:00",
+  "previousUpdatedAt": "2026-07-08T10:29:48+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6101,19 +6101,7 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Silver (1kg, Spool)",
-        "sku": "3DPF006",
-        "productId": "28753",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF006#product-28753",
-        "price": 22.99,
-        "inStock": true
-      }
-    ],
+    "inStock": [],
     "outOfStock": []
   },
   "errors": []
