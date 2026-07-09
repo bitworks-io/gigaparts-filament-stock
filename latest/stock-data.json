@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-09T16:08:24+00:00",
-  "previousUpdatedAt": "2026-07-09T12:19:26+00:00",
+  "updatedAt": "2026-07-09T18:58:39+00:00",
+  "previousUpdatedAt": "2026-07-09T16:08:24+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6102,19 +6102,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PC",
-        "group": "PC",
-        "name": "Transparent (1kg, Spool)",
-        "sku": "3DPF133",
-        "productId": "28866",
-        "url": "https://www.gigaparts.com/bambu-lab-pc-3d-printer-filament.html?sku=3DPF133#product-28866",
-        "price": 39.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
