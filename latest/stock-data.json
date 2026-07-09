@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-09T20:55:24+00:00",
-  "previousUpdatedAt": "2026-07-09T18:58:39+00:00",
+  "updatedAt": "2026-07-09T22:42:04+00:00",
+  "previousUpdatedAt": "2026-07-09T20:55:24+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6101,19 +6101,7 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG HF",
-        "group": "PETG",
-        "name": "Lake Blue (1kg, Spool)",
-        "sku": "3DPF425",
-        "productId": "38388",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF425#product-38388",
-        "price": 22.99,
-        "inStock": true
-      }
-    ],
+    "inStock": [],
     "outOfStock": []
   },
   "errors": []
