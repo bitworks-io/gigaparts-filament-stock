@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-08T23:21:36+00:00",
-  "previousUpdatedAt": "2026-07-08T21:21:03+00:00",
+  "updatedAt": "2026-07-09T04:09:36+00:00",
+  "previousUpdatedAt": "2026-07-08T23:21:36+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -435,7 +435,7 @@
           "hex": "#fec700",
           "sku": "3DPF351",
           "productId": "33103",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF351#product-33103"
         },
@@ -6102,7 +6102,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Sunflower Yellow (1kg, Refill)",
+        "sku": "3DPF351",
+        "productId": "33103",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF351#product-33103",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
