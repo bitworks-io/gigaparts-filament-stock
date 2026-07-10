@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-09T22:42:04+00:00",
-  "previousUpdatedAt": "2026-07-09T20:55:24+00:00",
+  "updatedAt": "2026-07-10T00:16:13+00:00",
+  "previousUpdatedAt": "2026-07-09T22:42:04+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5629,7 +5629,7 @@
           "hex": "#b2d600",
           "sku": "3DPM0396",
           "productId": "38543",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0396#product-38543"
         },
@@ -6102,7 +6102,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "PETG",
+        "group": "PETG",
+        "name": "Lime (Spool, 1kg)",
+        "sku": "3DPM0396",
+        "productId": "38543",
+        "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0396#product-38543",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
