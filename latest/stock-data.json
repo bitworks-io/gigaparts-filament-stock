@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-11T22:02:53+00:00",
-  "previousUpdatedAt": "2026-07-11T21:01:56+00:00",
+  "updatedAt": "2026-07-11T23:05:33+00:00",
+  "previousUpdatedAt": "2026-07-11T22:02:53+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -523,7 +523,7 @@
           "hex": "",
           "sku": "3DPF012",
           "productId": "28759",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF012#product-28759"
         },
@@ -2073,7 +2073,7 @@
           "hex": "#8e8e8e",
           "sku": "3DPF260",
           "productId": "33225",
-          "inStock": false,
+          "inStock": true,
           "price": 9.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF260#product-33225"
         },
@@ -2595,7 +2595,7 @@
           "hex": "#000000",
           "sku": "3DPF447",
           "productId": "39212",
-          "inStock": true,
+          "inStock": false,
           "price": 34.99,
           "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF447#product-39212"
         }
@@ -2841,7 +2841,7 @@
           "hex": "#c9c9c9",
           "sku": "3DPF246",
           "productId": "32419",
-          "inStock": true,
+          "inStock": false,
           "price": 9.99,
           "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF246#product-32419"
         },
@@ -6244,19 +6244,6 @@
     "inStock": [
       {
         "brand": "Bambu",
-        "line": "TPU for AMS",
-        "group": "TPU",
-        "name": "Black (1kg, Refill)",
-        "sku": "3DPF447",
-        "productId": "39212",
-        "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF447#product-39212",
-        "price": 34.99,
-        "inStock": true
-      }
-    ],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
         "line": "PETG Translucent",
         "group": "PETG",
         "name": "Translucent Gray (1kg, Refill)",
@@ -6264,39 +6251,41 @@
         "productId": "33225",
         "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF260#product-33225",
         "price": 9.99,
-        "inStock": false
-      },
+        "inStock": true
+      }
+    ],
+    "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PETG Translucent",
-        "group": "PETG",
-        "name": "Translucent Light Blue (1kg, Refill)",
-        "sku": "3DPF258",
-        "productId": "33221",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF258#product-33221",
+        "line": "ABS",
+        "group": "ABS",
+        "name": "Silver (1kg, Refill)",
+        "sku": "3DPF246",
+        "productId": "32419",
+        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF246#product-32419",
         "price": 9.99,
         "inStock": false
       },
       {
         "brand": "Bambu",
-        "line": "PLA Basic",
+        "line": "PLA Basic Gradient",
         "group": "PLA",
-        "name": "Turquoise (1kg, Refill)",
-        "sku": "3DPF352",
-        "productId": "33097",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF352#product-33097",
-        "price": 9.99,
+        "name": "Solar Breeze (1kg, Spool)",
+        "sku": "3DPF012",
+        "productId": "28759",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF012#product-28759",
+        "price": 24.99,
         "inStock": false
       },
       {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
-        "group": "PLA",
-        "name": "Army Purple (Spool, 1kg)",
-        "sku": "3DPM0103",
-        "productId": "39095",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0103#product-39095",
-        "price": 19.99,
+        "brand": "Bambu",
+        "line": "TPU for AMS",
+        "group": "TPU",
+        "name": "Black (1kg, Refill)",
+        "sku": "3DPF447",
+        "productId": "39212",
+        "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF447#product-39212",
+        "price": 34.99,
         "inStock": false
       }
     ]
