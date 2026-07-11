@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-10T22:14:05+00:00",
-  "previousUpdatedAt": "2026-07-10T20:41:09+00:00",
+  "updatedAt": "2026-07-11T00:07:36+00:00",
+  "previousUpdatedAt": "2026-07-10T22:14:05+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -385,7 +385,7 @@
           "hex": "#0056b8",
           "sku": "3DPF346",
           "productId": "33068",
-          "inStock": true,
+          "inStock": false,
           "price": 9.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF346#product-33068"
         },
@@ -1471,7 +1471,7 @@
           "hex": "#68724d",
           "sku": "3DPF230",
           "productId": "33041",
-          "inStock": true,
+          "inStock": false,
           "price": 9.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF230#product-33041"
         },
@@ -6245,13 +6245,24 @@
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Silk Multi-Color",
+        "line": "PLA Basic",
         "group": "PLA",
-        "name": "Velvet Eclipse (Black-Red) (1kg, Spool)",
-        "sku": "3DPF370",
-        "productId": "33833",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF370#product-33833",
-        "price": 24.99,
+        "name": "Cobalt Blue (1kg, Refill)",
+        "sku": "3DPF346",
+        "productId": "33068",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF346#product-33068",
+        "price": 9.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Matte",
+        "group": "PLA",
+        "name": "Dark Green (1kg, Refill)",
+        "sku": "3DPF230",
+        "productId": "33041",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF230#product-33041",
+        "price": 9.99,
         "inStock": false
       }
     ]
