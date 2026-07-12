@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-12T22:04:40+00:00",
-  "previousUpdatedAt": "2026-07-12T21:03:22+00:00",
+  "updatedAt": "2026-07-12T23:06:58+00:00",
+  "previousUpdatedAt": "2026-07-12T22:04:40+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1341,7 +1341,7 @@
           "hex": "#ffffff",
           "sku": "3DPF238",
           "productId": "32641",
-          "inStock": true,
+          "inStock": false,
           "price": 9.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF238#product-32641"
         },
@@ -1531,7 +1531,7 @@
           "hex": "#950052",
           "sku": "3DPF368",
           "productId": "33830",
-          "inStock": true,
+          "inStock": false,
           "price": 9.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF368#product-33830"
         },
@@ -2831,7 +2831,7 @@
           "hex": "#ffc72c",
           "sku": "3DPF252",
           "productId": "32418",
-          "inStock": true,
+          "inStock": false,
           "price": 9.99,
           "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF252#product-32418"
         },
@@ -6241,7 +6241,8 @@
     }
   ],
   "changes": {
-    "inStock": [
+    "inStock": [],
+    "outOfStock": [
       {
         "brand": "Bambu",
         "line": "ABS",
@@ -6251,7 +6252,7 @@
         "productId": "32418",
         "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF252#product-32418",
         "price": 9.99,
-        "inStock": true
+        "inStock": false
       },
       {
         "brand": "Bambu",
@@ -6262,18 +6263,16 @@
         "productId": "32641",
         "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF238#product-32641",
         "price": 9.99,
-        "inStock": true
-      }
-    ],
-    "outOfStock": [
+        "inStock": false
+      },
       {
         "brand": "Bambu",
-        "line": "PLA Basic",
+        "line": "PLA Matte",
         "group": "PLA",
-        "name": "Jade White (1kg, Refill)",
-        "sku": "3DPF221",
-        "productId": "32369",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF221#product-32369",
+        "name": "Plum (1kg, Refill)",
+        "sku": "3DPF368",
+        "productId": "33830",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF368#product-33830",
         "price": 9.99,
         "inStock": false
       }
