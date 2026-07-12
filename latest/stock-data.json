@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-11T23:05:33+00:00",
-  "previousUpdatedAt": "2026-07-11T22:02:53+00:00",
+  "updatedAt": "2026-07-12T00:08:47+00:00",
+  "previousUpdatedAt": "2026-07-11T23:05:33+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -2073,7 +2073,7 @@
           "hex": "#8e8e8e",
           "sku": "3DPF260",
           "productId": "33225",
-          "inStock": true,
+          "inStock": false,
           "price": 9.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF260#product-33225"
         },
@@ -6241,7 +6241,8 @@
     }
   ],
   "changes": {
-    "inStock": [
+    "inStock": [],
+    "outOfStock": [
       {
         "brand": "Bambu",
         "line": "PETG Translucent",
@@ -6251,41 +6252,6 @@
         "productId": "33225",
         "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF260#product-33225",
         "price": 9.99,
-        "inStock": true
-      }
-    ],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "ABS",
-        "group": "ABS",
-        "name": "Silver (1kg, Refill)",
-        "sku": "3DPF246",
-        "productId": "32419",
-        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF246#product-32419",
-        "price": 9.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic Gradient",
-        "group": "PLA",
-        "name": "Solar Breeze (1kg, Spool)",
-        "sku": "3DPF012",
-        "productId": "28759",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF012#product-28759",
-        "price": 24.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "TPU for AMS",
-        "group": "TPU",
-        "name": "Black (1kg, Refill)",
-        "sku": "3DPF447",
-        "productId": "39212",
-        "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF447#product-39212",
-        "price": 34.99,
         "inStock": false
       }
     ]
