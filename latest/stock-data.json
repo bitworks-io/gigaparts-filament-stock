@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-12T10:00:10+00:00",
-  "previousUpdatedAt": "2026-07-12T07:36:23+00:00",
+  "updatedAt": "2026-07-12T11:22:26+00:00",
+  "previousUpdatedAt": "2026-07-12T10:00:10+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6241,19 +6241,7 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
-        "group": "PLA",
-        "name": "Army Purple (Spool, 1kg)",
-        "sku": "3DPM0103",
-        "productId": "39095",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0103#product-39095",
-        "price": 19.99,
-        "inStock": true
-      }
-    ],
+    "inStock": [],
     "outOfStock": []
   },
   "errors": []
