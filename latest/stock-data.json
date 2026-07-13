@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-12T23:06:58+00:00",
-  "previousUpdatedAt": "2026-07-12T22:04:40+00:00",
+  "updatedAt": "2026-07-13T00:09:30+00:00",
+  "previousUpdatedAt": "2026-07-12T23:06:58+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -255,7 +255,7 @@
           "hex": "#ec008e",
           "sku": "3DPF219",
           "productId": "32390",
-          "inStock": true,
+          "inStock": false,
           "price": 9.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF219#product-32390"
         },
@@ -6245,34 +6245,12 @@
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "ABS",
-        "group": "ABS",
-        "name": "Tangerine Yellow (1kg, Refill)",
-        "sku": "3DPF252",
-        "productId": "32418",
-        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF252#product-32418",
-        "price": 9.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
+        "line": "PLA Basic",
         "group": "PLA",
-        "name": "Ivory White (1kg, Refill)",
-        "sku": "3DPF238",
-        "productId": "32641",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF238#product-32641",
-        "price": 9.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Plum (1kg, Refill)",
-        "sku": "3DPF368",
-        "productId": "33830",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF368#product-33830",
+        "name": "Magenta (1kg, Refill)",
+        "sku": "3DPF219",
+        "productId": "32390",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF219#product-32390",
         "price": 9.99,
         "inStock": false
       }
