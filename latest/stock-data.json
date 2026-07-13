@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-13T04:40:01+00:00",
-  "previousUpdatedAt": "2026-07-13T00:09:30+00:00",
+  "updatedAt": "2026-07-13T08:26:59+00:00",
+  "previousUpdatedAt": "2026-07-13T04:40:01+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -2595,7 +2595,7 @@
           "hex": "#000000",
           "sku": "3DPF447",
           "productId": "39212",
-          "inStock": true,
+          "inStock": false,
           "price": 34.99,
           "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF447#product-39212"
         }
@@ -6245,35 +6245,13 @@
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Bambu Green (1kg, Spool)",
-        "sku": "3DPF009",
-        "productId": "28756",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF009#product-28756",
-        "price": 22.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Dark Blue (1kg, Refill)",
-        "sku": "3DPF227",
-        "productId": "32733",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF227#product-32733",
-        "price": 9.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Silk+",
-        "group": "PLA",
-        "name": "Purple (1kg, Spool)",
-        "sku": "3DPF377",
-        "productId": "33842",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF377#product-33842",
-        "price": 22.99,
+        "line": "TPU for AMS",
+        "group": "TPU",
+        "name": "Black (1kg, Refill)",
+        "sku": "3DPF447",
+        "productId": "39212",
+        "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF447#product-39212",
+        "price": 34.99,
         "inStock": false
       }
     ]
