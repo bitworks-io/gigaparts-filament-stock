@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-14T20:20:15+00:00",
-  "previousUpdatedAt": "2026-07-14T18:15:06+00:00",
+  "updatedAt": "2026-07-14T22:10:11+00:00",
+  "previousUpdatedAt": "2026-07-14T20:20:15+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -295,7 +295,7 @@
           "hex": "#ed56a4",
           "sku": "3DPF217",
           "productId": "32735",
-          "inStock": false,
+          "inStock": true,
           "price": 9.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF217#product-32735"
         },
@@ -4113,7 +4113,7 @@
           "hex": "#5f6244",
           "sku": "3DPM0101",
           "productId": "39093",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0101#product-39093"
         },
@@ -6266,35 +6266,24 @@
         "brand": "Bambu",
         "line": "PLA Basic",
         "group": "PLA",
-        "name": "Bambu Green (1kg, Spool)",
-        "sku": "3DPF009",
-        "productId": "28756",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF009#product-28756",
-        "price": 22.99,
+        "name": "Pink (1kg, Refill)",
+        "sku": "3DPF217",
+        "productId": "32735",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF217#product-32735",
+        "price": 9.99,
         "inStock": true
       }
     ],
     "outOfStock": [
       {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Beige (1kg, Refill)",
-        "sku": "3DPF216",
-        "productId": "32736",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF216#product-32736",
-        "price": 9.99,
-        "inStock": false
-      },
-      {
         "brand": "Polymaker",
         "line": "Panchroma Matte PLA",
         "group": "PLA",
-        "name": "Lava Red (Refill, 1kg)",
-        "sku": "3DPM0164",
-        "productId": "38448",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0164#product-38448",
-        "price": 17.99,
+        "name": "Army Dark Green (Spool, 1kg)",
+        "sku": "3DPM0101",
+        "productId": "39093",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0101#product-39093",
+        "price": 19.99,
         "inStock": false
       }
     ]
