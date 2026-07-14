@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-14T06:21:40+00:00",
-  "previousUpdatedAt": "2026-07-14T03:27:54+00:00",
+  "updatedAt": "2026-07-14T09:15:01+00:00",
+  "previousUpdatedAt": "2026-07-14T06:21:40+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6242,19 +6242,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Pink (1kg, Refill)",
-        "sku": "3DPF217",
-        "productId": "32735",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF217#product-32735",
-        "price": 9.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
