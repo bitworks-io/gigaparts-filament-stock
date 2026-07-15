@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-15T06:25:19+00:00",
-  "previousUpdatedAt": "2026-07-15T03:27:29+00:00",
+  "updatedAt": "2026-07-15T09:19:33+00:00",
+  "previousUpdatedAt": "2026-07-15T06:25:19+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -55,7 +55,7 @@
           "hex": "#00ae43",
           "sku": "3DPF009",
           "productId": "28756",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF009#product-28756"
         },
@@ -6262,7 +6262,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Bambu Green (1kg, Spool)",
+        "sku": "3DPF009",
+        "productId": "28756",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF009#product-28756",
+        "price": 22.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
