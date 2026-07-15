@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-15T19:33:56+00:00",
-  "previousUpdatedAt": "2026-07-15T17:34:56+00:00",
+  "updatedAt": "2026-07-15T21:12:49+00:00",
+  "previousUpdatedAt": "2026-07-15T19:33:56+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1125,7 +1125,7 @@
           "hex": "#878787",
           "sku": "3DPF384",
           "productId": "33816",
-          "inStock": false,
+          "inStock": true,
           "price": 44.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html?sku=3DPF384#product-33816"
         }
@@ -1361,7 +1361,7 @@
           "hex": "#e8afcf",
           "sku": "3DPF234",
           "productId": "32732",
-          "inStock": false,
+          "inStock": true,
           "price": 9.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF234#product-32732"
         },
@@ -2945,7 +2945,7 @@
           "hex": "#000000",
           "sku": "3DPF132",
           "productId": "28865",
-          "inStock": true,
+          "inStock": false,
           "price": 39.99,
           "url": "https://www.gigaparts.com/bambu-lab-pc-3d-printer-filament.html?sku=3DPF132#product-28865"
         },
@@ -2975,7 +2975,7 @@
           "hex": "#ffffff",
           "sku": "3DPF135",
           "productId": "28868",
-          "inStock": true,
+          "inStock": false,
           "price": 39.99,
           "url": "https://www.gigaparts.com/bambu-lab-pc-3d-printer-filament.html?sku=3DPF135#product-28868"
         }
@@ -6124,59 +6124,48 @@
     "inStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Basic",
+        "line": "PLA Aero",
         "group": "PLA",
-        "name": "Blue (1kg, Refill)",
-        "sku": "3DPF206",
-        "productId": "32371",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF206#product-32371",
-        "price": 9.99,
+        "name": "Gray (1kg, Spool)",
+        "sku": "3DPF384",
+        "productId": "33816",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-aero-3d-printer-filament.html?sku=3DPF384#product-33816",
+        "price": 44.99,
         "inStock": true
       },
       {
         "brand": "Bambu",
         "line": "PLA Matte",
         "group": "PLA",
-        "name": "Lilac Purple (1kg, Refill)",
-        "sku": "3DPF235",
-        "productId": "32731",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF235#product-32731",
-        "price": 9.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Marine Blue (1kg, Refill)",
-        "sku": "3DPF225",
-        "productId": "32722",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF225#product-32722",
+        "name": "Sakura Pink (1kg, Refill)",
+        "sku": "3DPF234",
+        "productId": "32732",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF234#product-32732",
         "price": 9.99,
         "inStock": true
       }
     ],
     "outOfStock": [
       {
-        "brand": "Polymaker",
-        "line": "Panchroma Basic PLA",
-        "group": "PLA",
-        "name": "Pink (Spool, 1kg)",
-        "sku": "3DPM0246",
-        "productId": "38474",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0246#product-38474",
-        "price": 19.99,
+        "brand": "Bambu",
+        "line": "PC",
+        "group": "PC",
+        "name": "Clear Black (1kg, Spool)",
+        "sku": "3DPF132",
+        "productId": "28865",
+        "url": "https://www.gigaparts.com/bambu-lab-pc-3d-printer-filament.html?sku=3DPF132#product-28865",
+        "price": 39.99,
         "inStock": false
       },
       {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
-        "group": "PLA",
-        "name": "Cotton White (Refill, 1kg)",
-        "sku": "3DPM0160",
-        "productId": "38444",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0160#product-38444",
-        "price": 17.99,
+        "brand": "Bambu",
+        "line": "PC",
+        "group": "PC",
+        "name": "White (1kg, Spool)",
+        "sku": "3DPF135",
+        "productId": "28868",
+        "url": "https://www.gigaparts.com/bambu-lab-pc-3d-printer-filament.html?sku=3DPF135#product-28868",
+        "price": 39.99,
         "inStock": false
       }
     ]
