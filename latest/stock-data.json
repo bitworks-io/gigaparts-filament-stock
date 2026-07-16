@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-16T06:28:43+00:00",
-  "previousUpdatedAt": "2026-07-16T03:31:46+00:00",
+  "updatedAt": "2026-07-16T09:24:05+00:00",
+  "previousUpdatedAt": "2026-07-16T06:28:43+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -465,7 +465,7 @@
           "hex": "#f5547c",
           "sku": "3DPF360",
           "productId": "33821",
-          "inStock": false,
+          "inStock": true,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF360#product-33821"
         },
@@ -6121,7 +6121,19 @@
     }
   ],
   "changes": {
-    "inStock": [],
+    "inStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Hot Pink (1kg, Spool)",
+        "sku": "3DPF360",
+        "productId": "33821",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF360#product-33821",
+        "price": 22.99,
+        "inStock": true
+      }
+    ],
     "outOfStock": []
   },
   "errors": []
