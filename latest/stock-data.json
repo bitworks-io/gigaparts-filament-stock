@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-16T22:13:14+00:00",
-  "previousUpdatedAt": "2026-07-16T20:09:27+00:00",
+  "updatedAt": "2026-07-17T00:09:59+00:00",
+  "previousUpdatedAt": "2026-07-16T22:13:14+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -165,7 +165,7 @@
           "hex": "#ff4800",
           "sku": "3DPF194",
           "productId": "32126",
-          "inStock": false,
+          "inStock": true,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF194#product-32126"
         },
@@ -1541,7 +1541,7 @@
           "hex": "#757575",
           "sku": "3DPF363",
           "productId": "33829",
-          "inStock": false,
+          "inStock": true,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF363#product-33829"
         },
@@ -4863,7 +4863,7 @@
           "hex": "#e8e6d0",
           "sku": "3DPM0037",
           "productId": "39052",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-translucent-pla-3d-printer-filament.html?sku=3DPM0037#product-39052"
         }
@@ -6264,58 +6264,36 @@
     "inStock": [
       {
         "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Orange (1kg, Refill)",
+        "sku": "3DPF194",
+        "productId": "32126",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF194#product-32126",
+        "price": 19.99,
+        "inStock": true
+      },
+      {
+        "brand": "Bambu",
         "line": "PLA Matte",
         "group": "PLA",
-        "name": "Mandarin Orange (1kg, Refill)",
-        "sku": "3DPF224",
-        "productId": "32413",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF224#product-32413",
+        "name": "Nardo Gray (1kg, Refill)",
+        "sku": "3DPF363",
+        "productId": "33829",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF363#product-33829",
         "price": 19.99,
         "inStock": true
       }
     ],
     "outOfStock": [
       {
-        "brand": "Bambu",
-        "line": "PETG Translucent",
-        "group": "PETG",
-        "name": "Clear (1kg, Refill)",
-        "sku": "3DPF259",
-        "productId": "33229",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF259#product-33229",
-        "price": 19.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PETG Translucent",
-        "group": "PETG",
-        "name": "Purple (1kg, Refill)",
-        "sku": "3DPF264",
-        "productId": "33208",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF264#product-33208",
-        "price": 19.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Indigo Purple (1kg, Spool)",
-        "sku": "3DPF359",
-        "productId": "33822",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF359#product-33822",
-        "price": 22.99,
-        "inStock": false
-      },
-      {
         "brand": "Polymaker",
-        "line": "Panchroma Basic PLA",
+        "line": "Panchroma Translucent PLA",
         "group": "PLA",
-        "name": "Brown (Spool, 1kg)",
-        "sku": "3DPM0255",
-        "productId": "38483",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0255#product-38483",
+        "name": "Translucent Natural (Spool, 1kg)",
+        "sku": "3DPM0037",
+        "productId": "39052",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-translucent-pla-3d-printer-filament.html?sku=3DPM0037#product-39052",
         "price": 19.99,
         "inStock": false
       }
