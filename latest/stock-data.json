@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-17T20:13:18+00:00",
-  "previousUpdatedAt": "2026-07-17T18:16:22+00:00",
+  "updatedAt": "2026-07-17T22:03:57+00:00",
+  "previousUpdatedAt": "2026-07-17T20:13:18+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6181,19 +6181,7 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "TPU for AMS",
-        "group": "TPU",
-        "name": "Black (1kg, Refill)",
-        "sku": "3DPF447",
-        "productId": "39212",
-        "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF447#product-39212",
-        "price": 34.99,
-        "inStock": true
-      }
-    ],
+    "inStock": [],
     "outOfStock": []
   },
   "errors": []
