@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-17T16:24:05+00:00",
-  "previousUpdatedAt": "2026-07-17T14:52:40+00:00",
+  "updatedAt": "2026-07-17T18:16:22+00:00",
+  "previousUpdatedAt": "2026-07-17T16:24:05+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -2397,7 +2397,7 @@
           "hex": "#2a4b91",
           "sku": "3DPF186",
           "productId": "28902",
-          "inStock": true,
+          "inStock": false,
           "price": 41.99,
           "url": "https://www.gigaparts.com/bambu-lab-tpu-95a-hf-3d-printer-filament.html?sku=3DPF186#product-28902"
         },
@@ -6181,53 +6181,20 @@
     }
   ],
   "changes": {
-    "inStock": [
+    "inStock": [],
+    "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PETG HF",
-        "group": "PETG",
-        "name": "Peanut Brown (1kg, Spool)",
-        "sku": "3DPF445",
-        "productId": "38567",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF445#product-38567",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PETG Translucent",
-        "group": "PETG",
-        "name": "Clear (1kg, Refill)",
-        "sku": "3DPF259",
-        "productId": "33229",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF259#product-33229",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Pink (1kg, Refill)",
-        "sku": "3DPF217",
-        "productId": "32735",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF217#product-32735",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Purple (1kg, Refill)",
-        "sku": "3DPF218",
-        "productId": "32389",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF218#product-32389",
-        "price": 19.99,
-        "inStock": true
+        "line": "TPU 95A HF",
+        "group": "TPU",
+        "name": "Blue (1kg, Spool)",
+        "sku": "3DPF186",
+        "productId": "28902",
+        "url": "https://www.gigaparts.com/bambu-lab-tpu-95a-hf-3d-printer-filament.html?sku=3DPF186#product-28902",
+        "price": 41.99,
+        "inStock": false
       }
-    ],
-    "outOfStock": []
+    ]
   },
   "errors": []
 }
