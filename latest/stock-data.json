@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-17T04:19:42+00:00",
-  "previousUpdatedAt": "2026-07-17T00:09:59+00:00",
+  "updatedAt": "2026-07-17T07:27:30+00:00",
+  "previousUpdatedAt": "2026-07-17T04:19:42+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6261,74 +6261,7 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG Translucent",
-        "group": "PETG",
-        "name": "Clear (1kg, Refill)",
-        "sku": "3DPF259",
-        "productId": "33229",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF259#product-33229",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Beige (1kg, Refill)",
-        "sku": "3DPF216",
-        "productId": "32736",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF216#product-32736",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Cocoa Brown (1kg, Refill)",
-        "sku": "3DPF348",
-        "productId": "33066",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF348#product-33066",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Cyan (1kg, Refill)",
-        "sku": "3DPF205",
-        "productId": "32740",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF205#product-32740",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Dark Brown (1kg, Refill)",
-        "sku": "3DPF233",
-        "productId": "32726",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF233#product-32726",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Lemon Yellow (1kg, Refill)",
-        "sku": "3DPF193",
-        "productId": "32102",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF193#product-32102",
-        "price": 19.99,
-        "inStock": true
-      }
-    ],
+    "inStock": [],
     "outOfStock": []
   },
   "errors": []
