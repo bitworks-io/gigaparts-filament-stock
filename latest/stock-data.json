@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-17T10:08:38+00:00",
-  "previousUpdatedAt": "2026-07-17T07:27:30+00:00",
+  "updatedAt": "2026-07-17T12:19:10+00:00",
+  "previousUpdatedAt": "2026-07-17T10:08:38+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6261,32 +6261,8 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG Translucent",
-        "group": "PETG",
-        "name": "Purple (1kg, Refill)",
-        "sku": "3DPF264",
-        "productId": "33208",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF264#product-33208",
-        "price": 19.99,
-        "inStock": true
-      }
-    ],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG Translucent",
-        "group": "PETG",
-        "name": "Clear (1kg, Refill)",
-        "sku": "3DPF259",
-        "productId": "33229",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF259#product-33229",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "inStock": [],
+    "outOfStock": []
   },
   "errors": []
 }
