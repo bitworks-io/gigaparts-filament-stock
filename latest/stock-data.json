@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-18T22:02:33+00:00",
-  "previousUpdatedAt": "2026-07-18T21:02:21+00:00",
+  "updatedAt": "2026-07-18T23:05:56+00:00",
+  "previousUpdatedAt": "2026-07-18T22:02:33+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6181,30 +6181,7 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Pumpkin Orange (1kg, Refill)",
-        "sku": "3DPF345",
-        "productId": "33069",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF345#product-33069",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic Gradient",
-        "group": "PLA",
-        "name": "Solar Breeze (1kg, Spool)",
-        "sku": "3DPF012",
-        "productId": "28759",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF012#product-28759",
-        "price": 24.99,
-        "inStock": true
-      }
-    ],
+    "inStock": [],
     "outOfStock": []
   },
   "errors": []
