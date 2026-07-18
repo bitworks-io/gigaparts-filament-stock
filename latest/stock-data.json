@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-18T17:09:10+00:00",
-  "previousUpdatedAt": "2026-07-18T15:09:31+00:00",
+  "updatedAt": "2026-07-18T19:20:31+00:00",
+  "previousUpdatedAt": "2026-07-18T17:09:10+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -475,7 +475,7 @@
           "hex": "#482960",
           "sku": "3DPF359",
           "productId": "33822",
-          "inStock": false,
+          "inStock": true,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF359#product-33822"
         },
@@ -1321,7 +1321,7 @@
           "hex": "#a3d8e1",
           "sku": "3DPF226",
           "productId": "32728",
-          "inStock": false,
+          "inStock": true,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF226#product-32728"
         },
@@ -6181,31 +6181,31 @@
     }
   ],
   "changes": {
-    "inStock": [],
-    "outOfStock": [
+    "inStock": [
       {
-        "brand": "Polymaker",
-        "line": "Fiberon PA6-CF20 Black 1.75mm 500g Filament Spool",
-        "group": "PA",
-        "name": "Default",
-        "sku": "3DPM0287",
-        "productId": "39022",
-        "url": "https://www.gigaparts.com/polymaker-fiberon-pa6-cf20-black-1-75mm-500g-filament-spool.html?sku=3DPM0287#product-39022",
-        "price": 39.99,
-        "inStock": false
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Indigo Purple (1kg, Spool)",
+        "sku": "3DPF359",
+        "productId": "33822",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF359#product-33822",
+        "price": 22.99,
+        "inStock": true
       },
       {
-        "brand": "Polymaker",
-        "line": "Panchroma Gradient Starlight PLA",
+        "brand": "Bambu",
+        "line": "PLA Matte",
         "group": "PLA",
-        "name": "Purple-Red (Spool, 1kg)",
-        "sku": "3DPM0208",
-        "productId": "38464",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-starlight-pla-3d-printer-filament.html?sku=3DPM0208#product-38464",
-        "price": 34.99,
-        "inStock": false
+        "name": "Ice Blue (1kg, Refill)",
+        "sku": "3DPF226",
+        "productId": "32728",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF226#product-32728",
+        "price": 19.99,
+        "inStock": true
       }
-    ]
+    ],
+    "outOfStock": []
   },
   "errors": []
 }
