@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-18T23:05:56+00:00",
-  "previousUpdatedAt": "2026-07-18T22:02:33+00:00",
+  "updatedAt": "2026-07-19T00:07:33+00:00",
+  "previousUpdatedAt": "2026-07-18T23:05:56+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -15,7 +15,7 @@
           "hex": "#5b6579",
           "sku": "3DPF002",
           "productId": "28749",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF002#product-28749"
         },
@@ -6182,7 +6182,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Blue Gray (1kg, Spool)",
+        "sku": "3DPF002",
+        "productId": "28749",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF002#product-28749",
+        "price": 22.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
