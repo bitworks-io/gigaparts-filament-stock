@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-20T19:05:10+00:00",
-  "previousUpdatedAt": "2026-07-20T16:41:46+00:00",
+  "updatedAt": "2026-07-20T20:39:03+00:00",
+  "previousUpdatedAt": "2026-07-20T19:05:10+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6181,43 +6181,8 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Bright Green (1kg, Refill)",
-        "sku": "3DPF349",
-        "productId": "33106",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF349#product-33106",
-        "price": 19.99,
-        "inStock": true
-      }
-    ],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Blue Gray (1kg, Refill)",
-        "sku": "3DPF196",
-        "productId": "32099",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF196#product-32099",
-        "price": 19.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "PolyLite PLA Pro",
-        "group": "PLA",
-        "name": "Brown (Spool, 1kg)",
-        "sku": "3DPM0325",
-        "productId": "38519",
-        "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0325#product-38519",
-        "price": 22.99,
-        "inStock": false
-      }
-    ]
+    "inStock": [],
+    "outOfStock": []
   },
   "errors": []
 }
