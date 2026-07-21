@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-21T03:43:09+00:00",
-  "previousUpdatedAt": "2026-07-21T00:06:43+00:00",
+  "updatedAt": "2026-07-21T06:38:30+00:00",
+  "previousUpdatedAt": "2026-07-21T03:43:09+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6182,19 +6182,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG CF",
-        "group": "PETG",
-        "name": "4105 (1kg, Spool)",
-        "sku": "",
-        "productId": "28894",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html#product-28894",
-        "price": 0,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
