@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-21T14:17:24+00:00",
-  "previousUpdatedAt": "2026-07-21T11:58:03+00:00",
+  "updatedAt": "2026-07-21T16:39:03+00:00",
+  "previousUpdatedAt": "2026-07-21T14:17:24+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -15,7 +15,7 @@
           "hex": "#5b6579",
           "sku": "3DPF002",
           "productId": "28749",
-          "inStock": false,
+          "inStock": true,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF002#product-28749"
         },
@@ -435,7 +435,7 @@
           "hex": "#fec700",
           "sku": "3DPF351",
           "productId": "33103",
-          "inStock": false,
+          "inStock": true,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF351#product-33103"
         },
@@ -1371,7 +1371,7 @@
           "hex": "#042e56",
           "sku": "3DPF227",
           "productId": "32733",
-          "inStock": false,
+          "inStock": true,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF227#product-32733"
         },
@@ -1747,7 +1747,7 @@
           "hex": "#000000",
           "sku": "3DPF464",
           "productId": "39484",
-          "inStock": false,
+          "inStock": true,
           "price": 20.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF464#product-39484"
         }
@@ -2314,14 +2314,74 @@
       "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html",
       "items": [
         {
-          "name": "Default",
-          "color": "",
-          "hex": "",
-          "sku": "3DP-PETG-CF",
-          "productId": "35290",
+          "name": "Black (1kg, Refill)",
+          "color": "Black",
+          "hex": "#000000",
+          "sku": "",
+          "productId": "33102",
           "inStock": false,
-          "price": 0.0,
-          "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html?sku=3DP-PETG-CF#product-35290"
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html#product-33102"
+        },
+        {
+          "name": "4104 (1kg, Spool)",
+          "color": "4104",
+          "hex": "",
+          "sku": "",
+          "productId": "28893",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html#product-28893"
+        },
+        {
+          "name": "4105 (1kg, Spool)",
+          "color": "4105",
+          "hex": "",
+          "sku": "",
+          "productId": "28894",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html#product-28894"
+        },
+        {
+          "name": "4106 (1kg, Spool)",
+          "color": "4106",
+          "hex": "",
+          "sku": "",
+          "productId": "28895",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html#product-28895"
+        },
+        {
+          "name": "Black (1kg, Spool)",
+          "color": "Black",
+          "hex": "#000000",
+          "sku": "",
+          "productId": "28896",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html#product-28896"
+        },
+        {
+          "name": "4107 (1kg, Spool)",
+          "color": "4107",
+          "hex": "",
+          "sku": "",
+          "productId": "28897",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html#product-28897"
+        },
+        {
+          "name": "4108 (1kg, Spool)",
+          "color": "4108",
+          "hex": "",
+          "sku": "",
+          "productId": "28898",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html#product-28898"
         }
       ]
     },
@@ -6121,7 +6181,52 @@
     }
   ],
   "changes": {
-    "inStock": [],
+    "inStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Blue Gray (1kg, Spool)",
+        "sku": "3DPF002",
+        "productId": "28749",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF002#product-28749",
+        "price": 22.99,
+        "inStock": true
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Sunflower Yellow (1kg, Refill)",
+        "sku": "3DPF351",
+        "productId": "33103",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF351#product-33103",
+        "price": 19.99,
+        "inStock": true
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Matte",
+        "group": "PLA",
+        "name": "Dark Blue (1kg, Refill)",
+        "sku": "3DPF227",
+        "productId": "32733",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF227#product-32733",
+        "price": 19.99,
+        "inStock": true
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Tough+",
+        "group": "PLA",
+        "name": "Black (Refill, 1kg)",
+        "sku": "3DPF464",
+        "productId": "39484",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF464#product-39484",
+        "price": 20.99,
+        "inStock": true
+      }
+    ],
     "outOfStock": []
   },
   "errors": []
