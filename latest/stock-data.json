@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-23T21:18:57+00:00",
-  "previousUpdatedAt": "2026-07-23T19:41:45+00:00",
+  "updatedAt": "2026-07-23T23:09:26+00:00",
+  "previousUpdatedAt": "2026-07-23T21:18:57+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3399,7 +3399,7 @@
           "hex": "#5ebedb",
           "sku": "3DPM0253",
           "productId": "38481",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0253#product-38481"
         },
@@ -6262,7 +6262,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Basic PLA",
+        "group": "PLA",
+        "name": "Aqua Blue (Spool, 1kg)",
+        "sku": "3DPM0253",
+        "productId": "38481",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0253#product-38481",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
