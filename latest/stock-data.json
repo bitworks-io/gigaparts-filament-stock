@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-23T17:42:45+00:00",
-  "previousUpdatedAt": "2026-07-23T15:21:38+00:00",
+  "updatedAt": "2026-07-23T19:41:45+00:00",
+  "previousUpdatedAt": "2026-07-23T17:42:45+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6262,19 +6262,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Gradient Matte PLA",
-        "group": "PLA",
-        "name": "Pastel Rainbow (Spool, 1kg)",
-        "sku": "3DPM0146",
-        "productId": "39138",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0146#product-39138",
-        "price": 24.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
