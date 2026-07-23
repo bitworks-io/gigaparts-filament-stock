@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-22T22:14:26+00:00",
-  "previousUpdatedAt": "2026-07-22T20:19:14+00:00",
+  "updatedAt": "2026-07-23T00:11:17+00:00",
+  "previousUpdatedAt": "2026-07-22T22:14:26+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6121,19 +6121,7 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Ivory White (1kg, Refill)",
-        "sku": "3DPF238",
-        "productId": "32641",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF238#product-32641",
-        "price": 19.99,
-        "inStock": true
-      }
-    ],
+    "inStock": [],
     "outOfStock": []
   },
   "errors": []
