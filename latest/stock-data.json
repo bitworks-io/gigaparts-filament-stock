@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-24T03:37:43+00:00",
-  "previousUpdatedAt": "2026-07-23T23:09:26+00:00",
+  "updatedAt": "2026-07-24T06:36:59+00:00",
+  "previousUpdatedAt": "2026-07-24T03:37:43+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3110,7 +3110,7 @@
           "sku": "3DP-PM-PLA",
           "productId": "38548",
           "inStock": false,
-          "price": 10.99,
+          "price": 8.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DP-PM-PLA#product-38548"
         }
       ]
@@ -3128,7 +3128,7 @@
           "sku": "3DP-PM-PLA-DUALMATTE",
           "productId": "39172",
           "inStock": false,
-          "price": 22.99,
+          "price": 11.49,
           "url": "https://www.gigaparts.com/polymaker-panchroma-dual-matte-pla-3d-printer-filament.html?sku=3DP-PM-PLA-DUALMATTE#product-39172"
         }
       ]
@@ -3146,7 +3146,7 @@
           "sku": "3DP-PM-PLA-DUALSILK",
           "productId": "39169",
           "inStock": false,
-          "price": 22.99,
+          "price": 11.49,
           "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DP-PM-PLA-DUALSILK#product-39169"
         }
       ]
@@ -3164,7 +3164,7 @@
           "sku": "3DP-PM-PLA-MATTE",
           "productId": "38553",
           "inStock": false,
-          "price": 17.99,
+          "price": 8.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DP-PM-PLA-MATTE#product-38553"
         }
       ]
@@ -3182,7 +3182,7 @@
           "sku": "3DP-PM-PLA-STARLIGHT",
           "productId": "38554",
           "inStock": false,
-          "price": 26.99,
+          "price": 13.49,
           "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DP-PM-PLA-STARLIGHT#product-38554"
         }
       ]
@@ -3200,7 +3200,7 @@
           "sku": "3DP-PM-PLA-METALLIC",
           "productId": "39167",
           "inStock": false,
-          "price": 24.99,
+          "price": 12.49,
           "url": "https://www.gigaparts.com/polymaker-panchroma-metallic-pla-3d-printer-filament.html?sku=3DP-PM-PLA-METALLIC#product-39167"
         }
       ]
@@ -3218,7 +3218,7 @@
           "sku": "3DP-PM-PLA-NEON",
           "productId": "39166",
           "inStock": false,
-          "price": 24.99,
+          "price": 12.49,
           "url": "https://www.gigaparts.com/polymaker-panchroma-neon-pla-3d-printer-filament.html?sku=3DP-PM-PLA-NEON#product-39166"
         }
       ]
@@ -3236,7 +3236,7 @@
           "sku": "3DP-PM-PLA-SATIN",
           "productId": "39173",
           "inStock": false,
-          "price": 19.99,
+          "price": 9.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-satin-pla-3d-printer-filament.html?sku=3DP-PM-PLA-SATIN#product-39173"
         }
       ]
@@ -3254,7 +3254,7 @@
           "sku": "3DP-PM-PLA-TRLUCNT",
           "productId": "39165",
           "inStock": false,
-          "price": 19.99,
+          "price": 9.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-translucent-pla-3d-printer-filament.html?sku=3DP-PM-PLA-TRLUCNT#product-39165"
         }
       ]
@@ -3272,7 +3272,7 @@
           "sku": "3DP-PM-PLA-GRADSTRLT",
           "productId": "38552",
           "inStock": false,
-          "price": 34.99,
+          "price": 17.49,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-starlight-pla-3d-printer-filament.html?sku=3DP-PM-PLA-GRADSTRLT#product-38552"
         }
       ]
@@ -3290,7 +3290,7 @@
           "sku": "3DP-PM-PLA-GRADCLSTL",
           "productId": "39175",
           "inStock": false,
-          "price": 29.99,
+          "price": 14.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-celestial-pla-3d-printer-filament.html?sku=3DP-PM-PLA-GRADCLSTL#product-39175"
         }
       ]
@@ -3308,7 +3308,7 @@
           "sku": "3DP-PM-PLA-GRADCRSTL",
           "productId": "39176",
           "inStock": false,
-          "price": 24.99,
+          "price": 12.49,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-crystal-pla-3d-printer-filament.html?sku=3DP-PM-PLA-GRADCRSTL#product-39176"
         }
       ]
@@ -3326,7 +3326,7 @@
           "sku": "3DP-PM-PLA-GRADGLXY",
           "productId": "39174",
           "inStock": false,
-          "price": 29.99,
+          "price": 14.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-galaxy-pla-3d-printer-filament.html?sku=3DP-PM-PLA-GRADGLXY#product-39174"
         }
       ]
@@ -3344,7 +3344,7 @@
           "sku": "3DP-PM-PLA-GLOW",
           "productId": "38550",
           "inStock": false,
-          "price": 24.99,
+          "price": 12.49,
           "url": "https://www.gigaparts.com/polymaker-panchroma-glow-pla-3d-printer-filament.html?sku=3DP-PM-PLA-GLOW#product-38550"
         }
       ]
@@ -3362,7 +3362,7 @@
           "sku": "3DP-PM-PLA-LUMINOUS",
           "productId": "39168",
           "inStock": false,
-          "price": 24.99,
+          "price": 12.49,
           "url": "https://www.gigaparts.com/polymaker-panchroma-luminous-pla-3d-printer-filament.html?sku=3DP-PM-PLA-LUMINOUS#product-39168"
         }
       ]
@@ -3380,7 +3380,7 @@
           "sku": "3DP-PM-PLA-MARBLE",
           "productId": "39171",
           "inStock": false,
-          "price": 19.99,
+          "price": 9.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-marble-pla-3d-printer-filament.html?sku=3DP-PM-PLA-MARBLE#product-39171"
         }
       ]
@@ -3398,7 +3398,7 @@
           "sku": "3DP-PM-PLA-GRADMATTE",
           "productId": "38551",
           "inStock": false,
-          "price": 22.99,
+          "price": 11.49,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DP-PM-PLA-GRADMATTE#product-38551"
         }
       ]
@@ -3416,7 +3416,7 @@
           "sku": "3DP-PM-PLA-GRADSILK",
           "productId": "39170",
           "inStock": false,
-          "price": 24.99,
+          "price": 12.49,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-silk-pla-3d-printer-filament.html?sku=3DP-PM-PLA-GRADSILK#product-39170"
         }
       ]
@@ -3434,7 +3434,7 @@
           "sku": "3DP-PM-PL-MTL-PLA-PR",
           "productId": "38555",
           "inStock": false,
-          "price": 22.99,
+          "price": 11.49,
           "url": "https://www.gigaparts.com/polymaker-polylite-metallic-pla-pro-metallic-3d-printer-filament.html?sku=3DP-PM-PL-MTL-PLA-PR#product-38555"
         }
       ]
@@ -3452,7 +3452,7 @@
           "sku": "3DP-PM-PL-PLA-PRO",
           "productId": "38556",
           "inStock": false,
-          "price": 22.99,
+          "price": 11.49,
           "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DP-PM-PL-PLA-PRO#product-38556"
         }
       ]
@@ -3470,7 +3470,7 @@
           "sku": "3DP-PM-PETG",
           "productId": "38549",
           "inStock": false,
-          "price": 10.99,
+          "price": 9.99,
           "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DP-PM-PETG#product-38549"
         }
       ]
@@ -3488,7 +3488,7 @@
           "sku": "3DP-PM-PM-PETG",
           "productId": "38557",
           "inStock": false,
-          "price": 29.99,
+          "price": 14.99,
           "url": "https://www.gigaparts.com/polymaker-polymax-petg-3d-printer-filament.html?sku=3DP-PM-PM-PETG#product-38557"
         }
       ]
@@ -3524,7 +3524,7 @@
           "sku": "3DPM0279",
           "productId": "38418",
           "inStock": true,
-          "price": 19.99,
+          "price": 9.99,
           "url": "https://www.gigaparts.com/polymaker-fiberon-petg-rcf08-black-1-75mm-500g-filament-spool.html?sku=3DPM0279#product-38418"
         }
       ]
@@ -3542,7 +3542,7 @@
           "sku": "3DPM0286",
           "productId": "39021",
           "inStock": true,
-          "price": 29.99,
+          "price": 14.99,
           "url": "https://www.gigaparts.com/polymaker-fiberon-pa6-gf25-grey-1-75mm-500g-filament-spool.html?sku=3DPM0286#product-39021"
         }
       ]
@@ -3596,7 +3596,7 @@
           "sku": "3DPM0289",
           "productId": "39024",
           "inStock": true,
-          "price": 34.99,
+          "price": 17.49,
           "url": "https://www.gigaparts.com/polymaker-fiberon-pa612-cf15-black-1-75mm-500g-filament-spool.html?sku=3DPM0289#product-39024"
         }
       ]
@@ -3614,7 +3614,7 @@
           "sku": "3DPM0290",
           "productId": "39025",
           "inStock": true,
-          "price": 64.99,
+          "price": 32.49,
           "url": "https://www.gigaparts.com/polymaker-fiberon-pa612-esd-black-1-75mm-500g-filament-spool.html?sku=3DPM0290#product-39025"
         }
       ]
@@ -3650,7 +3650,7 @@
           "sku": "3DPM0297",
           "productId": "39034",
           "inStock": true,
-          "price": 29.99,
+          "price": 14.99,
           "url": "https://www.gigaparts.com/polymaker-fiberon-pet-gf15red-1-75mm-1kg-filament-spool.html?sku=3DPM0297#product-39034"
         }
       ]
@@ -3668,7 +3668,7 @@
           "sku": "3DPM0298",
           "productId": "39026",
           "inStock": true,
-          "price": 69.99,
+          "price": 34.99,
           "url": "https://www.gigaparts.com/polymaker-fiberon-pps-cf10-black-1-75mm-500g-filament-spool.html?sku=3DPM0298#product-39026"
         }
       ]
@@ -3722,7 +3722,7 @@
           "sku": "3DPM0411",
           "productId": "39036",
           "inStock": true,
-          "price": 29.99,
+          "price": 14.99,
           "url": "https://www.gigaparts.com/polymaker-polyflex-tpu95-black-1-75mm-750g-filament-spool.html?sku=3DPM0411#product-39036"
         }
       ]
@@ -3740,7 +3740,7 @@
           "sku": "3DPM0417",
           "productId": "39037",
           "inStock": true,
-          "price": 39.99,
+          "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-polyflex-tpu90black-1-75mm-750g-filament-spool.html?sku=3DPM0417#product-39037"
         }
       ]
@@ -3758,7 +3758,7 @@
           "sku": "3DPM0422",
           "productId": "39038",
           "inStock": true,
-          "price": 49.99,
+          "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-polyflex-tpu95-hf-black-1-75mm-1kg-filament-spool.html?sku=3DPM0422#product-39038"
         }
       ]
@@ -3776,7 +3776,7 @@
           "sku": "3DPM0426",
           "productId": "39039",
           "inStock": true,
-          "price": 19.99,
+          "price": 9.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-abs-black-1-75mm-1kg-filament-spool.html?sku=3DPM0426#product-39039"
         }
       ]
@@ -3794,7 +3794,7 @@
           "sku": "3DPM0450",
           "productId": "39040",
           "inStock": true,
-          "price": 25.99,
+          "price": 12.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-asa-black-1-75mm-1kg-filament-spool.html?sku=3DPM0450#product-39040"
         }
       ]
@@ -3812,7 +3812,7 @@
           "sku": "3DPM0335",
           "productId": "39035",
           "inStock": true,
-          "price": 29.99,
+          "price": 14.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-lw-pla-white-1-75mm-800g-filament-spool.html?sku=3DPM0335#product-39035"
         }
       ]
@@ -3830,7 +3830,7 @@
           "sku": "3DPM0425",
           "productId": "39028",
           "inStock": true,
-          "price": 29.99,
+          "price": 14.99,
           "url": "https://www.gigaparts.com/polymaker-polysupport-pearl-white-1-75mm-750g-filament-spool.html?sku=3DPM0425#product-39028"
         }
       ]
@@ -3848,7 +3848,7 @@
           "sku": "3DPM0488",
           "productId": "39029",
           "inStock": true,
-          "price": 39.99,
+          "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-polysupport-grass-green-1-75mm-500g-filament-spool.html?sku=3DPM0488#product-39029"
         }
       ]
@@ -3884,7 +3884,7 @@
           "sku": "3DPM0235",
           "productId": "39032",
           "inStock": true,
-          "price": 19.99,
+          "price": 9.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-cope-stone-blue-1-75mm-1kg-filament-spool.html?sku=3DPM0235#product-39032"
         }
       ]
