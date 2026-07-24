@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-24T17:47:41+00:00",
-  "previousUpdatedAt": "2026-07-24T15:42:56+00:00",
+  "updatedAt": "2026-07-24T19:43:41+00:00",
+  "previousUpdatedAt": "2026-07-24T17:47:41+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -2979,7 +2979,7 @@
           "hex": "#000000",
           "sku": "3DPF128",
           "productId": "31483",
-          "inStock": true,
+          "inStock": false,
           "price": 29.99,
           "url": "https://www.gigaparts.com/bambu-lab-abs-gf-3d-printer-filament.html?sku=3DPF128#product-31483"
         },
@@ -3681,7 +3681,7 @@
           "hex": "",
           "sku": "3DPM0286",
           "productId": "39021",
-          "inStock": true,
+          "inStock": false,
           "price": 14.99,
           "url": "https://www.gigaparts.com/polymaker-fiberon-pa6-gf25-grey-1-75mm-500g-filament-spool.html?sku=3DPM0286#product-39021"
         }
@@ -3933,7 +3933,7 @@
           "hex": "",
           "sku": "3DPM0450",
           "productId": "39040",
-          "inStock": true,
+          "inStock": false,
           "price": 12.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-asa-black-1-75mm-1kg-filament-spool.html?sku=3DPM0450#product-39040"
         }
@@ -4032,7 +4032,41 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "ABS GF",
+        "group": "ABS",
+        "name": "Black (1kg, Spool)",
+        "sku": "3DPF128",
+        "productId": "31483",
+        "url": "https://www.gigaparts.com/bambu-lab-abs-gf-3d-printer-filament.html?sku=3DPF128#product-31483",
+        "price": 29.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Fiberon PA6-GF25 Grey 1.75mm 500g Filament Spool",
+        "group": "PA",
+        "name": "Default",
+        "sku": "3DPM0286",
+        "productId": "39021",
+        "url": "https://www.gigaparts.com/polymaker-fiberon-pa6-gf25-grey-1-75mm-500g-filament-spool.html?sku=3DPM0286#product-39021",
+        "price": 14.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "PolyLite ASA Black 1.75mm 1kg Filament Spool",
+        "group": "ASA",
+        "name": "Default",
+        "sku": "3DPM0450",
+        "productId": "39040",
+        "url": "https://www.gigaparts.com/polymaker-polylite-asa-black-1-75mm-1kg-filament-spool.html?sku=3DPM0450#product-39040",
+        "price": 12.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
