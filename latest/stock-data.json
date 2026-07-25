@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-25T15:16:48+00:00",
-  "previousUpdatedAt": "2026-07-25T13:57:48+00:00",
+  "updatedAt": "2026-07-25T17:12:06+00:00",
+  "previousUpdatedAt": "2026-07-25T15:16:48+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3657,7 +3657,7 @@
           "hex": "",
           "sku": "3DPM0288",
           "productId": "39023",
-          "inStock": false,
+          "inStock": true,
           "price": 69.99,
           "url": "https://www.gigaparts.com/polymaker-fiberon-pa12-cf10-black-1-75mm-500g-filament-spool.html?sku=3DPM0288#product-39023"
         }
@@ -3747,7 +3747,7 @@
           "hex": "",
           "sku": "3DPM0298",
           "productId": "39026",
-          "inStock": true,
+          "inStock": false,
           "price": 34.99,
           "url": "https://www.gigaparts.com/polymaker-fiberon-pps-cf10-black-1-75mm-500g-filament-spool.html?sku=3DPM0298#product-39026"
         }
@@ -3971,8 +3971,32 @@
     }
   ],
   "changes": {
-    "inStock": [],
-    "outOfStock": []
+    "inStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Fiberon PA12-CF10 Black 1.75mm 500g Filament Spool",
+        "group": "PA",
+        "name": "Default",
+        "sku": "3DPM0288",
+        "productId": "39023",
+        "url": "https://www.gigaparts.com/polymaker-fiberon-pa12-cf10-black-1-75mm-500g-filament-spool.html?sku=3DPM0288#product-39023",
+        "price": 69.99,
+        "inStock": true
+      }
+    ],
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Fiberon PPS-CF10 Black 1.75mm 500g Filament Spool",
+        "group": "PPS",
+        "name": "Default",
+        "sku": "3DPM0298",
+        "productId": "39026",
+        "url": "https://www.gigaparts.com/polymaker-fiberon-pps-cf10-black-1-75mm-500g-filament-spool.html?sku=3DPM0298#product-39026",
+        "price": 34.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
