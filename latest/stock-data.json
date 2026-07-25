@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-25T17:12:06+00:00",
-  "previousUpdatedAt": "2026-07-25T15:16:48+00:00",
+  "updatedAt": "2026-07-25T19:25:18+00:00",
+  "previousUpdatedAt": "2026-07-25T17:12:06+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1421,7 +1421,7 @@
           "hex": "#de4343",
           "sku": "3DPF236",
           "productId": "32730",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF236#product-32730"
         },
@@ -3971,29 +3971,17 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Fiberon PA12-CF10 Black 1.75mm 500g Filament Spool",
-        "group": "PA",
-        "name": "Default",
-        "sku": "3DPM0288",
-        "productId": "39023",
-        "url": "https://www.gigaparts.com/polymaker-fiberon-pa12-cf10-black-1-75mm-500g-filament-spool.html?sku=3DPM0288#product-39023",
-        "price": 69.99,
-        "inStock": true
-      }
-    ],
+    "inStock": [],
     "outOfStock": [
       {
-        "brand": "Polymaker",
-        "line": "Fiberon PPS-CF10 Black 1.75mm 500g Filament Spool",
-        "group": "PPS",
-        "name": "Default",
-        "sku": "3DPM0298",
-        "productId": "39026",
-        "url": "https://www.gigaparts.com/polymaker-fiberon-pps-cf10-black-1-75mm-500g-filament-spool.html?sku=3DPM0298#product-39026",
-        "price": 34.99,
+        "brand": "Bambu",
+        "line": "PLA Matte",
+        "group": "PLA",
+        "name": "Scarlet Red (1kg, Refill)",
+        "sku": "3DPF236",
+        "productId": "32730",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF236#product-32730",
+        "price": 19.99,
         "inStock": false
       }
     ]
