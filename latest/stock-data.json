@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-26T18:10:40+00:00",
-  "previousUpdatedAt": "2026-07-26T16:12:22+00:00",
+  "updatedAt": "2026-07-26T20:17:09+00:00",
+  "previousUpdatedAt": "2026-07-26T18:10:40+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3663,7 +3663,7 @@
           "hex": "",
           "sku": "3DPM0279",
           "productId": "38418",
-          "inStock": true,
+          "inStock": false,
           "price": 9.99,
           "url": "https://www.gigaparts.com/polymaker-fiberon-petg-rcf08-black-1-75mm-500g-filament-spool.html?sku=3DPM0279#product-38418"
         }
@@ -3789,7 +3789,7 @@
           "hex": "",
           "sku": "3DPM0297",
           "productId": "39034",
-          "inStock": true,
+          "inStock": false,
           "price": 14.99,
           "url": "https://www.gigaparts.com/polymaker-fiberon-pet-gf15red-1-75mm-1kg-filament-spool.html?sku=3DPM0297#product-39034"
         }
@@ -4032,7 +4032,30 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Fiberon PET-GF15Red 1.75mm 1kg Filament Spool",
+        "group": "PET",
+        "name": "Default",
+        "sku": "3DPM0297",
+        "productId": "39034",
+        "url": "https://www.gigaparts.com/polymaker-fiberon-pet-gf15red-1-75mm-1kg-filament-spool.html?sku=3DPM0297#product-39034",
+        "price": 14.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Fiberon PETG-rCF08 Black 1.75mm 500g Filament Spool",
+        "group": "PETG",
+        "name": "Default",
+        "sku": "3DPM0279",
+        "productId": "38418",
+        "url": "https://www.gigaparts.com/polymaker-fiberon-petg-rcf08-black-1-75mm-500g-filament-spool.html?sku=3DPM0279#product-38418",
+        "price": 9.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
