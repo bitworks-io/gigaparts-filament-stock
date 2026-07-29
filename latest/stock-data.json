@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-29T17:32:38+00:00",
-  "previousUpdatedAt": "2026-07-29T15:17:22+00:00",
+  "updatedAt": "2026-07-29T19:39:09+00:00",
+  "previousUpdatedAt": "2026-07-29T17:32:38+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4915,7 +4915,7 @@
           "hex": "",
           "sku": "3DPM0194",
           "productId": "39154",
-          "inStock": true,
+          "inStock": false,
           "price": 29.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-galaxy-pla-3d-printer-filament.html?sku=3DPM0194#product-39154"
         },
@@ -6122,7 +6122,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Gradient Galaxy PLA",
+        "group": "PLA",
+        "name": "Blue-Green (Spool, 1kg)",
+        "sku": "3DPM0194",
+        "productId": "39154",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-galaxy-pla-3d-printer-filament.html?sku=3DPM0194#product-39154",
+        "price": 29.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
