@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-28T23:13:34+00:00",
-  "previousUpdatedAt": "2026-07-28T21:18:41+00:00",
+  "updatedAt": "2026-07-29T03:32:16+00:00",
+  "previousUpdatedAt": "2026-07-28T23:13:34+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6262,19 +6262,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
-        "group": "PLA",
-        "name": "Ash Grey (Spool, 1kg)",
-        "sku": "3DPM0105",
-        "productId": "39097",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0105#product-39097",
-        "price": 9.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
