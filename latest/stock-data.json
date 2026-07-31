@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-31T14:30:32+00:00",
-  "previousUpdatedAt": "2026-07-31T11:34:08+00:00",
+  "updatedAt": "2026-07-31T16:53:36+00:00",
+  "previousUpdatedAt": "2026-07-31T14:30:32+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -45,7 +45,7 @@
           "hex": "#c9c9c9",
           "sku": "3DPF006",
           "productId": "28753",
-          "inStock": false,
+          "inStock": true,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF006#product-28753"
         },
@@ -2445,7 +2445,7 @@
           "hex": "#878787",
           "sku": "3DPF324",
           "productId": "33047",
-          "inStock": false,
+          "inStock": true,
           "price": 38.99,
           "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF324#product-33047"
         },
@@ -6121,7 +6121,30 @@
     }
   ],
   "changes": {
-    "inStock": [],
+    "inStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Silver (1kg, Spool)",
+        "sku": "3DPF006",
+        "productId": "28753",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF006#product-28753",
+        "price": 22.99,
+        "inStock": true
+      },
+      {
+        "brand": "Bambu",
+        "line": "TPU for AMS",
+        "group": "TPU",
+        "name": "Gray (1kg, Spool)",
+        "sku": "3DPF324",
+        "productId": "33047",
+        "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF324#product-33047",
+        "price": 38.99,
+        "inStock": true
+      }
+    ],
     "outOfStock": []
   },
   "errors": []
