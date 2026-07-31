@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-31T00:12:57+00:00",
-  "previousUpdatedAt": "2026-07-30T22:16:36+00:00",
+  "updatedAt": "2026-07-31T04:34:12+00:00",
+  "previousUpdatedAt": "2026-07-31T00:12:57+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6122,19 +6122,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Silk+",
-        "group": "PLA",
-        "name": "Blue (1kg, Spool)",
-        "sku": "3DPF372",
-        "productId": "33835",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF372#product-33835",
-        "price": 22.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
