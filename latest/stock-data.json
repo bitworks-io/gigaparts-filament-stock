@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-01T20:14:30+00:00",
-  "previousUpdatedAt": "2026-08-01T18:08:43+00:00",
+  "updatedAt": "2026-08-01T22:07:46+00:00",
+  "previousUpdatedAt": "2026-08-01T20:14:30+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6122,30 +6122,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Bright Green (1kg, Refill)",
-        "sku": "3DPF349",
-        "productId": "33106",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF349#product-33106",
-        "price": 19.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic Gradient",
-        "group": "PLA",
-        "name": "Solar Breeze (1kg, Spool)",
-        "sku": "3DPF012",
-        "productId": "28759",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF012#product-28759",
-        "price": 24.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
