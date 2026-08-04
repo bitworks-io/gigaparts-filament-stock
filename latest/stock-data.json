@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-04T12:14:18+00:00",
-  "previousUpdatedAt": "2026-08-04T09:46:52+00:00",
+  "updatedAt": "2026-08-04T15:32:26+00:00",
+  "previousUpdatedAt": "2026-08-04T12:14:18+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -2455,7 +2455,7 @@
           "hex": "#ffffff",
           "sku": "3DPF322",
           "productId": "33048",
-          "inStock": true,
+          "inStock": false,
           "price": 38.99,
           "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF322#product-33048"
         },
@@ -6122,7 +6122,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "TPU for AMS",
+        "group": "TPU",
+        "name": "White (1kg, Spool)",
+        "sku": "3DPF322",
+        "productId": "33048",
+        "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF322#product-33048",
+        "price": 38.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
