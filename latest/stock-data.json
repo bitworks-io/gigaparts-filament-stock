@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-04T18:01:14+00:00",
-  "previousUpdatedAt": "2026-08-04T15:32:26+00:00",
+  "updatedAt": "2026-08-04T19:52:16+00:00",
+  "previousUpdatedAt": "2026-08-04T18:01:14+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6122,19 +6122,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Basic PLA",
-        "group": "PLA",
-        "name": "Azure Blue (Spool, 1kg)",
-        "sku": "3DPM0261",
-        "productId": "38489",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0261#product-38489",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
