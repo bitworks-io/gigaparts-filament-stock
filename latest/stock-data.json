@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-05T15:24:33+00:00",
-  "previousUpdatedAt": "2026-08-05T12:10:26+00:00",
+  "updatedAt": "2026-08-05T17:51:36+00:00",
+  "previousUpdatedAt": "2026-08-05T15:24:33+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5169,7 +5169,7 @@
           "hex": "",
           "sku": "3DPM0094",
           "productId": "39082",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-marble-pla-3d-printer-filament.html?sku=3DPM0094#product-39082"
         },
@@ -6262,7 +6262,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Marble PLA",
+        "group": "PLA",
+        "name": "Sandstone (Spool, 1kg)",
+        "sku": "3DPM0094",
+        "productId": "39082",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-marble-pla-3d-printer-filament.html?sku=3DPM0094#product-39082",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
