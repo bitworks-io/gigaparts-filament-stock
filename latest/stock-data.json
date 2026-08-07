@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-07T15:05:48+00:00",
-  "previousUpdatedAt": "2026-08-07T13:33:19+00:00",
+  "updatedAt": "2026-08-07T16:07:41+00:00",
+  "previousUpdatedAt": "2026-08-07T15:05:48+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -780,14 +780,94 @@
       "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html",
       "items": [
         {
-          "name": "Default",
-          "color": "",
+          "name": "4146 (1kg, Refill)",
+          "color": "4146",
           "hex": "",
-          "sku": "3DP-PLA-CF",
-          "productId": "35296",
+          "sku": "",
+          "productId": "33085",
           "inStock": false,
-          "price": 0.0,
-          "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html?sku=3DP-PLA-CF#product-35296"
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html#product-33085"
+        },
+        {
+          "name": "Black (1kg, Refill)",
+          "color": "Black",
+          "hex": "#000000",
+          "sku": "",
+          "productId": "33098",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html#product-33098"
+        },
+        {
+          "name": "4147 (1kg, Spool)",
+          "color": "4147",
+          "hex": "",
+          "sku": "",
+          "productId": "28836",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html#product-28836"
+        },
+        {
+          "name": "4148 (1kg, Spool)",
+          "color": "4148",
+          "hex": "",
+          "sku": "",
+          "productId": "28837",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html#product-28837"
+        },
+        {
+          "name": "4146 (1kg, Spool)",
+          "color": "4146",
+          "hex": "",
+          "sku": "",
+          "productId": "28838",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html#product-28838"
+        },
+        {
+          "name": "4149 (1kg, Spool)",
+          "color": "4149",
+          "hex": "",
+          "sku": "",
+          "productId": "28839",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html#product-28839"
+        },
+        {
+          "name": "Black (1kg, Spool)",
+          "color": "Black",
+          "hex": "#000000",
+          "sku": "",
+          "productId": "28840",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html#product-28840"
+        },
+        {
+          "name": "4150 (1kg, Spool)",
+          "color": "4150",
+          "hex": "",
+          "sku": "",
+          "productId": "28841",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html#product-28841"
+        },
+        {
+          "name": "4151 (1kg, Spool)",
+          "color": "4151",
+          "hex": "",
+          "sku": "",
+          "productId": "28842",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html#product-28842"
         }
       ]
     },
