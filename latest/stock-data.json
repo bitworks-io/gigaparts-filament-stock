@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-08T21:42:25+00:00",
-  "previousUpdatedAt": "2026-08-08T20:44:47+00:00",
+  "updatedAt": "2026-08-08T22:43:02+00:00",
+  "previousUpdatedAt": "2026-08-08T21:42:25+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4980,34 +4980,14 @@
       "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-galaxy-pla-3d-printer-filament.html",
       "items": [
         {
-          "name": "Black-Blue (Spool, 1kg)",
-          "color": "Black-Blue",
+          "name": "Default",
+          "color": "",
           "hex": "",
-          "sku": "3DPM0193",
-          "productId": "39153",
+          "sku": "3DP-PM-PLA-GRADGLXY",
+          "productId": "39174",
           "inStock": false,
-          "price": 29.99,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-galaxy-pla-3d-printer-filament.html?sku=3DPM0193#product-39153"
-        },
-        {
-          "name": "Blue-Green (Spool, 1kg)",
-          "color": "Blue-Green",
-          "hex": "",
-          "sku": "3DPM0194",
-          "productId": "39154",
-          "inStock": false,
-          "price": 29.99,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-galaxy-pla-3d-printer-filament.html?sku=3DPM0194#product-39154"
-        },
-        {
-          "name": "Black-Grey (Spool, 1kg)",
-          "color": "Black-Grey",
-          "hex": "",
-          "sku": "3DPM0195",
-          "productId": "39155",
-          "inStock": true,
-          "price": 29.99,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-galaxy-pla-3d-printer-filament.html?sku=3DPM0195#product-39155"
+          "price": 0.0,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-galaxy-pla-3d-printer-filament.html?sku=3DP-PM-PLA-GRADGLXY#product-39174"
         }
       ]
     },
@@ -6202,19 +6182,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "PolyLite PLA Pro",
-        "group": "PLA",
-        "name": "Teal (Spool, 1kg)",
-        "sku": "3DPM0323",
-        "productId": "38517",
-        "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0323#product-38517",
-        "price": 22.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
