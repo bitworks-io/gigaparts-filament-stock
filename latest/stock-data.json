@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-08T20:44:47+00:00",
-  "previousUpdatedAt": "2026-08-08T19:40:06+00:00",
+  "updatedAt": "2026-08-08T21:42:25+00:00",
+  "previousUpdatedAt": "2026-08-08T20:44:47+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5511,7 +5511,7 @@
           "hex": "#4cc1c7",
           "sku": "3DPM0323",
           "productId": "38517",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0323#product-38517"
         },
@@ -6202,7 +6202,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "PolyLite PLA Pro",
+        "group": "PLA",
+        "name": "Teal (Spool, 1kg)",
+        "sku": "3DPM0323",
+        "productId": "38517",
+        "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0323#product-38517",
+        "price": 22.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
