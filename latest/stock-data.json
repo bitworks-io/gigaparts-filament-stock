@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-09T17:44:16+00:00",
-  "previousUpdatedAt": "2026-08-09T16:49:55+00:00",
+  "updatedAt": "2026-08-09T18:57:06+00:00",
+  "previousUpdatedAt": "2026-08-09T17:44:16+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4980,14 +4980,34 @@
       "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-galaxy-pla-3d-printer-filament.html",
       "items": [
         {
-          "name": "Default",
-          "color": "",
+          "name": "Black-Blue (Spool, 1kg)",
+          "color": "Black-Blue",
           "hex": "",
-          "sku": "3DP-PM-PLA-GRADGLXY",
-          "productId": "39174",
+          "sku": "3DPM0193",
+          "productId": "39153",
           "inStock": false,
-          "price": 0.0,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-galaxy-pla-3d-printer-filament.html?sku=3DP-PM-PLA-GRADGLXY#product-39174"
+          "price": 29.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-galaxy-pla-3d-printer-filament.html?sku=3DPM0193#product-39153"
+        },
+        {
+          "name": "Blue-Green (Spool, 1kg)",
+          "color": "Blue-Green",
+          "hex": "",
+          "sku": "3DPM0194",
+          "productId": "39154",
+          "inStock": true,
+          "price": 29.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-galaxy-pla-3d-printer-filament.html?sku=3DPM0194#product-39154"
+        },
+        {
+          "name": "Black-Grey (Spool, 1kg)",
+          "color": "Black-Grey",
+          "hex": "",
+          "sku": "3DPM0195",
+          "productId": "39155",
+          "inStock": false,
+          "price": 29.99,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-galaxy-pla-3d-printer-filament.html?sku=3DPM0195#product-39155"
         }
       ]
     },
