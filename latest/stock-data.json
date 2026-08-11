@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-11T21:59:49+00:00",
-  "previousUpdatedAt": "2026-08-11T21:00:22+00:00",
+  "updatedAt": "2026-08-11T22:57:42+00:00",
+  "previousUpdatedAt": "2026-08-11T21:59:49+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6121,19 +6121,7 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "ASA",
-        "group": "ASA",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF120",
-        "productId": "28862",
-        "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html?sku=3DPF120#product-28862",
-        "price": 29.99,
-        "inStock": true
-      }
-    ],
+    "inStock": [],
     "outOfStock": []
   },
   "errors": []
