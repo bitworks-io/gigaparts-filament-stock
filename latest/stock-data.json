@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-12T19:15:53+00:00",
-  "previousUpdatedAt": "2026-08-12T17:07:56+00:00",
+  "updatedAt": "2026-08-12T20:58:42+00:00",
+  "previousUpdatedAt": "2026-08-12T19:15:53+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6122,19 +6122,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Gray (1kg, Refill)",
-        "sku": "3DPF208",
-        "productId": "32368",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF208#product-32368",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
