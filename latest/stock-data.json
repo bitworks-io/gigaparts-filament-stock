@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-13T17:09:33+00:00",
-  "previousUpdatedAt": "2026-08-13T15:10:51+00:00",
+  "updatedAt": "2026-08-13T19:16:29+00:00",
+  "previousUpdatedAt": "2026-08-13T17:09:33+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6121,41 +6121,7 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG Translucent",
-        "group": "PETG",
-        "name": "Translucent Teal (1kg, Refill)",
-        "sku": "3DPF262",
-        "productId": "33238",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF262#product-33238",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Pumpkin Orange (1kg, Spool)",
-        "sku": "3DPF354",
-        "productId": "33823",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF354#product-33823",
-        "price": 22.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Sky Blue (1kg, Refill)",
-        "sku": "3DPF362",
-        "productId": "33831",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF362#product-33831",
-        "price": 19.99,
-        "inStock": true
-      }
-    ],
+    "inStock": [],
     "outOfStock": []
   },
   "errors": []
