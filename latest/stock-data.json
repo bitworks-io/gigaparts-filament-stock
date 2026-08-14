@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-14T19:11:03+00:00",
-  "previousUpdatedAt": "2026-08-14T18:05:08+00:00",
+  "updatedAt": "2026-08-14T20:40:58+00:00",
+  "previousUpdatedAt": "2026-08-14T19:11:03+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5395,7 +5395,7 @@
           "hex": "",
           "sku": "3DPM0087",
           "productId": "39080",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-silk-pla-3d-printer-filament.html?sku=3DPM0087#product-39080"
         },
@@ -6264,14 +6264,14 @@
     "inStock": [],
     "outOfStock": [
       {
-        "brand": "Bambu",
-        "line": "PLA Tough+",
+        "brand": "Polymaker",
+        "line": "Panchroma Gradient Silk PLA",
         "group": "PLA",
-        "name": "Black (Refill, 1kg)",
-        "sku": "3DPF464",
-        "productId": "39484",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF464#product-39484",
-        "price": 20.99,
+        "name": "Air (Spool, 1kg)",
+        "sku": "3DPM0087",
+        "productId": "39080",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-silk-pla-3d-printer-filament.html?sku=3DPM0087#product-39080",
+        "price": 24.99,
         "inStock": false
       }
     ]
