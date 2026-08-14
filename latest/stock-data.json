@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-14T18:05:08+00:00",
-  "previousUpdatedAt": "2026-08-14T17:06:09+00:00",
+  "updatedAt": "2026-08-14T19:11:03+00:00",
+  "previousUpdatedAt": "2026-08-14T18:05:08+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1827,7 +1827,7 @@
           "hex": "#000000",
           "sku": "3DPF464",
           "productId": "39484",
-          "inStock": true,
+          "inStock": false,
           "price": 20.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF464#product-39484"
         }
@@ -6262,7 +6262,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Tough+",
+        "group": "PLA",
+        "name": "Black (Refill, 1kg)",
+        "sku": "3DPF464",
+        "productId": "39484",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF464#product-39484",
+        "price": 20.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
