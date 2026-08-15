@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-15T19:30:03+00:00",
-  "previousUpdatedAt": "2026-08-15T18:44:22+00:00",
+  "updatedAt": "2026-08-15T20:34:52+00:00",
+  "previousUpdatedAt": "2026-08-15T19:30:03+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3249,7 +3249,7 @@
           "hex": "#ebf7ff",
           "sku": "3DPM0238",
           "productId": "38466",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0238#product-38466"
         },
@@ -6242,7 +6242,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Basic PLA",
+        "group": "PLA",
+        "name": "White (Spool, 1kg)",
+        "sku": "3DPM0238",
+        "productId": "38466",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0238#product-38466",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
