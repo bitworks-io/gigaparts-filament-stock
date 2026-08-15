@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-15T20:34:52+00:00",
-  "previousUpdatedAt": "2026-08-15T19:30:03+00:00",
+  "updatedAt": "2026-08-15T21:31:55+00:00",
+  "previousUpdatedAt": "2026-08-15T20:34:52+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5521,7 +5521,7 @@
           "hex": "#ffea00",
           "sku": "3DPM0320",
           "productId": "38514",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0320#product-38514"
         },
@@ -6245,13 +6245,13 @@
     "outOfStock": [
       {
         "brand": "Polymaker",
-        "line": "Panchroma Basic PLA",
+        "line": "PolyLite PLA Pro",
         "group": "PLA",
-        "name": "White (Spool, 1kg)",
-        "sku": "3DPM0238",
-        "productId": "38466",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0238#product-38466",
-        "price": 19.99,
+        "name": "Yellow (Spool, 1kg)",
+        "sku": "3DPM0320",
+        "productId": "38514",
+        "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0320#product-38514",
+        "price": 22.99,
         "inStock": false
       }
     ]
