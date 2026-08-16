@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-16T01:54:46+00:00",
-  "previousUpdatedAt": "2026-08-15T23:31:21+00:00",
+  "updatedAt": "2026-08-16T03:09:21+00:00",
+  "previousUpdatedAt": "2026-08-16T01:54:46+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6242,19 +6242,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Gradient Crystal PLA",
-        "group": "PLA",
-        "name": "Aquamarine (Spool, 1kg)",
-        "sku": "3DPM0202",
-        "productId": "39162",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-crystal-pla-3d-printer-filament.html?sku=3DPM0202#product-39162",
-        "price": 24.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
