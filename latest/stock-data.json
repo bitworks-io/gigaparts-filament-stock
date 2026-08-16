@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-16T22:33:22+00:00",
-  "previousUpdatedAt": "2026-08-16T21:31:12+00:00",
+  "updatedAt": "2026-08-16T23:30:51+00:00",
+  "previousUpdatedAt": "2026-08-16T22:33:22+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6242,19 +6242,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Neon PLA",
-        "group": "PLA",
-        "name": "Neon Orange (Spool, 1kg)",
-        "sku": "3DPM0008",
-        "productId": "39056",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-neon-pla-3d-printer-filament.html?sku=3DPM0008#product-39056",
-        "price": 24.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
