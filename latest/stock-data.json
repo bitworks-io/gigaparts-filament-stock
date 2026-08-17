@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-17T17:38:57+00:00",
-  "previousUpdatedAt": "2026-08-17T16:41:18+00:00",
+  "updatedAt": "2026-08-17T18:54:03+00:00",
+  "previousUpdatedAt": "2026-08-17T17:38:57+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5491,7 +5491,7 @@
           "hex": "#003776",
           "sku": "3DPM0316",
           "productId": "38510",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0316#product-38510"
         },
@@ -6242,7 +6242,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "PolyLite PLA Pro",
+        "group": "PLA",
+        "name": "Blue (Spool, 1kg)",
+        "sku": "3DPM0316",
+        "productId": "38510",
+        "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0316#product-38510",
+        "price": 22.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
