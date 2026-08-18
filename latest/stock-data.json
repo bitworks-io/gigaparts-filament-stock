@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-18T20:36:17+00:00",
-  "previousUpdatedAt": "2026-08-18T19:35:41+00:00",
+  "updatedAt": "2026-08-18T21:34:54+00:00",
+  "previousUpdatedAt": "2026-08-18T20:36:17+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6242,19 +6242,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
-        "group": "PLA",
-        "name": "Army Beige (Spool, 1kg)",
-        "sku": "3DPM0098",
-        "productId": "39090",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0098#product-39090",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
