@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-19T17:37:06+00:00",
-  "previousUpdatedAt": "2026-08-19T16:43:18+00:00",
+  "updatedAt": "2026-08-19T18:50:24+00:00",
+  "previousUpdatedAt": "2026-08-19T17:37:06+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3825,7 +3825,7 @@
           "hex": "",
           "sku": "3DPM0077",
           "productId": "39073",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0077#product-39073"
         },
@@ -6242,7 +6242,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Dual Silk PLA",
+        "group": "PLA",
+        "name": "Crown Gold-Silver (Spool, 1kg)",
+        "sku": "3DPM0077",
+        "productId": "39073",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0077#product-39073",
+        "price": 22.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
