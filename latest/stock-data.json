@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-18T23:32:44+00:00",
-  "previousUpdatedAt": "2026-08-18T22:37:02+00:00",
+  "updatedAt": "2026-08-19T01:49:18+00:00",
+  "previousUpdatedAt": "2026-08-18T23:32:44+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -573,7 +573,7 @@
           "hex": "",
           "sku": "3DPF357",
           "productId": "33819",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF357#product-33819"
         },
@@ -6242,7 +6242,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic Gradient",
+        "group": "PLA",
+        "name": "Cotton Candy Cloud (1kg, Spool)",
+        "sku": "3DPF357",
+        "productId": "33819",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF357#product-33819",
+        "price": 24.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
