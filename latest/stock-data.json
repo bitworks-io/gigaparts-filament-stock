@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-20T14:50:58+00:00",
-  "previousUpdatedAt": "2026-08-20T13:07:48+00:00",
+  "updatedAt": "2026-08-20T15:46:15+00:00",
+  "previousUpdatedAt": "2026-08-20T14:50:58+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -805,7 +805,7 @@
           "hex": "#4d5054",
           "sku": "3DPF096",
           "productId": "28838",
-          "inStock": true,
+          "inStock": false,
           "price": 34.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html?sku=3DPF096#product-28838"
         },
@@ -6241,42 +6241,20 @@
     }
   ],
   "changes": {
-    "inStock": [
+    "inStock": [],
+    "outOfStock": [
       {
         "brand": "Bambu",
         "line": "PLA CF",
         "group": "PLA",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF098",
-        "productId": "28840",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html?sku=3DPF098#product-28840",
+        "name": "Lava Gray (1kg, Spool)",
+        "sku": "3DPF096",
+        "productId": "28838",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html?sku=3DPF096#product-28838",
         "price": 34.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA CF",
-        "group": "PLA",
-        "name": "Lava Gray (1kg, Refill)",
-        "sku": "3DPF240",
-        "productId": "33085",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html?sku=3DPF240#product-33085",
-        "price": 31.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Tough+",
-        "group": "PLA",
-        "name": "Black (Refill, 1kg)",
-        "sku": "3DPF464",
-        "productId": "39484",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF464#product-39484",
-        "price": 20.99,
-        "inStock": true
+        "inStock": false
       }
-    ],
-    "outOfStock": []
+    ]
   },
   "errors": []
 }
