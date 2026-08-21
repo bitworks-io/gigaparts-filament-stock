@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-21T19:33:45+00:00",
-  "previousUpdatedAt": "2026-08-21T18:52:09+00:00",
+  "updatedAt": "2026-08-21T20:36:36+00:00",
+  "previousUpdatedAt": "2026-08-21T19:33:45+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6242,19 +6242,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "PETG",
-        "group": "PETG",
-        "name": "Dark Green (Spool, 1kg)",
-        "sku": "3DPM0397",
-        "productId": "38544",
-        "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0397#product-38544",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
