@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-21T22:36:43+00:00",
-  "previousUpdatedAt": "2026-08-21T21:35:19+00:00",
+  "updatedAt": "2026-08-21T23:34:49+00:00",
+  "previousUpdatedAt": "2026-08-21T22:36:43+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6241,19 +6241,7 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA CF",
-        "group": "PLA",
-        "name": "Lava Gray (1kg, Spool)",
-        "sku": "3DPF096",
-        "productId": "28838",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html?sku=3DPF096#product-28838",
-        "price": 34.99,
-        "inStock": true
-      }
-    ],
+    "inStock": [],
     "outOfStock": []
   },
   "errors": []
