@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-21T04:50:23+00:00",
-  "previousUpdatedAt": "2026-08-21T03:13:00+00:00",
+  "updatedAt": "2026-08-21T05:44:43+00:00",
+  "previousUpdatedAt": "2026-08-21T04:50:23+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6242,19 +6242,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG HF",
-        "group": "PETG",
-        "name": "Lime Green (1kg, Spool)",
-        "sku": "3DPF444",
-        "productId": "38566",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF444#product-38566",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
