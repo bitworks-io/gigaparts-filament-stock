@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-21T13:07:22+00:00",
-  "previousUpdatedAt": "2026-08-21T11:36:36+00:00",
+  "updatedAt": "2026-08-21T13:57:17+00:00",
+  "previousUpdatedAt": "2026-08-21T13:07:22+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6242,19 +6242,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Translucent PLA",
-        "group": "PLA",
-        "name": "Translucent Cyan (Spool, 1kg)",
-        "sku": "3DPM0001",
-        "productId": "39048",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-translucent-pla-3d-printer-filament.html?sku=3DPM0001#product-39048",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
