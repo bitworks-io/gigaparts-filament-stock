@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-22T18:46:03+00:00",
-  "previousUpdatedAt": "2026-08-22T17:32:33+00:00",
+  "updatedAt": "2026-08-22T19:31:34+00:00",
+  "previousUpdatedAt": "2026-08-22T18:46:03+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6242,30 +6242,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG CF",
-        "group": "PETG",
-        "name": "Black (1kg, Refill)",
-        "sku": "3DPF274",
-        "productId": "33102",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html?sku=3DPF274#product-33102",
-        "price": 31.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
-        "group": "PLA",
-        "name": "Wood Brown (Refill, 1kg)",
-        "sku": "3DPM0168",
-        "productId": "38452",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0168#product-38452",
-        "price": 17.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
