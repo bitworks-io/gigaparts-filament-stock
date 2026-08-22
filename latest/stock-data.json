@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-22T14:34:09+00:00",
-  "previousUpdatedAt": "2026-08-22T13:40:25+00:00",
+  "updatedAt": "2026-08-22T15:32:13+00:00",
+  "previousUpdatedAt": "2026-08-22T14:34:09+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5827,7 +5827,7 @@
           "hex": "#050005",
           "sku": "3DPM0379",
           "productId": "38527",
-          "inStock": true,
+          "inStock": false,
           "price": 29.99,
           "url": "https://www.gigaparts.com/polymaker-polymax-petg-3d-printer-filament.html?sku=3DPM0379#product-38527"
         },
@@ -6242,7 +6242,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "PolyMax PETG",
+        "group": "PETG",
+        "name": "Black (Spool, 750g)",
+        "sku": "3DPM0379",
+        "productId": "38527",
+        "url": "https://www.gigaparts.com/polymaker-polymax-petg-3d-printer-filament.html?sku=3DPM0379#product-38527",
+        "price": 29.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
