@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-22T17:32:33+00:00",
-  "previousUpdatedAt": "2026-08-22T16:36:49+00:00",
+  "updatedAt": "2026-08-22T18:46:03+00:00",
+  "previousUpdatedAt": "2026-08-22T17:32:33+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -2459,7 +2459,7 @@
           "hex": "#000000",
           "sku": "3DPF274",
           "productId": "33102",
-          "inStock": true,
+          "inStock": false,
           "price": 31.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html?sku=3DPF274#product-33102"
         }
@@ -3963,7 +3963,7 @@
           "hex": "#ab7449",
           "sku": "3DPM0168",
           "productId": "38452",
-          "inStock": true,
+          "inStock": false,
           "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0168#product-38452"
         },
@@ -6244,13 +6244,24 @@
     "inStock": [],
     "outOfStock": [
       {
+        "brand": "Bambu",
+        "line": "PETG CF",
+        "group": "PETG",
+        "name": "Black (1kg, Refill)",
+        "sku": "3DPF274",
+        "productId": "33102",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html?sku=3DPF274#product-33102",
+        "price": 31.99,
+        "inStock": false
+      },
+      {
         "brand": "Polymaker",
         "line": "Panchroma Matte PLA",
         "group": "PLA",
-        "name": "Sakura Pink (Refill, 1kg)",
-        "sku": "3DPM0172",
-        "productId": "38456",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0172#product-38456",
+        "name": "Wood Brown (Refill, 1kg)",
+        "sku": "3DPM0168",
+        "productId": "38452",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0168#product-38452",
         "price": 17.99,
         "inStock": false
       }
