@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-22T16:36:49+00:00",
-  "previousUpdatedAt": "2026-08-22T15:32:13+00:00",
+  "updatedAt": "2026-08-22T17:32:33+00:00",
+  "previousUpdatedAt": "2026-08-22T16:36:49+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4003,7 +4003,7 @@
           "hex": "#eaadbe",
           "sku": "3DPM0172",
           "productId": "38456",
-          "inStock": true,
+          "inStock": false,
           "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0172#product-38456"
         },
@@ -6242,7 +6242,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Matte PLA",
+        "group": "PLA",
+        "name": "Sakura Pink (Refill, 1kg)",
+        "sku": "3DPM0172",
+        "productId": "38456",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0172#product-38456",
+        "price": 17.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
