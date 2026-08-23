@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-23T01:56:49+00:00",
-  "previousUpdatedAt": "2026-08-22T23:31:59+00:00",
+  "updatedAt": "2026-08-23T03:12:44+00:00",
+  "previousUpdatedAt": "2026-08-23T01:56:49+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6233,7 +6233,7 @@
           "hex": "",
           "sku": "3DPM0235",
           "productId": "39032",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-cope-stone-blue-1-75mm-1kg-filament-spool.html?sku=3DPM0235#product-39032"
         }
@@ -6242,7 +6242,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma CoPE Stone Blue 1.75mm 1kg Filament Spool",
+        "group": "PA",
+        "name": "Default",
+        "sku": "3DPM0235",
+        "productId": "39032",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-cope-stone-blue-1-75mm-1kg-filament-spool.html?sku=3DPM0235#product-39032",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
