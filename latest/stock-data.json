@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-23T18:45:01+00:00",
-  "previousUpdatedAt": "2026-08-23T17:31:38+00:00",
+  "updatedAt": "2026-08-23T19:31:14+00:00",
+  "previousUpdatedAt": "2026-08-23T18:45:01+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4755,7 +4755,7 @@
           "hex": "#61bbc1",
           "sku": "3DPM0184",
           "productId": "39147",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-satin-pla-3d-printer-filament.html?sku=3DPM0184#product-39147"
         },
@@ -6245,12 +6245,12 @@
     "outOfStock": [
       {
         "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
+        "line": "Panchroma Satin PLA",
         "group": "PLA",
-        "name": "Wood Brown (Spool, 1kg)",
-        "sku": "3DPM0132",
-        "productId": "39124",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0132#product-39124",
+        "name": "Satin Polymaker Teal (Spool, 1kg)",
+        "sku": "3DPM0184",
+        "productId": "39147",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-satin-pla-3d-printer-filament.html?sku=3DPM0184#product-39147",
         "price": 19.99,
         "inStock": false
       }
