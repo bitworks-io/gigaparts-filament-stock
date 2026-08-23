@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-23T17:31:38+00:00",
-  "previousUpdatedAt": "2026-08-23T16:38:10+00:00",
+  "updatedAt": "2026-08-23T18:45:01+00:00",
+  "previousUpdatedAt": "2026-08-23T17:31:38+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4423,7 +4423,7 @@
           "hex": "#ab7449",
           "sku": "3DPM0132",
           "productId": "39124",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0132#product-39124"
         }
@@ -6242,7 +6242,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Matte PLA",
+        "group": "PLA",
+        "name": "Wood Brown (Spool, 1kg)",
+        "sku": "3DPM0132",
+        "productId": "39124",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0132#product-39124",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
