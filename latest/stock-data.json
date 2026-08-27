@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-27T09:35:56+00:00",
-  "previousUpdatedAt": "2026-08-26T23:26:32+00:00",
+  "updatedAt": "2026-08-27T20:22:03+00:00",
+  "previousUpdatedAt": "2026-08-27T09:35:56+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -2831,7 +2831,7 @@
           "hex": "#2a2f42",
           "sku": "3DPF245",
           "productId": "32416",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF245#product-32416"
         },
@@ -6242,7 +6242,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "ABS",
+        "group": "ABS",
+        "name": "Navy Blue (1kg, Refill)",
+        "sku": "3DPF245",
+        "productId": "32416",
+        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF245#product-32416",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
