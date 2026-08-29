@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-29T09:59:32+00:00",
-  "previousUpdatedAt": "2026-08-29T02:07:34+00:00",
+  "updatedAt": "2026-08-29T15:02:15+00:00",
+  "previousUpdatedAt": "2026-08-29T09:59:32+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5501,7 +5501,7 @@
           "hex": "",
           "sku": "3DPM0317",
           "productId": "38511",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0317#product-38511"
         },
@@ -6242,7 +6242,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "PolyLite PLA Pro",
+        "group": "PLA",
+        "name": "Army Green (Spool, 1kg)",
+        "sku": "3DPM0317",
+        "productId": "38511",
+        "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0317#product-38511",
+        "price": 22.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
