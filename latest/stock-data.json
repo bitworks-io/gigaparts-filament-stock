@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-29T02:07:34+00:00",
-  "previousUpdatedAt": "2026-08-28T18:36:41+00:00",
+  "updatedAt": "2026-08-29T09:59:32+00:00",
+  "previousUpdatedAt": "2026-08-29T02:07:34+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6242,19 +6242,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Pumpkin Orange (1kg, Refill)",
-        "sku": "3DPF345",
-        "productId": "33069",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF345#product-33069",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
