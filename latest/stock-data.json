@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-29T18:24:35+00:00",
-  "previousUpdatedAt": "2026-08-29T15:02:15+00:00",
+  "updatedAt": "2026-08-29T21:42:00+00:00",
+  "previousUpdatedAt": "2026-08-29T18:24:35+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3775,7 +3775,7 @@
           "hex": "",
           "sku": "3DPM0072",
           "productId": "39068",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0072#product-39068"
         },
@@ -4687,7 +4687,7 @@
           "hex": "#f21185",
           "sku": "3DPM0009",
           "productId": "39057",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-neon-pla-3d-printer-filament.html?sku=3DPM0009#product-39057"
         },
@@ -6245,13 +6245,24 @@
     "outOfStock": [
       {
         "brand": "Polymaker",
-        "line": "Panchroma Starlight PLA",
+        "line": "Panchroma Dual Silk PLA",
         "group": "PLA",
-        "name": "Mars (Spool, 1kg)",
-        "sku": "3DPM0017",
-        "productId": "38420",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DPM0017#product-38420",
-        "price": 29.99,
+        "name": "Aubergine Lime-Magenta (Spool, 1kg)",
+        "sku": "3DPM0072",
+        "productId": "39068",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0072#product-39068",
+        "price": 22.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Neon PLA",
+        "group": "PLA",
+        "name": "Neon Magenta (Spool, 1kg)",
+        "sku": "3DPM0009",
+        "productId": "39057",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-neon-pla-3d-printer-filament.html?sku=3DPM0009#product-39057",
+        "price": 24.99,
         "inStock": false
       }
     ]
