@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-29T15:02:15+00:00",
-  "previousUpdatedAt": "2026-08-29T09:59:32+00:00",
+  "updatedAt": "2026-08-29T18:24:35+00:00",
+  "previousUpdatedAt": "2026-08-29T15:02:15+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4441,7 +4441,7 @@
           "hex": "",
           "sku": "3DPM0017",
           "productId": "38420",
-          "inStock": true,
+          "inStock": false,
           "price": 29.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DPM0017#product-38420"
         },
@@ -6245,13 +6245,13 @@
     "outOfStock": [
       {
         "brand": "Polymaker",
-        "line": "PolyLite PLA Pro",
+        "line": "Panchroma Starlight PLA",
         "group": "PLA",
-        "name": "Army Green (Spool, 1kg)",
-        "sku": "3DPM0317",
-        "productId": "38511",
-        "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0317#product-38511",
-        "price": 22.99,
+        "name": "Mars (Spool, 1kg)",
+        "sku": "3DPM0017",
+        "productId": "38420",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DPM0017#product-38420",
+        "price": 29.99,
         "inStock": false
       }
     ]
