@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-29T21:42:00+00:00",
-  "previousUpdatedAt": "2026-08-29T18:24:35+00:00",
+  "updatedAt": "2026-08-30T00:14:51+00:00",
+  "previousUpdatedAt": "2026-08-29T21:42:00+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4333,7 +4333,7 @@
           "hex": "#d2debb",
           "sku": "3DPM0123",
           "productId": "39115",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0123#product-39115"
         },
@@ -6245,24 +6245,13 @@
     "outOfStock": [
       {
         "brand": "Polymaker",
-        "line": "Panchroma Dual Silk PLA",
+        "line": "Panchroma Matte PLA",
         "group": "PLA",
-        "name": "Aubergine Lime-Magenta (Spool, 1kg)",
-        "sku": "3DPM0072",
-        "productId": "39068",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0072#product-39068",
-        "price": 22.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Neon PLA",
-        "group": "PLA",
-        "name": "Neon Magenta (Spool, 1kg)",
-        "sku": "3DPM0009",
-        "productId": "39057",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-neon-pla-3d-printer-filament.html?sku=3DPM0009#product-39057",
-        "price": 24.99,
+        "name": "Mint (Spool, 1kg)",
+        "sku": "3DPM0123",
+        "productId": "39115",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0123#product-39115",
+        "price": 19.99,
         "inStock": false
       }
     ]
