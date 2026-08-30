@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-30T00:14:51+00:00",
-  "previousUpdatedAt": "2026-08-29T21:42:00+00:00",
+  "updatedAt": "2026-08-30T06:35:26+00:00",
+  "previousUpdatedAt": "2026-08-30T00:14:51+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1679,7 +1679,7 @@
           "hex": "#ba9594",
           "sku": "3DPF379",
           "productId": "33843",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF379#product-33843"
         },
@@ -5481,7 +5481,7 @@
           "hex": "#e72e1d",
           "sku": "3DPM0315",
           "productId": "38509",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0315#product-38509"
         },
@@ -6244,14 +6244,25 @@
     "inStock": [],
     "outOfStock": [
       {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
+        "brand": "Bambu",
+        "line": "PLA Silk+",
         "group": "PLA",
-        "name": "Mint (Spool, 1kg)",
-        "sku": "3DPM0123",
-        "productId": "39115",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0123#product-39115",
-        "price": 19.99,
+        "name": "Rose Gold (1kg, Spool)",
+        "sku": "3DPF379",
+        "productId": "33843",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF379#product-33843",
+        "price": 22.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "PolyLite PLA Pro",
+        "group": "PLA",
+        "name": "Red (Spool, 1kg)",
+        "sku": "3DPM0315",
+        "productId": "38509",
+        "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0315#product-38509",
+        "price": 22.99,
         "inStock": false
       }
     ]
