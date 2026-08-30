@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-30T17:24:52+00:00",
-  "previousUpdatedAt": "2026-08-30T12:49:38+00:00",
+  "updatedAt": "2026-08-30T21:00:20+00:00",
+  "previousUpdatedAt": "2026-08-30T17:24:52+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -425,7 +425,7 @@
           "hex": "#00b1b7",
           "sku": "3DPF352",
           "productId": "33097",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF352#product-33097"
         },
@@ -6245,12 +6245,12 @@
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PETG HF",
-        "group": "PETG",
-        "name": "Forest Green (1kg, Spool)",
-        "sku": "3DPF281",
-        "productId": "38236",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF281#product-38236",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Turquoise (1kg, Refill)",
+        "sku": "3DPF352",
+        "productId": "33097",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF352#product-33097",
         "price": 19.99,
         "inStock": false
       }
