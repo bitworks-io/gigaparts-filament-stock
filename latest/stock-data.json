@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-30T23:26:56+00:00",
-  "previousUpdatedAt": "2026-08-30T21:00:20+00:00",
+  "updatedAt": "2026-08-31T05:25:16+00:00",
+  "previousUpdatedAt": "2026-08-30T23:26:56+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3105,7 +3105,7 @@
           "hex": "#000000",
           "sku": "3DPF134",
           "productId": "28867",
-          "inStock": true,
+          "inStock": false,
           "price": 39.99,
           "url": "https://www.gigaparts.com/bambu-lab-pc-3d-printer-filament.html?sku=3DPF134#product-28867"
         },
@@ -6242,7 +6242,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PC",
+        "group": "PC",
+        "name": "Black (1kg, Spool)",
+        "sku": "3DPF134",
+        "productId": "28867",
+        "url": "https://www.gigaparts.com/bambu-lab-pc-3d-printer-filament.html?sku=3DPF134#product-28867",
+        "price": 39.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
