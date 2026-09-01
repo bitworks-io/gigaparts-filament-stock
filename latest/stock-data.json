@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-01T18:26:28+00:00",
-  "previousUpdatedAt": "2026-09-01T14:49:16+00:00",
+  "updatedAt": "2026-09-01T21:44:20+00:00",
+  "previousUpdatedAt": "2026-09-01T18:26:28+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -385,7 +385,7 @@
           "hex": "#0056b8",
           "sku": "3DPF346",
           "productId": "33068",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF346#product-33068"
         },
@@ -6247,33 +6247,11 @@
         "brand": "Bambu",
         "line": "PLA Basic",
         "group": "PLA",
-        "name": "Black (1kg, Refill)",
-        "sku": "3DPF214",
-        "productId": "32370",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF214#product-32370",
+        "name": "Cobalt Blue (1kg, Refill)",
+        "sku": "3DPF346",
+        "productId": "33068",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF346#product-33068",
         "price": 19.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Dual Matte PLA",
-        "group": "PLA",
-        "name": "Mixed Berries Red-Dark Blue (Spool, 1kg)",
-        "sku": "3DPM0139",
-        "productId": "39131",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-dual-matte-pla-3d-printer-filament.html?sku=3DPM0139#product-39131",
-        "price": 22.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Gradient Crystal PLA",
-        "group": "PLA",
-        "name": "Tourmaline (Spool, 1kg)",
-        "sku": "3DPM0200",
-        "productId": "39160",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-crystal-pla-3d-printer-filament.html?sku=3DPM0200#product-39160",
-        "price": 24.99,
         "inStock": false
       }
     ]
