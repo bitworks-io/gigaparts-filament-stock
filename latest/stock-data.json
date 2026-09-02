@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-02T18:37:45+00:00",
-  "previousUpdatedAt": "2026-09-02T14:25:01+00:00",
+  "updatedAt": "2026-09-02T21:46:20+00:00",
+  "previousUpdatedAt": "2026-09-02T18:37:45+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -315,7 +315,7 @@
           "hex": "#515151",
           "sku": "3DPF211",
           "productId": "32737",
-          "inStock": false,
+          "inStock": true,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF211#product-32737"
         },
@@ -425,7 +425,7 @@
           "hex": "#00b1b7",
           "sku": "3DPF352",
           "productId": "33097",
-          "inStock": false,
+          "inStock": true,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF352#product-33097"
         },
@@ -6244,23 +6244,12 @@
     "inStock": [
       {
         "brand": "Bambu",
-        "line": "PC",
-        "group": "PC",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF134",
-        "productId": "28867",
-        "url": "https://www.gigaparts.com/bambu-lab-pc-3d-printer-filament.html?sku=3DPF134#product-28867",
-        "price": 39.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
         "line": "PLA Basic",
         "group": "PLA",
-        "name": "Cobalt Blue (1kg, Refill)",
-        "sku": "3DPF346",
-        "productId": "33068",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF346#product-33068",
+        "name": "Dark Gray (1kg, Refill)",
+        "sku": "3DPF211",
+        "productId": "32737",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF211#product-32737",
         "price": 19.99,
         "inStock": true
       },
@@ -6268,10 +6257,10 @@
         "brand": "Bambu",
         "line": "PLA Basic",
         "group": "PLA",
-        "name": "Orange (1kg, Refill)",
-        "sku": "3DPF194",
-        "productId": "32126",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF194#product-32126",
+        "name": "Turquoise (1kg, Refill)",
+        "sku": "3DPF352",
+        "productId": "33097",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF352#product-33097",
         "price": 19.99,
         "inStock": true
       }
