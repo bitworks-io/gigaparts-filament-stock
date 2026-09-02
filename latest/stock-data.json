@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-01T21:44:20+00:00",
-  "previousUpdatedAt": "2026-09-01T18:26:28+00:00",
+  "updatedAt": "2026-09-02T00:04:46+00:00",
+  "previousUpdatedAt": "2026-09-01T21:44:20+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6242,19 +6242,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Cobalt Blue (1kg, Refill)",
-        "sku": "3DPF346",
-        "productId": "33068",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF346#product-33068",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
