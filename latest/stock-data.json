@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-03T11:08:37+00:00",
-  "previousUpdatedAt": "2026-09-03T05:43:51+00:00",
+  "updatedAt": "2026-09-03T16:22:13+00:00",
+  "previousUpdatedAt": "2026-09-03T11:08:37+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6241,19 +6241,7 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG Basic",
-        "group": "PETG",
-        "name": "Black (1kg, Refill)",
-        "sku": "3DPF470",
-        "productId": "39453",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF470#product-39453",
-        "price": 19.99,
-        "inStock": true
-      }
-    ],
+    "inStock": [],
     "outOfStock": []
   },
   "errors": []
