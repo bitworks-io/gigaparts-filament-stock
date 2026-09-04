@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-04T16:17:24+00:00",
-  "previousUpdatedAt": "2026-09-04T11:11:49+00:00",
+  "updatedAt": "2026-09-04T19:30:27+00:00",
+  "previousUpdatedAt": "2026-09-04T16:17:24+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -2861,7 +2861,7 @@
           "hex": "#c9c9c9",
           "sku": "3DPF246",
           "productId": "32419",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF246#product-32419"
         },
@@ -3933,7 +3933,7 @@
           "hex": "#7c594a",
           "sku": "3DPM0165",
           "productId": "38449",
-          "inStock": true,
+          "inStock": false,
           "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0165#product-38449"
         },
@@ -3953,7 +3953,7 @@
           "hex": "#bf9573",
           "sku": "3DPM0167",
           "productId": "38451",
-          "inStock": true,
+          "inStock": false,
           "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0167#product-38451"
         },
@@ -4183,7 +4183,7 @@
           "hex": "#7c594a",
           "sku": "3DPM0108",
           "productId": "39100",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0108#product-39100"
         },
@@ -4293,7 +4293,7 @@
           "hex": "#bbada4",
           "sku": "3DPM0119",
           "productId": "39111",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0119#product-39111"
         },
@@ -5433,7 +5433,7 @@
           "hex": "#1b4d3e",
           "sku": "3DPM0330",
           "productId": "38524",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-metallic-pla-pro-metallic-3d-printer-filament.html?sku=3DPM0330#product-38524"
         }
@@ -6245,13 +6245,68 @@
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Tough+",
+        "line": "ABS",
+        "group": "ABS",
+        "name": "Silver (1kg, Refill)",
+        "sku": "3DPF246",
+        "productId": "32419",
+        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF246#product-32419",
+        "price": 19.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Matte PLA",
         "group": "PLA",
-        "name": "White (Spool, 1kg)",
-        "sku": "3DPF409",
-        "productId": "36432",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF409#product-36432",
-        "price": 23.99,
+        "name": "Earth Brown (Refill, 1kg)",
+        "sku": "3DPM0165",
+        "productId": "38449",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0165#product-38449",
+        "price": 17.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Matte PLA",
+        "group": "PLA",
+        "name": "Earth Brown (Spool, 1kg)",
+        "sku": "3DPM0108",
+        "productId": "39100",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0108#product-39100",
+        "price": 19.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Matte PLA",
+        "group": "PLA",
+        "name": "Muted White (Spool, 1kg)",
+        "sku": "3DPM0119",
+        "productId": "39111",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0119#product-39111",
+        "price": 19.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Matte PLA",
+        "group": "PLA",
+        "name": "Pastel Peanut (Refill, 1kg)",
+        "sku": "3DPM0167",
+        "productId": "38451",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0167#product-38451",
+        "price": 17.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "PolyLite Metallic PLA Pro Metallic",
+        "group": "PLA",
+        "name": "Metallic Green (Spool, 1kg)",
+        "sku": "3DPM0330",
+        "productId": "38524",
+        "url": "https://www.gigaparts.com/polymaker-polylite-metallic-pla-pro-metallic-3d-printer-filament.html?sku=3DPM0330#product-38524",
+        "price": 22.99,
         "inStock": false
       }
     ]
