@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-04T05:49:05+00:00",
-  "previousUpdatedAt": "2026-09-04T00:56:38+00:00",
+  "updatedAt": "2026-09-04T11:11:49+00:00",
+  "previousUpdatedAt": "2026-09-04T05:49:05+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5063,7 +5063,7 @@
           "hex": "",
           "sku": "3DPM0029",
           "productId": "38426",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-glow-pla-3d-printer-filament.html?sku=3DPM0029#product-38426"
         },
@@ -6242,7 +6242,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Glow PLA",
+        "group": "PLA",
+        "name": "Glow Blue (Spool, 1kg)",
+        "sku": "3DPM0029",
+        "productId": "38426",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-glow-pla-3d-printer-filament.html?sku=3DPM0029#product-38426",
+        "price": 24.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
