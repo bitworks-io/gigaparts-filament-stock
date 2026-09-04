@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-04T00:56:38+00:00",
-  "previousUpdatedAt": "2026-09-03T22:31:06+00:00",
+  "updatedAt": "2026-09-04T05:49:05+00:00",
+  "previousUpdatedAt": "2026-09-04T00:56:38+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6242,19 +6242,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
-        "group": "PLA",
-        "name": "Electric Indigo (Spool, 1kg)",
-        "sku": "3DPM0109",
-        "productId": "39101",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0109#product-39101",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
