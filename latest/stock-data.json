@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-05T19:00:27+00:00",
-  "previousUpdatedAt": "2026-09-05T16:47:54+00:00",
+  "updatedAt": "2026-09-05T21:10:28+00:00",
+  "previousUpdatedAt": "2026-09-05T19:00:27+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -415,7 +415,7 @@
           "hex": "#9d2234",
           "sku": "3DPF350",
           "productId": "33089",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF350#product-33089"
         },
@@ -435,7 +435,7 @@
           "hex": "#fec700",
           "sku": "3DPF351",
           "productId": "33103",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF351#product-33103"
         },
@@ -4043,7 +4043,7 @@
           "hex": "#9572bf",
           "sku": "3DPM0176",
           "productId": "38460",
-          "inStock": true,
+          "inStock": false,
           "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0176#product-38460"
         },
@@ -6204,14 +6204,36 @@
     "inStock": [],
     "outOfStock": [
       {
-        "brand": "Polymaker",
-        "line": "Panchroma Luminous PLA",
+        "brand": "Bambu",
+        "line": "PLA Basic",
         "group": "PLA",
-        "name": "Luminous Green (Spool, 1kg)",
-        "sku": "3DPM0032",
-        "productId": "39064",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-luminous-pla-3d-printer-filament.html?sku=3DPM0032#product-39064",
-        "price": 24.99,
+        "name": "Maroon Red (1kg, Refill)",
+        "sku": "3DPF350",
+        "productId": "33089",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF350#product-33089",
+        "price": 19.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Sunflower Yellow (1kg, Refill)",
+        "sku": "3DPF351",
+        "productId": "33103",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF351#product-33103",
+        "price": 19.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Matte PLA",
+        "group": "PLA",
+        "name": "Lavender Purple (Refill, 1kg)",
+        "sku": "3DPM0176",
+        "productId": "38460",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0176#product-38460",
+        "price": 17.99,
         "inStock": false
       }
     ]
