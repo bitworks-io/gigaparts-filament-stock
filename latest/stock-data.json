@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-05T00:53:37+00:00",
-  "previousUpdatedAt": "2026-09-04T22:19:45+00:00",
+  "updatedAt": "2026-09-05T05:40:31+00:00",
+  "previousUpdatedAt": "2026-09-05T00:53:37+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6242,30 +6242,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Dual Silk PLA",
-        "group": "PLA",
-        "name": "Beluga Silver-Blue (Spool, 1kg)",
-        "sku": "3DPM0074",
-        "productId": "39070",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0074#product-39070",
-        "price": 22.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Neon PLA",
-        "group": "PLA",
-        "name": "Neon Green (Spool, 1kg)",
-        "sku": "3DPM0006",
-        "productId": "39054",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-neon-pla-3d-printer-filament.html?sku=3DPM0006#product-39054",
-        "price": 24.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
