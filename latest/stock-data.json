@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-05T16:47:54+00:00",
-  "previousUpdatedAt": "2026-09-05T13:50:51+00:00",
+  "updatedAt": "2026-09-05T19:00:27+00:00",
+  "previousUpdatedAt": "2026-09-05T16:47:54+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4876,54 +4876,14 @@
       "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-starlight-pla-3d-printer-filament.html",
       "items": [
         {
-          "name": "Rainbow (Spool, 1kg)",
-          "color": "Rainbow",
+          "name": "Default",
+          "color": "",
           "hex": "",
-          "sku": "3DPM0205",
-          "productId": "38461",
+          "sku": "3DP-PM-PLA-GRADSTRLT",
+          "productId": "38552",
           "inStock": false,
-          "price": 34.99,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-starlight-pla-3d-printer-filament.html?sku=3DPM0205#product-38461"
-        },
-        {
-          "name": "Purple (Spool, 1kg)",
-          "color": "Purple",
-          "hex": "",
-          "sku": "3DPM0206",
-          "productId": "38462",
-          "inStock": false,
-          "price": 34.99,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-starlight-pla-3d-printer-filament.html?sku=3DPM0206#product-38462"
-        },
-        {
-          "name": "Blue-Green (Spool, 1kg)",
-          "color": "Blue-Green",
-          "hex": "",
-          "sku": "3DPM0207",
-          "productId": "38463",
-          "inStock": false,
-          "price": 34.99,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-starlight-pla-3d-printer-filament.html?sku=3DPM0207#product-38463"
-        },
-        {
-          "name": "Purple-Red (Spool, 1kg)",
-          "color": "Purple-Red",
-          "hex": "",
-          "sku": "3DPM0208",
-          "productId": "38464",
-          "inStock": false,
-          "price": 34.99,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-starlight-pla-3d-printer-filament.html?sku=3DPM0208#product-38464"
-        },
-        {
-          "name": "Blue-Purple (Spool, 1kg)",
-          "color": "Blue-Purple",
-          "hex": "",
-          "sku": "3DPM0209",
-          "productId": "38465",
-          "inStock": true,
-          "price": 34.99,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-starlight-pla-3d-printer-filament.html?sku=3DPM0209#product-38465"
+          "price": 0.0,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-starlight-pla-3d-printer-filament.html?sku=3DP-PM-PLA-GRADSTRLT#product-38552"
         }
       ]
     },
@@ -5101,7 +5061,7 @@
           "hex": "#bfeb8c",
           "sku": "3DPM0032",
           "productId": "39064",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-luminous-pla-3d-printer-filament.html?sku=3DPM0032#product-39064"
         },
@@ -6244,25 +6204,14 @@
     "inStock": [],
     "outOfStock": [
       {
-        "brand": "Bambu",
-        "line": "PETG CF",
-        "group": "PETG",
-        "name": "Indigo Blue (1kg, Spool)",
-        "sku": "3DPF168",
-        "productId": "28893",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html?sku=3DPF168#product-28893",
-        "price": 34.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
+        "brand": "Polymaker",
+        "line": "Panchroma Luminous PLA",
         "group": "PLA",
-        "name": "Bright Green (1kg, Refill)",
-        "sku": "3DPF349",
-        "productId": "33106",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF349#product-33106",
-        "price": 19.99,
+        "name": "Luminous Green (Spool, 1kg)",
+        "sku": "3DPM0032",
+        "productId": "39064",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-luminous-pla-3d-printer-filament.html?sku=3DPM0032#product-39064",
+        "price": 24.99,
         "inStock": false
       }
     ]
