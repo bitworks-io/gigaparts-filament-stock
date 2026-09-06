@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-06T19:06:55+00:00",
-  "previousUpdatedAt": "2026-09-06T16:58:10+00:00",
+  "updatedAt": "2026-09-06T21:19:30+00:00",
+  "previousUpdatedAt": "2026-09-06T19:06:55+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4313,7 +4313,7 @@
           "hex": "#f0d6d9",
           "sku": "3DPM0121",
           "productId": "39113",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0121#product-39113"
         },
@@ -6085,7 +6085,7 @@
           "hex": "",
           "sku": "3DPM0426",
           "productId": "39039",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-abs-black-1-75mm-1kg-filament-spool.html?sku=3DPM0426#product-39039"
         }
@@ -6202,7 +6202,30 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Matte PLA",
+        "group": "PLA",
+        "name": "Candy (Spool, 1kg)",
+        "sku": "3DPM0121",
+        "productId": "39113",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0121#product-39113",
+        "price": 19.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "PolyLite ABS Black 1.75mm 1kg Filament Spool",
+        "group": "ABS",
+        "name": "Default",
+        "sku": "3DPM0426",
+        "productId": "39039",
+        "url": "https://www.gigaparts.com/polymaker-polylite-abs-black-1-75mm-1kg-filament-spool.html?sku=3DPM0426#product-39039",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
