@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-05T23:50:31+00:00",
-  "previousUpdatedAt": "2026-09-05T21:10:28+00:00",
+  "updatedAt": "2026-09-06T04:29:41+00:00",
+  "previousUpdatedAt": "2026-09-05T23:50:31+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6202,30 +6202,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
-        "group": "PLA",
-        "name": "Green (Spool, 1kg)",
-        "sku": "3DPM0116",
-        "productId": "39108",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0116#product-39108",
-        "price": 19.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
-        "group": "PLA",
-        "name": "Periwinkle (Spool, 1kg)",
-        "sku": "3DPM0127",
-        "productId": "39119",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0127#product-39119",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
