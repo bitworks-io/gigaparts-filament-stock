@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-07T20:32:21+00:00",
-  "previousUpdatedAt": "2026-09-07T16:25:25+00:00",
+  "updatedAt": "2026-09-07T23:28:06+00:00",
+  "previousUpdatedAt": "2026-09-07T20:32:21+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4481,7 +4481,7 @@
           "hex": "",
           "sku": "3DPM0021",
           "productId": "38424",
-          "inStock": true,
+          "inStock": false,
           "price": 29.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DPM0021#product-38424"
         },
@@ -6204,14 +6204,14 @@
     "inStock": [],
     "outOfStock": [
       {
-        "brand": "Bambu",
-        "line": "TPU for AMS",
-        "group": "TPU",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF323",
-        "productId": "33037",
-        "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF323#product-33037",
-        "price": 38.99,
+        "brand": "Polymaker",
+        "line": "Panchroma Starlight PLA",
+        "group": "PLA",
+        "name": "Neptune (Spool, 1kg)",
+        "sku": "3DPM0021",
+        "productId": "38424",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DPM0021#product-38424",
+        "price": 29.99,
         "inStock": false
       }
     ]
