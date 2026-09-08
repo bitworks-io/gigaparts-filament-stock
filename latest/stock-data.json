@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-08T14:29:10+00:00",
-  "previousUpdatedAt": "2026-09-08T09:35:41+00:00",
+  "updatedAt": "2026-09-08T18:35:19+00:00",
+  "previousUpdatedAt": "2026-09-08T14:29:10+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -195,7 +195,7 @@
           "hex": "#000000",
           "sku": "3DPF214",
           "productId": "32370",
-          "inStock": false,
+          "inStock": true,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF214#product-32370"
         },
@@ -435,7 +435,7 @@
           "hex": "#fec700",
           "sku": "3DPF351",
           "productId": "33103",
-          "inStock": false,
+          "inStock": true,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF351#product-33103"
         },
@@ -445,7 +445,7 @@
           "hex": "#becf00",
           "sku": "3DPF349",
           "productId": "33106",
-          "inStock": false,
+          "inStock": true,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF349#product-33106"
         },
@@ -1679,7 +1679,7 @@
           "hex": "#ba9594",
           "sku": "3DPF379",
           "productId": "33843",
-          "inStock": false,
+          "inStock": true,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF379#product-33843"
         },
@@ -2419,7 +2419,7 @@
           "hex": "#16b08f",
           "sku": "3DPF170",
           "productId": "28895",
-          "inStock": true,
+          "inStock": false,
           "price": 34.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html?sku=3DPF170#product-28895"
         },
@@ -6201,17 +6201,62 @@
     }
   ],
   "changes": {
-    "inStock": [],
+    "inStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Black (1kg, Refill)",
+        "sku": "3DPF214",
+        "productId": "32370",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF214#product-32370",
+        "price": 19.99,
+        "inStock": true
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Bright Green (1kg, Refill)",
+        "sku": "3DPF349",
+        "productId": "33106",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF349#product-33106",
+        "price": 19.99,
+        "inStock": true
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Sunflower Yellow (1kg, Refill)",
+        "sku": "3DPF351",
+        "productId": "33103",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF351#product-33103",
+        "price": 19.99,
+        "inStock": true
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Silk+",
+        "group": "PLA",
+        "name": "Rose Gold (1kg, Spool)",
+        "sku": "3DPF379",
+        "productId": "33843",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF379#product-33843",
+        "price": 22.99,
+        "inStock": true
+      }
+    ],
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Basic Gradient",
-        "group": "PLA",
-        "name": "Mint Lime (1kg, Spool)",
-        "sku": "3DPF015",
-        "productId": "28762",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF015#product-28762",
-        "price": 24.99,
+        "line": "PETG CF",
+        "group": "PETG",
+        "name": "Malachite Green (1kg, Spool)",
+        "sku": "3DPF170",
+        "productId": "28895",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html?sku=3DPF170#product-28895",
+        "price": 34.99,
         "inStock": false
       }
     ]
