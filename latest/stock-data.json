@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-08T04:27:35+00:00",
-  "previousUpdatedAt": "2026-09-07T23:28:06+00:00",
+  "updatedAt": "2026-09-08T09:35:41+00:00",
+  "previousUpdatedAt": "2026-09-08T04:27:35+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4542,7 +4542,7 @@
           "sku": "3DPM0042",
           "productId": "38432",
           "inStock": true,
-          "price": 29.99,
+          "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DPM0042#product-38432"
         },
         {
@@ -6202,19 +6202,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Dual Matte PLA",
-        "group": "PLA",
-        "name": "Camouflage Dark Green-Brown (Spool, 1kg)",
-        "sku": "3DPM0133",
-        "productId": "39125",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-dual-matte-pla-3d-printer-filament.html?sku=3DPM0133#product-39125",
-        "price": 22.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
