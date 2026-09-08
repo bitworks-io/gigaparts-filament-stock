@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-08T09:35:41+00:00",
-  "previousUpdatedAt": "2026-09-08T04:27:35+00:00",
+  "updatedAt": "2026-09-08T14:29:10+00:00",
+  "previousUpdatedAt": "2026-09-08T09:35:41+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -553,7 +553,7 @@
           "hex": "",
           "sku": "3DPF015",
           "productId": "28762",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF015#product-28762"
         },
@@ -6202,7 +6202,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic Gradient",
+        "group": "PLA",
+        "name": "Mint Lime (1kg, Spool)",
+        "sku": "3DPF015",
+        "productId": "28762",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF015#product-28762",
+        "price": 24.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
