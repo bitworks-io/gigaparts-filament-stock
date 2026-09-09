@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-09T00:08:43+00:00",
-  "previousUpdatedAt": "2026-09-08T21:48:17+00:00",
+  "updatedAt": "2026-09-09T05:56:36+00:00",
+  "previousUpdatedAt": "2026-09-09T00:08:43+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4542,7 +4542,7 @@
           "sku": "3DPM0042",
           "productId": "38432",
           "inStock": true,
-          "price": 24.99,
+          "price": 29.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DPM0042#product-38432"
         },
         {
