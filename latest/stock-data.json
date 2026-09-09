@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-09T11:15:08+00:00",
-  "previousUpdatedAt": "2026-09-09T05:56:36+00:00",
+  "updatedAt": "2026-09-09T16:34:04+00:00",
+  "previousUpdatedAt": "2026-09-09T11:15:08+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6202,19 +6202,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG CF",
-        "group": "PETG",
-        "name": "Brick Red (1kg, Spool)",
-        "sku": "3DPF173",
-        "productId": "28898",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html?sku=3DPF173#product-28898",
-        "price": 34.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
