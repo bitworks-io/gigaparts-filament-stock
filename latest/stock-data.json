@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-10T01:01:27+00:00",
-  "previousUpdatedAt": "2026-09-09T22:30:21+00:00",
+  "updatedAt": "2026-09-10T05:55:00+00:00",
+  "previousUpdatedAt": "2026-09-10T01:01:27+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -345,7 +345,7 @@
           "hex": "#0088d6",
           "sku": "3DPF205",
           "productId": "32740",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF205#product-32740"
         },
@@ -6202,7 +6202,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Cyan (1kg, Refill)",
+        "sku": "3DPF205",
+        "productId": "32740",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF205#product-32740",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
