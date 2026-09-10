@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-10T11:11:57+00:00",
-  "previousUpdatedAt": "2026-09-10T05:55:00+00:00",
+  "updatedAt": "2026-09-10T16:20:22+00:00",
+  "previousUpdatedAt": "2026-09-10T11:11:57+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3499,7 +3499,7 @@
           "hex": "#575b54",
           "sku": "3DPM0263",
           "productId": "38491",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0263#product-38491"
         },
@@ -3639,7 +3639,7 @@
           "hex": "#d9dfe5",
           "sku": "3DPM0277",
           "productId": "38505",
-          "inStock": true,
+          "inStock": false,
           "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0277#product-38505"
         }
@@ -5521,7 +5521,7 @@
           "hex": "#dbbaa5",
           "sku": "3DPM0324",
           "productId": "38518",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0324#product-38518"
         },
@@ -6202,7 +6202,41 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Basic PLA",
+        "group": "PLA",
+        "name": "Cold White (Refill, 1kg)",
+        "sku": "3DPM0277",
+        "productId": "38505",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0277#product-38505",
+        "price": 17.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Basic PLA",
+        "group": "PLA",
+        "name": "Dark Olive Drab (Spool, 1kg)",
+        "sku": "3DPM0263",
+        "productId": "38491",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0263#product-38491",
+        "price": 19.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "PolyLite PLA Pro",
+        "group": "PLA",
+        "name": "Army Beige (Spool, 1kg)",
+        "sku": "3DPM0324",
+        "productId": "38518",
+        "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0324#product-38518",
+        "price": 22.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
