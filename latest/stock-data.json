@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-12T14:03:35+00:00",
-  "previousUpdatedAt": "2026-09-12T10:40:02+00:00",
+  "updatedAt": "2026-09-12T17:05:00+00:00",
+  "previousUpdatedAt": "2026-09-12T14:03:35+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -5227,7 +5227,7 @@
           "hex": "",
           "sku": "3DPM0144",
           "productId": "39136",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0144#product-39136"
         },
@@ -6202,7 +6202,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Gradient Matte PLA",
+        "group": "PLA",
+        "name": "Wood (Spool, 1kg)",
+        "sku": "3DPM0144",
+        "productId": "39136",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0144#product-39136",
+        "price": 22.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
