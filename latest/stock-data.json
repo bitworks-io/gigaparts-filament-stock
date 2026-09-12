@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-12T17:05:00+00:00",
-  "previousUpdatedAt": "2026-09-12T14:03:35+00:00",
+  "updatedAt": "2026-09-12T19:16:49+00:00",
+  "previousUpdatedAt": "2026-09-12T17:05:00+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4647,7 +4647,7 @@
           "hex": "#ff366f",
           "sku": "3DPM0005",
           "productId": "39053",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-neon-pla-3d-printer-filament.html?sku=3DPM0005#product-39053"
         },
@@ -5018,24 +5018,14 @@
       "url": "https://www.gigaparts.com/polymaker-panchroma-glow-pla-3d-printer-filament.html",
       "items": [
         {
-          "name": "Glow Blue (Spool, 1kg)",
-          "color": "Glow Blue",
+          "name": "Default",
+          "color": "",
           "hex": "",
-          "sku": "3DPM0029",
-          "productId": "38426",
+          "sku": "3DP-PM-PLA-GLOW",
+          "productId": "38550",
           "inStock": false,
-          "price": 24.99,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-glow-pla-3d-printer-filament.html?sku=3DPM0029#product-38426"
-        },
-        {
-          "name": "Glow Green (Spool, 1kg)",
-          "color": "Glow Green",
-          "hex": "",
-          "sku": "3DPM0030",
-          "productId": "38427",
-          "inStock": true,
-          "price": 24.99,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-glow-pla-3d-printer-filament.html?sku=3DPM0030#product-38427"
+          "price": 0.0,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-glow-pla-3d-printer-filament.html?sku=3DP-PM-PLA-GLOW#product-38550"
         }
       ]
     },
@@ -6205,13 +6195,13 @@
     "outOfStock": [
       {
         "brand": "Polymaker",
-        "line": "Panchroma Gradient Matte PLA",
+        "line": "Panchroma Neon PLA",
         "group": "PLA",
-        "name": "Wood (Spool, 1kg)",
-        "sku": "3DPM0144",
-        "productId": "39136",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0144#product-39136",
-        "price": 22.99,
+        "name": "Neon Pink (Spool, 1kg)",
+        "sku": "3DPM0005",
+        "productId": "39053",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-neon-pla-3d-printer-filament.html?sku=3DPM0005#product-39053",
+        "price": 24.99,
         "inStock": false
       }
     ]
