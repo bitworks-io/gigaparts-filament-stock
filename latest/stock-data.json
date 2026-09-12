@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-12T19:16:49+00:00",
-  "previousUpdatedAt": "2026-09-12T17:05:00+00:00",
+  "updatedAt": "2026-09-12T22:13:05+00:00",
+  "previousUpdatedAt": "2026-09-12T19:16:49+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4957,7 +4957,7 @@
           "hex": "",
           "sku": "3DPM0201",
           "productId": "39161",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-crystal-pla-3d-printer-filament.html?sku=3DPM0201#product-39161"
         },
@@ -5227,7 +5227,7 @@
           "hex": "",
           "sku": "3DPM0145",
           "productId": "39137",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0145#product-39137"
         },
@@ -5247,7 +5247,7 @@
           "hex": "",
           "sku": "3DPM0147",
           "productId": "39139",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0147#product-39139"
         },
@@ -6195,12 +6195,34 @@
     "outOfStock": [
       {
         "brand": "Polymaker",
-        "line": "Panchroma Neon PLA",
+        "line": "Panchroma Gradient Crystal PLA",
         "group": "PLA",
-        "name": "Neon Pink (Spool, 1kg)",
-        "sku": "3DPM0005",
-        "productId": "39053",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-neon-pla-3d-printer-filament.html?sku=3DPM0005#product-39053",
+        "name": "Rose Quartz (Spool, 1kg)",
+        "sku": "3DPM0201",
+        "productId": "39161",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-crystal-pla-3d-printer-filament.html?sku=3DPM0201#product-39161",
+        "price": 24.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Gradient Matte PLA",
+        "group": "PLA",
+        "name": "Fall (Spool, 1kg)",
+        "sku": "3DPM0145",
+        "productId": "39137",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0145#product-39137",
+        "price": 24.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Gradient Matte PLA",
+        "group": "PLA",
+        "name": "Spring (Spool, 1kg)",
+        "sku": "3DPM0147",
+        "productId": "39139",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0147#product-39139",
         "price": 24.99,
         "inStock": false
       }
