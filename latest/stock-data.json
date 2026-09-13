@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-13T16:11:19+00:00",
-  "previousUpdatedAt": "2026-09-13T11:44:03+00:00",
+  "updatedAt": "2026-09-13T19:25:06+00:00",
+  "previousUpdatedAt": "2026-09-13T16:11:19+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3529,7 +3529,7 @@
           "hex": "#050005",
           "sku": "3DPM0266",
           "productId": "38494",
-          "inStock": true,
+          "inStock": false,
           "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0266#product-38494"
         },
@@ -6194,14 +6194,14 @@
     "inStock": [],
     "outOfStock": [
       {
-        "brand": "Bambu",
-        "line": "PLA Matte",
+        "brand": "Polymaker",
+        "line": "Panchroma Basic PLA",
         "group": "PLA",
-        "name": "Bone White (1kg, Refill)",
-        "sku": "3DPF369",
-        "productId": "33826",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF369#product-33826",
-        "price": 19.99,
+        "name": "Black (Refill, 1kg)",
+        "sku": "3DPM0266",
+        "productId": "38494",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0266#product-38494",
+        "price": 17.99,
         "inStock": false
       }
     ]
