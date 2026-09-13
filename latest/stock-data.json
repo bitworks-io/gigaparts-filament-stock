@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-13T11:44:03+00:00",
-  "previousUpdatedAt": "2026-09-13T06:03:29+00:00",
+  "updatedAt": "2026-09-13T16:11:19+00:00",
+  "previousUpdatedAt": "2026-09-13T11:44:03+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1511,7 +1511,7 @@
           "hex": "#cbc6b8",
           "sku": "3DPF369",
           "productId": "33826",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF369#product-33826"
         },
@@ -6192,7 +6192,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Matte",
+        "group": "PLA",
+        "name": "Bone White (1kg, Refill)",
+        "sku": "3DPF369",
+        "productId": "33826",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF369#product-33826",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
