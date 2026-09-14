@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-14T19:17:55+00:00",
-  "previousUpdatedAt": "2026-09-14T13:57:15+00:00",
+  "updatedAt": "2026-09-14T23:06:20+00:00",
+  "previousUpdatedAt": "2026-09-14T19:17:55+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -195,7 +195,7 @@
           "hex": "#000000",
           "sku": "3DPF214",
           "productId": "32370",
-          "inStock": false,
+          "inStock": true,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF214#product-32370"
         },
@@ -825,7 +825,7 @@
           "hex": "#000000",
           "sku": "3DPF098",
           "productId": "28840",
-          "inStock": true,
+          "inStock": false,
           "price": 34.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html?sku=3DPF098#product-28840"
         },
@@ -6194,81 +6194,26 @@
     "inStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Matte",
+        "line": "PLA Basic",
         "group": "PLA",
-        "name": "Bone White (1kg, Refill)",
-        "sku": "3DPF369",
-        "productId": "33826",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF369#product-33826",
+        "name": "Black (1kg, Refill)",
+        "sku": "3DPF214",
+        "productId": "32370",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF214#product-32370",
         "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Dark Green (1kg, Refill)",
-        "sku": "3DPF230",
-        "productId": "33041",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF230#product-33041",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Lilac Purple (1kg, Refill)",
-        "sku": "3DPF235",
-        "productId": "32731",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF235#product-32731",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Silk Multi-Color",
-        "group": "PLA",
-        "name": "Phantom Blue (1kg, Spool)",
-        "sku": "3DPF461",
-        "productId": "39667",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF461#product-39667",
-        "price": 24.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "TPU for AMS",
-        "group": "TPU",
-        "name": "Gray (1kg, Spool)",
-        "sku": "3DPF324",
-        "productId": "33047",
-        "url": "https://www.gigaparts.com/bambu-lab-tpu-for-ams-3d-printer-filament.html?sku=3DPF324#product-33047",
-        "price": 38.99,
         "inStock": true
       }
     ],
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Basic",
+        "line": "PLA CF",
         "group": "PLA",
-        "name": "Mistletoe Green (1kg, Refill)",
-        "sku": "3DPF212",
-        "productId": "32644",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF212#product-32644",
-        "price": 19.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
-        "group": "PLA",
-        "name": "Army Red (Spool, 1kg)",
-        "sku": "3DPM0104",
-        "productId": "39096",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0104#product-39096",
-        "price": 19.99,
+        "name": "Black (1kg, Spool)",
+        "sku": "3DPF098",
+        "productId": "28840",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html?sku=3DPF098#product-28840",
+        "price": 34.99,
         "inStock": false
       }
     ]
