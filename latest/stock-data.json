@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-14T23:06:20+00:00",
-  "previousUpdatedAt": "2026-09-14T19:17:55+00:00",
+  "updatedAt": "2026-09-15T01:25:35+00:00",
+  "previousUpdatedAt": "2026-09-14T23:06:20+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6191,32 +6191,8 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Black (1kg, Refill)",
-        "sku": "3DPF214",
-        "productId": "32370",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF214#product-32370",
-        "price": 19.99,
-        "inStock": true
-      }
-    ],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA CF",
-        "group": "PLA",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF098",
-        "productId": "28840",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html?sku=3DPF098#product-28840",
-        "price": 34.99,
-        "inStock": false
-      }
-    ]
+    "inStock": [],
+    "outOfStock": []
   },
   "errors": []
 }
