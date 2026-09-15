@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-15T01:25:35+00:00",
-  "previousUpdatedAt": "2026-09-14T23:06:20+00:00",
+  "updatedAt": "2026-09-15T07:39:44+00:00",
+  "previousUpdatedAt": "2026-09-15T01:25:35+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4492,7 +4492,7 @@
           "sku": "3DPM0022",
           "productId": "38425",
           "inStock": true,
-          "price": 29.99,
+          "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DPM0022#product-38425"
         },
         {
@@ -4775,7 +4775,7 @@
           "hex": "#da1522",
           "sku": "3DPM0186",
           "productId": "39149",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-satin-pla-3d-printer-filament.html?sku=3DPM0186#product-39149"
         },
@@ -6192,7 +6192,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Satin PLA",
+        "group": "PLA",
+        "name": "Satin Red (Spool, 1kg)",
+        "sku": "3DPM0186",
+        "productId": "39149",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-satin-pla-3d-printer-filament.html?sku=3DPM0186#product-39149",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
