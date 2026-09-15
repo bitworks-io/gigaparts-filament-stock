@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-15T13:28:48+00:00",
-  "previousUpdatedAt": "2026-09-15T07:39:44+00:00",
+  "updatedAt": "2026-09-15T18:08:32+00:00",
+  "previousUpdatedAt": "2026-09-15T13:28:48+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -325,7 +325,7 @@
           "hex": "#d1d3d5",
           "sku": "3DPF210",
           "productId": "32738",
-          "inStock": false,
+          "inStock": true,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF210#product-32738"
         },
@@ -6191,7 +6191,19 @@
     }
   ],
   "changes": {
-    "inStock": [],
+    "inStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Light Gray (1kg, Refill)",
+        "sku": "3DPF210",
+        "productId": "32738",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF210#product-32738",
+        "price": 19.99,
+        "inStock": true
+      }
+    ],
     "outOfStock": []
   },
   "errors": []
