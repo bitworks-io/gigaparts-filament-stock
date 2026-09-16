@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-15T22:10:01+00:00",
-  "previousUpdatedAt": "2026-09-15T18:08:32+00:00",
+  "updatedAt": "2026-09-16T01:22:16+00:00",
+  "previousUpdatedAt": "2026-09-15T22:10:01+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6192,30 +6192,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG HF",
-        "group": "PETG",
-        "name": "White (1kg, Spool)",
-        "sku": "3DPF166",
-        "productId": "31857",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF166#product-31857",
-        "price": 19.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Marble PLA",
-        "group": "PLA",
-        "name": "Brick (Spool, 1kg)",
-        "sku": "3DPM0152",
-        "productId": "39086",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-marble-pla-3d-printer-filament.html?sku=3DPM0152#product-39086",
-        "price": 20.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
