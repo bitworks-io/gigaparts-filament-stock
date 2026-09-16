@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-16T13:27:51+00:00",
-  "previousUpdatedAt": "2026-09-16T07:38:29+00:00",
+  "updatedAt": "2026-09-16T18:10:09+00:00",
+  "previousUpdatedAt": "2026-09-16T13:27:51+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -2497,7 +2497,7 @@
           "hex": "#000000",
           "sku": "3DPF188",
           "productId": "28904",
-          "inStock": true,
+          "inStock": false,
           "price": 41.99,
           "url": "https://www.gigaparts.com/bambu-lab-tpu-95a-hf-3d-printer-filament.html?sku=3DPF188#product-28904"
         },
@@ -3181,7 +3181,7 @@
           "hex": "#ffffff",
           "sku": "3DPF178",
           "productId": "31287",
-          "inStock": true,
+          "inStock": false,
           "price": 59.99,
           "url": "https://www.gigaparts.com/bambu-lab-pa6-gf-3d-printer-filament.html?sku=3DPF178#product-31287"
         },
@@ -6192,7 +6192,30 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PA6 GF",
+        "group": "PA",
+        "name": "White (1kg, Spool)",
+        "sku": "3DPF178",
+        "productId": "31287",
+        "url": "https://www.gigaparts.com/bambu-lab-pa6-gf-3d-printer-filament.html?sku=3DPF178#product-31287",
+        "price": 59.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "TPU 95A HF",
+        "group": "TPU",
+        "name": "Black (1kg, Spool)",
+        "sku": "3DPF188",
+        "productId": "28904",
+        "url": "https://www.gigaparts.com/bambu-lab-tpu-95a-hf-3d-printer-filament.html?sku=3DPF188#product-28904",
+        "price": 41.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
