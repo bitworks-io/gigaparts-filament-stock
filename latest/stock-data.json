@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-17T20:16:00+00:00",
-  "previousUpdatedAt": "2026-09-17T16:54:17+00:00",
+  "updatedAt": "2026-09-17T23:31:58+00:00",
+  "previousUpdatedAt": "2026-09-17T20:16:00+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3893,7 +3893,7 @@
           "hex": "#8a8c94",
           "sku": "3DPM0161",
           "productId": "38445",
-          "inStock": true,
+          "inStock": false,
           "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0161#product-38445"
         },
@@ -3983,7 +3983,7 @@
           "hex": "#61bcc3",
           "sku": "3DPM0170",
           "productId": "38454",
-          "inStock": true,
+          "inStock": false,
           "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0170#product-38454"
         },
@@ -6152,7 +6152,30 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Matte PLA",
+        "group": "PLA",
+        "name": "Arctic Teal (Refill, 1kg)",
+        "sku": "3DPM0170",
+        "productId": "38454",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0170#product-38454",
+        "price": 17.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Matte PLA",
+        "group": "PLA",
+        "name": "Fossil Grey (Refill, 1kg)",
+        "sku": "3DPM0161",
+        "productId": "38445",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0161#product-38445",
+        "price": 17.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
