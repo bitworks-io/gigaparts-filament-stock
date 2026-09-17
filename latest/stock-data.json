@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-17T16:54:17+00:00",
-  "previousUpdatedAt": "2026-09-17T11:37:15+00:00",
+  "updatedAt": "2026-09-17T20:16:00+00:00",
+  "previousUpdatedAt": "2026-09-17T16:54:17+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6151,41 +6151,7 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PA6 GF",
-        "group": "PA",
-        "name": "White (1kg, Spool)",
-        "sku": "3DPF178",
-        "productId": "31287",
-        "url": "https://www.gigaparts.com/bambu-lab-pa6-gf-3d-printer-filament.html?sku=3DPF178#product-31287",
-        "price": 59.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Mistletoe Green (1kg, Refill)",
-        "sku": "3DPF212",
-        "productId": "32644",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF212#product-32644",
-        "price": 19.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "TPU 95A HF",
-        "group": "TPU",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF188",
-        "productId": "28904",
-        "url": "https://www.gigaparts.com/bambu-lab-tpu-95a-hf-3d-printer-filament.html?sku=3DPF188#product-28904",
-        "price": 41.99,
-        "inStock": true
-      }
-    ],
+    "inStock": [],
     "outOfStock": []
   },
   "errors": []
