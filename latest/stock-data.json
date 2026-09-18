@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-18T04:35:48+00:00",
-  "previousUpdatedAt": "2026-09-17T23:31:58+00:00",
+  "updatedAt": "2026-09-18T09:40:04+00:00",
+  "previousUpdatedAt": "2026-09-18T04:35:48+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3559,7 +3559,7 @@
           "hex": "#e72e1d",
           "sku": "3DPM0269",
           "productId": "38497",
-          "inStock": true,
+          "inStock": false,
           "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0269#product-38497"
         },
@@ -4620,7 +4620,7 @@
           "sku": "3DPM0013",
           "productId": "39061",
           "inStock": true,
-          "price": 24.99,
+          "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-metallic-pla-3d-printer-filament.html?sku=3DPM0013#product-39061"
         },
         {
@@ -6155,13 +6155,13 @@
     "outOfStock": [
       {
         "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
+        "line": "Panchroma Basic PLA",
         "group": "PLA",
-        "name": "Purple (Spool, 1kg)",
-        "sku": "3DPM0117",
-        "productId": "39109",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0117#product-39109",
-        "price": 19.99,
+        "name": "Red (Refill, 1kg)",
+        "sku": "3DPM0269",
+        "productId": "38497",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0269#product-38497",
+        "price": 17.99,
         "inStock": false
       }
     ]
