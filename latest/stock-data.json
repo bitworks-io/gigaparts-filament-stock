@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-18T09:40:04+00:00",
-  "previousUpdatedAt": "2026-09-18T04:35:48+00:00",
+  "updatedAt": "2026-09-18T14:26:50+00:00",
+  "previousUpdatedAt": "2026-09-18T09:40:04+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6152,19 +6152,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Basic PLA",
-        "group": "PLA",
-        "name": "Red (Refill, 1kg)",
-        "sku": "3DPM0269",
-        "productId": "38497",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0269#product-38497",
-        "price": 17.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
