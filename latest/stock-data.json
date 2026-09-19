@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-19T17:58:16+00:00",
-  "previousUpdatedAt": "2026-09-19T14:21:15+00:00",
+  "updatedAt": "2026-09-19T20:34:20+00:00",
+  "previousUpdatedAt": "2026-09-19T17:58:16+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6152,19 +6152,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG Translucent",
-        "group": "PETG",
-        "name": "Translucent Orange (1kg, Refill)",
-        "sku": "3DPF257",
-        "productId": "33205",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF257#product-33205",
-        "price": 15.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
