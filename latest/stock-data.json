@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-19T00:15:10+00:00",
-  "previousUpdatedAt": "2026-09-18T21:37:24+00:00",
+  "updatedAt": "2026-09-19T05:47:16+00:00",
+  "previousUpdatedAt": "2026-09-19T00:15:10+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4620,7 +4620,7 @@
           "sku": "3DPM0013",
           "productId": "39061",
           "inStock": true,
-          "price": 19.99,
+          "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-metallic-pla-3d-printer-filament.html?sku=3DPM0013#product-39061"
         },
         {
@@ -5237,7 +5237,7 @@
           "hex": "",
           "sku": "3DPM0150",
           "productId": "39142",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0150#product-39142"
         }
@@ -6152,7 +6152,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Gradient Matte PLA",
+        "group": "PLA",
+        "name": "Cappuccino (Spool, 1kg)",
+        "sku": "3DPM0150",
+        "productId": "39142",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0150#product-39142",
+        "price": 24.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
