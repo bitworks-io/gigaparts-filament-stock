@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-20T01:02:24+00:00",
-  "previousUpdatedAt": "2026-09-19T22:57:21+00:00",
+  "updatedAt": "2026-09-20T06:09:06+00:00",
+  "previousUpdatedAt": "2026-09-20T01:02:24+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6152,19 +6152,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Dual Matte PLA",
-        "group": "PLA",
-        "name": "Shadow Orange Orange-Black (Spool, 1kg)",
-        "sku": "3DPM0141",
-        "productId": "39133",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-dual-matte-pla-3d-printer-filament.html?sku=3DPM0141#product-39133",
-        "price": 22.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
