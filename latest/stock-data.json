@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-21T14:01:18+00:00",
-  "previousUpdatedAt": "2026-09-21T06:15:01+00:00",
+  "updatedAt": "2026-09-21T19:21:03+00:00",
+  "previousUpdatedAt": "2026-09-21T14:01:18+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3133,7 +3133,7 @@
           "hex": "#000000",
           "sku": "3DPF387",
           "productId": "33807",
-          "inStock": false,
+          "inStock": true,
           "price": 54.99,
           "url": "https://www.gigaparts.com/bambu-lab-pc-fr-3d-printer-filament.html?sku=3DPF387#product-33807"
         },
@@ -4323,7 +4323,7 @@
           "hex": "#a4d0df",
           "sku": "3DPM0122",
           "productId": "39114",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0122#product-39114"
         },
@@ -6151,8 +6151,32 @@
     }
   ],
   "changes": {
-    "inStock": [],
-    "outOfStock": []
+    "inStock": [
+      {
+        "brand": "Bambu",
+        "line": "PC FR",
+        "group": "PC",
+        "name": "Black (1kg, Spool)",
+        "sku": "3DPF387",
+        "productId": "33807",
+        "url": "https://www.gigaparts.com/bambu-lab-pc-fr-3d-printer-filament.html?sku=3DPF387#product-33807",
+        "price": 54.99,
+        "inStock": true
+      }
+    ],
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Matte PLA",
+        "group": "PLA",
+        "name": "Ice (Spool, 1kg)",
+        "sku": "3DPM0122",
+        "productId": "39114",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0122#product-39114",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
