@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-23T11:27:31+00:00",
-  "previousUpdatedAt": "2026-09-23T05:54:33+00:00",
+  "updatedAt": "2026-09-23T16:50:57+00:00",
+  "previousUpdatedAt": "2026-09-23T11:27:31+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3133,7 +3133,7 @@
           "hex": "#000000",
           "sku": "3DPF387",
           "productId": "33807",
-          "inStock": true,
+          "inStock": false,
           "price": 54.99,
           "url": "https://www.gigaparts.com/bambu-lab-pc-fr-3d-printer-filament.html?sku=3DPF387#product-33807"
         },
@@ -4353,7 +4353,7 @@
           "hex": "#bf9573",
           "sku": "3DPM0125",
           "productId": "39117",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0125#product-39117"
         },
@@ -6152,7 +6152,30 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PC FR",
+        "group": "PC",
+        "name": "Black (1kg, Spool)",
+        "sku": "3DPF387",
+        "productId": "33807",
+        "url": "https://www.gigaparts.com/bambu-lab-pc-fr-3d-printer-filament.html?sku=3DPF387#product-33807",
+        "price": 54.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Matte PLA",
+        "group": "PLA",
+        "name": "Peanut (Spool, 1kg)",
+        "sku": "3DPM0125",
+        "productId": "39117",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0125#product-39117",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
