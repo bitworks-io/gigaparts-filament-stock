@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-23T20:16:47+00:00",
-  "previousUpdatedAt": "2026-09-23T16:50:57+00:00",
+  "updatedAt": "2026-09-23T23:38:22+00:00",
+  "previousUpdatedAt": "2026-09-23T20:16:47+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4725,7 +4725,7 @@
           "hex": "#5eab71",
           "sku": "3DPM0181",
           "productId": "39144",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-satin-pla-3d-printer-filament.html?sku=3DPM0181#product-39144"
         },
@@ -6152,7 +6152,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Satin PLA",
+        "group": "PLA",
+        "name": "Satin Green (Spool, 1kg)",
+        "sku": "3DPM0181",
+        "productId": "39144",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-satin-pla-3d-printer-filament.html?sku=3DPM0181#product-39144",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
