@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-22T22:02:04+00:00",
-  "previousUpdatedAt": "2026-09-22T18:49:36+00:00",
+  "updatedAt": "2026-09-23T00:24:52+00:00",
+  "previousUpdatedAt": "2026-09-22T22:02:04+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6152,19 +6152,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Purple (1kg, Spool)",
-        "sku": "3DPF019",
-        "productId": "28766",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF019#product-28766",
-        "price": 18.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
