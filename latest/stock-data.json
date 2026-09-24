@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-24T14:59:31+00:00",
-  "previousUpdatedAt": "2026-09-24T09:56:16+00:00",
+  "updatedAt": "2026-09-24T19:05:18+00:00",
+  "previousUpdatedAt": "2026-09-24T14:59:31+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6152,19 +6152,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA CF",
-        "group": "PLA",
-        "name": "Black (1kg, Refill)",
-        "sku": "3DPF241",
-        "productId": "33098",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html?sku=3DPF241#product-33098",
-        "price": 31.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
