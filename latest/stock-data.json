@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-26T13:01:17+00:00",
-  "previousUpdatedAt": "2026-09-26T07:35:48+00:00",
+  "updatedAt": "2026-09-26T17:06:46+00:00",
+  "previousUpdatedAt": "2026-09-26T13:01:17+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1521,7 +1521,7 @@
           "hex": "#ae835b",
           "sku": "3DPF366",
           "productId": "33827",
-          "inStock": true,
+          "inStock": false,
           "price": 15.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF366#product-33827"
         },
@@ -6152,7 +6152,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Matte",
+        "group": "PLA",
+        "name": "Caramel (1kg, Refill)",
+        "sku": "3DPF366",
+        "productId": "33827",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF366#product-33827",
+        "price": 15.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
