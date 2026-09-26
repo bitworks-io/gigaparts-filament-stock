@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-26T19:50:04+00:00",
-  "previousUpdatedAt": "2026-09-26T17:06:46+00:00",
+  "updatedAt": "2026-09-26T22:43:19+00:00",
+  "previousUpdatedAt": "2026-09-26T19:50:04+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6152,19 +6152,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Gradient Crystal PLA",
-        "group": "PLA",
-        "name": "Carnelian (Spool, 1kg)",
-        "sku": "3DPM0204",
-        "productId": "39164",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-crystal-pla-3d-printer-filament.html?sku=3DPM0204#product-39164",
-        "price": 24.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
