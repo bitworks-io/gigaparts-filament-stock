@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-26T17:06:46+00:00",
-  "previousUpdatedAt": "2026-09-26T13:01:17+00:00",
+  "updatedAt": "2026-09-26T19:50:04+00:00",
+  "previousUpdatedAt": "2026-09-26T17:06:46+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4987,7 +4987,7 @@
           "hex": "",
           "sku": "3DPM0204",
           "productId": "39164",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-crystal-pla-3d-printer-filament.html?sku=3DPM0204#product-39164"
         }
@@ -6154,14 +6154,14 @@
     "inStock": [],
     "outOfStock": [
       {
-        "brand": "Bambu",
-        "line": "PLA Matte",
+        "brand": "Polymaker",
+        "line": "Panchroma Gradient Crystal PLA",
         "group": "PLA",
-        "name": "Caramel (1kg, Refill)",
-        "sku": "3DPF366",
-        "productId": "33827",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF366#product-33827",
-        "price": 15.99,
+        "name": "Carnelian (Spool, 1kg)",
+        "sku": "3DPM0204",
+        "productId": "39164",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-crystal-pla-3d-printer-filament.html?sku=3DPM0204#product-39164",
+        "price": 24.99,
         "inStock": false
       }
     ]
