@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-27T22:04:09+00:00",
-  "previousUpdatedAt": "2026-09-27T18:18:45+00:00",
+  "updatedAt": "2026-09-28T00:40:05+00:00",
+  "previousUpdatedAt": "2026-09-27T22:04:09+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6152,19 +6152,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Sparkle",
-        "group": "PLA",
-        "name": "Alpine Green Sparkle (1kg, Spool)",
-        "sku": "3DPF064",
-        "productId": "28811",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-sparkle-3d-printer-filament.html?sku=3DPF064#product-28811",
-        "price": 24.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
