@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-28T06:45:54+00:00",
-  "previousUpdatedAt": "2026-09-28T00:40:05+00:00",
+  "updatedAt": "2026-09-28T15:22:01+00:00",
+  "previousUpdatedAt": "2026-09-28T06:45:54+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -185,7 +185,7 @@
           "hex": "#ffffff",
           "sku": "3DPF221",
           "productId": "32369",
-          "inStock": true,
+          "inStock": false,
           "price": 15.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF221#product-32369"
         },
@@ -2891,7 +2891,7 @@
           "hex": "#ffffff",
           "sku": "3DPF251",
           "productId": "32724",
-          "inStock": false,
+          "inStock": true,
           "price": 15.99,
           "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF251#product-32724"
         },
@@ -2901,7 +2901,7 @@
           "hex": "#000000",
           "sku": "3DPF249",
           "productId": "32725",
-          "inStock": true,
+          "inStock": false,
           "price": 15.99,
           "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF249#product-32725"
         },
@@ -3191,7 +3191,7 @@
           "hex": "#878787",
           "sku": "3DPF179",
           "productId": "31288",
-          "inStock": true,
+          "inStock": false,
           "price": 59.99,
           "url": "https://www.gigaparts.com/bambu-lab-pa6-gf-3d-printer-filament.html?sku=3DPF179#product-31288"
         },
@@ -6151,8 +6151,54 @@
     }
   ],
   "changes": {
-    "inStock": [],
-    "outOfStock": []
+    "inStock": [
+      {
+        "brand": "Bambu",
+        "line": "ABS",
+        "group": "ABS",
+        "name": "White (1kg, Refill)",
+        "sku": "3DPF251",
+        "productId": "32724",
+        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF251#product-32724",
+        "price": 15.99,
+        "inStock": true
+      }
+    ],
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "ABS",
+        "group": "ABS",
+        "name": "Black (1kg, Refill)",
+        "sku": "3DPF249",
+        "productId": "32725",
+        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF249#product-32725",
+        "price": 15.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PA6 GF",
+        "group": "PA",
+        "name": "Gray (1kg, Spool)",
+        "sku": "3DPF179",
+        "productId": "31288",
+        "url": "https://www.gigaparts.com/bambu-lab-pa6-gf-3d-printer-filament.html?sku=3DPF179#product-31288",
+        "price": 59.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Jade White (1kg, Refill)",
+        "sku": "3DPF221",
+        "productId": "32369",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF221#product-32369",
+        "price": 15.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
