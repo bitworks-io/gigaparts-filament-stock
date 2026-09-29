@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-29T15:43:45+00:00",
-  "previousUpdatedAt": "2026-09-29T08:23:13+00:00",
+  "updatedAt": "2026-09-29T20:42:37+00:00",
+  "previousUpdatedAt": "2026-09-29T15:43:45+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -185,7 +185,7 @@
           "hex": "#ffffff",
           "sku": "3DPF221",
           "productId": "32369",
-          "inStock": false,
+          "inStock": true,
           "price": 15.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF221#product-32369"
         },
@@ -2103,7 +2103,7 @@
           "hex": "#f4fafc",
           "sku": "3DPF259",
           "productId": "33229",
-          "inStock": false,
+          "inStock": true,
           "price": 15.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF259#product-33229"
         },
@@ -6151,7 +6151,30 @@
     }
   ],
   "changes": {
-    "inStock": [],
+    "inStock": [
+      {
+        "brand": "Bambu",
+        "line": "PETG Translucent",
+        "group": "PETG",
+        "name": "Clear (1kg, Refill)",
+        "sku": "3DPF259",
+        "productId": "33229",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF259#product-33229",
+        "price": 15.99,
+        "inStock": true
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Jade White (1kg, Refill)",
+        "sku": "3DPF221",
+        "productId": "32369",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF221#product-32369",
+        "price": 15.99,
+        "inStock": true
+      }
+    ],
     "outOfStock": []
   },
   "errors": []
