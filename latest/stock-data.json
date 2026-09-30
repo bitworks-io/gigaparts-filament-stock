@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-29T20:42:37+00:00",
-  "previousUpdatedAt": "2026-09-29T15:43:45+00:00",
+  "updatedAt": "2026-09-30T00:22:44+00:00",
+  "previousUpdatedAt": "2026-09-29T20:42:37+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -2161,7 +2161,7 @@
           "hex": "#e8102d",
           "sku": "3DPF165",
           "productId": "31856",
-          "inStock": true,
+          "inStock": false,
           "price": 18.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF165#product-31856"
         },
@@ -5639,7 +5639,7 @@
           "hex": "#06924c",
           "sku": "3DPM0392",
           "productId": "38539",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0392#product-38539"
         },
@@ -6151,31 +6151,31 @@
     }
   ],
   "changes": {
-    "inStock": [
+    "inStock": [],
+    "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PETG Translucent",
+        "line": "PETG HF",
         "group": "PETG",
-        "name": "Clear (1kg, Refill)",
-        "sku": "3DPF259",
-        "productId": "33229",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF259#product-33229",
-        "price": 15.99,
-        "inStock": true
+        "name": "Red (1kg, Spool)",
+        "sku": "3DPF165",
+        "productId": "31856",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF165#product-31856",
+        "price": 18.99,
+        "inStock": false
       },
       {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Jade White (1kg, Refill)",
-        "sku": "3DPF221",
-        "productId": "32369",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF221#product-32369",
-        "price": 15.99,
-        "inStock": true
+        "brand": "Polymaker",
+        "line": "PETG",
+        "group": "PETG",
+        "name": "Green (Spool, 1kg)",
+        "sku": "3DPM0392",
+        "productId": "38539",
+        "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0392#product-38539",
+        "price": 19.99,
+        "inStock": false
       }
-    ],
-    "outOfStock": []
+    ]
   },
   "errors": []
 }
