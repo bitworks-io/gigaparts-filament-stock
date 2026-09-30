@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-30T13:37:27+00:00",
-  "previousUpdatedAt": "2026-09-30T06:38:47+00:00",
+  "updatedAt": "2026-09-30T19:12:52+00:00",
+  "previousUpdatedAt": "2026-09-30T13:37:27+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3903,7 +3903,7 @@
           "hex": "#5f6244",
           "sku": "3DPM0162",
           "productId": "38446",
-          "inStock": true,
+          "inStock": false,
           "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0162#product-38446"
         },
@@ -6152,7 +6152,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Matte PLA",
+        "group": "PLA",
+        "name": "Army Dark Green (Refill, 1kg)",
+        "sku": "3DPM0162",
+        "productId": "38446",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0162#product-38446",
+        "price": 17.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
