@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-30T00:22:44+00:00",
-  "previousUpdatedAt": "2026-09-29T20:42:37+00:00",
+  "updatedAt": "2026-09-30T06:38:47+00:00",
+  "previousUpdatedAt": "2026-09-30T00:22:44+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3430,7 +3430,7 @@
           "sku": "3DPM0256",
           "productId": "38484",
           "inStock": true,
-          "price": 19.99,
+          "price": 16.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0256#product-38484"
         },
         {
@@ -4452,7 +4452,7 @@
           "sku": "3DPM0018",
           "productId": "38421",
           "inStock": true,
-          "price": 24.99,
+          "price": 29.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DPM0018#product-38421"
         },
         {
@@ -6152,30 +6152,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG HF",
-        "group": "PETG",
-        "name": "Red (1kg, Spool)",
-        "sku": "3DPF165",
-        "productId": "31856",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF165#product-31856",
-        "price": 18.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "PETG",
-        "group": "PETG",
-        "name": "Green (Spool, 1kg)",
-        "sku": "3DPM0392",
-        "productId": "38539",
-        "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0392#product-38539",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
