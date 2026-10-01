@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-01T13:05:06+00:00",
-  "previousUpdatedAt": "2026-10-01T05:44:03+00:00",
+  "updatedAt": "2026-10-01T18:51:01+00:00",
+  "previousUpdatedAt": "2026-10-01T13:05:06+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4053,7 +4053,7 @@
           "hex": "#1ac3fc",
           "sku": "3DPM0092",
           "productId": "39087",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0092#product-39087"
         },
@@ -6152,7 +6152,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Matte PLA",
+        "group": "PLA",
+        "name": "Sky Blue (Spool, 1kg)",
+        "sku": "3DPM0092",
+        "productId": "39087",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0092#product-39087",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
