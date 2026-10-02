@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-02T12:24:52+00:00",
-  "previousUpdatedAt": "2026-10-02T05:27:38+00:00",
+  "updatedAt": "2026-10-02T18:22:02+00:00",
+  "previousUpdatedAt": "2026-10-02T12:24:52+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1481,7 +1481,7 @@
           "hex": "#d3b7a7",
           "sku": "3DPF232",
           "productId": "33040",
-          "inStock": true,
+          "inStock": false,
           "price": 15.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF232#product-33040"
         },
@@ -1767,7 +1767,7 @@
           "hex": "#ff4800",
           "sku": "3DPF408",
           "productId": "36433",
-          "inStock": true,
+          "inStock": false,
           "price": 23.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF408#product-36433"
         },
@@ -6152,7 +6152,30 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Matte",
+        "group": "PLA",
+        "name": "Latte Brown (1kg, Refill)",
+        "sku": "3DPF232",
+        "productId": "33040",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF232#product-33040",
+        "price": 15.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Tough+",
+        "group": "PLA",
+        "name": "Orange (Spool, 1kg)",
+        "sku": "3DPF408",
+        "productId": "36433",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF408#product-36433",
+        "price": 23.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
