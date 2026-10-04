@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-04T13:09:28+00:00",
-  "previousUpdatedAt": "2026-10-04T06:48:10+00:00",
+  "updatedAt": "2026-10-04T18:06:50+00:00",
+  "previousUpdatedAt": "2026-10-04T13:09:28+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -455,7 +455,7 @@
           "hex": "#6f4e34",
           "sku": "3DPF358",
           "productId": "33818",
-          "inStock": true,
+          "inStock": false,
           "price": 18.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF358#product-33818"
         },
@@ -553,7 +553,7 @@
           "hex": "",
           "sku": "3DPF015",
           "productId": "28762",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF015#product-28762"
         },
@@ -6152,7 +6152,30 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Cocoa Brown (1kg, Spool)",
+        "sku": "3DPF358",
+        "productId": "33818",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF358#product-33818",
+        "price": 18.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic Gradient",
+        "group": "PLA",
+        "name": "Mint Lime (1kg, Spool)",
+        "sku": "3DPF015",
+        "productId": "28762",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF015#product-28762",
+        "price": 24.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
