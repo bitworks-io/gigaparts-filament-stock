@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-04T18:06:50+00:00",
-  "previousUpdatedAt": "2026-10-04T13:09:28+00:00",
+  "updatedAt": "2026-10-04T21:21:40+00:00",
+  "previousUpdatedAt": "2026-10-04T18:06:50+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4894,44 +4894,14 @@
       "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-celestial-pla-3d-printer-filament.html",
       "items": [
         {
-          "name": "Rainbow (Spool, 1kg)",
-          "color": "Rainbow",
+          "name": "Default",
+          "color": "",
           "hex": "",
-          "sku": "3DPM0196",
-          "productId": "39156",
+          "sku": "3DP-PM-PLA-GRADCLSTL",
+          "productId": "39175",
           "inStock": false,
-          "price": 29.99,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-celestial-pla-3d-printer-filament.html?sku=3DPM0196#product-39156"
-        },
-        {
-          "name": "Blue-Purple (Spool, 1kg)",
-          "color": "Blue-Purple",
-          "hex": "",
-          "sku": "3DPM0197",
-          "productId": "39157",
-          "inStock": false,
-          "price": 29.99,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-celestial-pla-3d-printer-filament.html?sku=3DPM0197#product-39157"
-        },
-        {
-          "name": "Purple-Pink (Spool, 1kg)",
-          "color": "Purple-Pink",
-          "hex": "",
-          "sku": "3DPM0198",
-          "productId": "39158",
-          "inStock": false,
-          "price": 29.99,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-celestial-pla-3d-printer-filament.html?sku=3DPM0198#product-39158"
-        },
-        {
-          "name": "Blue-White (Spool, 1kg)",
-          "color": "Blue-White",
-          "hex": "",
-          "sku": "3DPM0199",
-          "productId": "39159",
-          "inStock": true,
-          "price": 29.99,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-celestial-pla-3d-printer-filament.html?sku=3DPM0199#product-39159"
+          "price": 0.0,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-celestial-pla-3d-printer-filament.html?sku=3DP-PM-PLA-GRADCLSTL#product-39175"
         }
       ]
     },
@@ -6152,30 +6122,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Cocoa Brown (1kg, Spool)",
-        "sku": "3DPF358",
-        "productId": "33818",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF358#product-33818",
-        "price": 18.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic Gradient",
-        "group": "PLA",
-        "name": "Mint Lime (1kg, Spool)",
-        "sku": "3DPF015",
-        "productId": "28762",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF015#product-28762",
-        "price": 24.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
