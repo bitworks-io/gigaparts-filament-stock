@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-03T21:10:04+00:00",
-  "previousUpdatedAt": "2026-10-03T17:54:20+00:00",
+  "updatedAt": "2026-10-04T00:33:11+00:00",
+  "previousUpdatedAt": "2026-10-03T21:10:04+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6152,19 +6152,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
-        "group": "PLA",
-        "name": "Army Dark Green (Spool, 1kg)",
-        "sku": "3DPM0101",
-        "productId": "39093",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0101#product-39093",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
