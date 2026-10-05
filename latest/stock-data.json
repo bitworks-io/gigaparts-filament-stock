@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-05T00:51:05+00:00",
-  "previousUpdatedAt": "2026-10-04T21:21:40+00:00",
+  "updatedAt": "2026-10-05T06:57:10+00:00",
+  "previousUpdatedAt": "2026-10-05T00:51:05+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6122,19 +6122,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "PolyLite PLA Pro",
-        "group": "PLA",
-        "name": "Black (Spool, 1kg)",
-        "sku": "3DPM0312",
-        "productId": "38506",
-        "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0312#product-38506",
-        "price": 22.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
