@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-05T15:56:20+00:00",
-  "previousUpdatedAt": "2026-10-05T06:57:10+00:00",
+  "updatedAt": "2026-10-05T22:35:55+00:00",
+  "previousUpdatedAt": "2026-10-05T15:56:20+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -305,7 +305,7 @@
           "hex": "#f7e6de",
           "sku": "3DPF216",
           "productId": "32736",
-          "inStock": true,
+          "inStock": false,
           "price": 15.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF216#product-32736"
         },
@@ -3201,7 +3201,7 @@
           "hex": "#000000",
           "sku": "3DPF181",
           "productId": "31290",
-          "inStock": true,
+          "inStock": false,
           "price": 59.99,
           "url": "https://www.gigaparts.com/bambu-lab-pa6-gf-3d-printer-filament.html?sku=3DPF181#product-31290"
         },
@@ -6121,29 +6121,28 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Polymaker",
-        "line": "PolyLite PLA Pro",
-        "group": "PLA",
-        "name": "Black (Spool, 1kg)",
-        "sku": "3DPM0312",
-        "productId": "38506",
-        "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0312#product-38506",
-        "price": 22.99,
-        "inStock": true
-      }
-    ],
+    "inStock": [],
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Translucent",
+        "line": "PA6 GF",
+        "group": "PA",
+        "name": "Black (1kg, Spool)",
+        "sku": "3DPF181",
+        "productId": "31290",
+        "url": "https://www.gigaparts.com/bambu-lab-pa6-gf-3d-printer-filament.html?sku=3DPF181#product-31290",
+        "price": 59.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
         "group": "PLA",
-        "name": "Red (Spool, 1kg)",
-        "sku": "3DPF418",
-        "productId": "36444",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-translucent-3d-printer-filament.html?sku=3DPF418#product-36444",
-        "price": 18.99,
+        "name": "Beige (1kg, Refill)",
+        "sku": "3DPF216",
+        "productId": "32736",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF216#product-32736",
+        "price": 15.99,
         "inStock": false
       }
     ]
