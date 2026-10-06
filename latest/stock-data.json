@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-05T22:35:55+00:00",
-  "previousUpdatedAt": "2026-10-05T15:56:20+00:00",
+  "updatedAt": "2026-10-06T02:55:20+00:00",
+  "previousUpdatedAt": "2026-10-05T22:35:55+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6122,30 +6122,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PA6 GF",
-        "group": "PA",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF181",
-        "productId": "31290",
-        "url": "https://www.gigaparts.com/bambu-lab-pa6-gf-3d-printer-filament.html?sku=3DPF181#product-31290",
-        "price": 59.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Beige (1kg, Refill)",
-        "sku": "3DPF216",
-        "productId": "32736",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF216#product-32736",
-        "price": 15.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
