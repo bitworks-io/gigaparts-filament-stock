@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-08T17:51:28+00:00",
-  "previousUpdatedAt": "2026-10-08T10:27:34+00:00",
+  "updatedAt": "2026-10-08T23:17:10+00:00",
+  "previousUpdatedAt": "2026-10-08T17:51:28+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6122,19 +6122,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Cocoa Brown (1kg, Refill)",
-        "sku": "3DPF348",
-        "productId": "33066",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF348#product-33066",
-        "price": 15.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
