@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-08T10:27:34+00:00",
-  "previousUpdatedAt": "2026-10-08T02:40:30+00:00",
+  "updatedAt": "2026-10-08T17:51:28+00:00",
+  "previousUpdatedAt": "2026-10-08T10:27:34+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -365,7 +365,7 @@
           "hex": "#6f4e34",
           "sku": "3DPF348",
           "productId": "33066",
-          "inStock": true,
+          "inStock": false,
           "price": 15.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF348#product-33066"
         },
@@ -6121,18 +6121,8 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG Translucent",
-        "group": "PETG",
-        "name": "Translucent Orange (1kg, Refill)",
-        "sku": "3DPF257",
-        "productId": "33205",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF257#product-33205",
-        "price": 15.99,
-        "inStock": true
-      },
+    "inStock": [],
+    "outOfStock": [
       {
         "brand": "Bambu",
         "line": "PLA Basic",
@@ -6142,10 +6132,9 @@
         "productId": "33066",
         "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF348#product-33066",
         "price": 15.99,
-        "inStock": true
+        "inStock": false
       }
-    ],
-    "outOfStock": []
+    ]
   },
   "errors": []
 }
