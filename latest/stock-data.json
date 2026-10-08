@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-07T23:02:05+00:00",
-  "previousUpdatedAt": "2026-10-07T17:47:17+00:00",
+  "updatedAt": "2026-10-08T02:40:30+00:00",
+  "previousUpdatedAt": "2026-10-07T23:02:05+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6121,43 +6121,8 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Cyan (1kg, Refill)",
-        "sku": "3DPF205",
-        "productId": "32740",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF205#product-32740",
-        "price": 15.99,
-        "inStock": true
-      },
-      {
-        "brand": "Polymaker",
-        "line": "PETG",
-        "group": "PETG",
-        "name": "Black (Spool, 1kg)",
-        "sku": "3DPM0382",
-        "productId": "38529",
-        "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0382#product-38529",
-        "price": 19.99,
-        "inStock": true
-      }
-    ],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "PETG",
-        "group": "PETG",
-        "name": "Dark Blue (Spool, 1kg)",
-        "sku": "3DPM0395",
-        "productId": "38542",
-        "url": "https://www.gigaparts.com/polymaker-petg-3d-printer-filament.html?sku=3DPM0395#product-38542",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "inStock": [],
+    "outOfStock": []
   },
   "errors": []
 }
