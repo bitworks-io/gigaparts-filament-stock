@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-10T17:48:40+00:00",
-  "previousUpdatedAt": "2026-10-10T12:24:13+00:00",
+  "updatedAt": "2026-10-10T21:36:03+00:00",
+  "previousUpdatedAt": "2026-10-10T17:48:40+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4363,7 +4363,7 @@
           "hex": "#ee474a",
           "sku": "3DPM0126",
           "productId": "39118",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0126#product-39118"
         },
@@ -6122,7 +6122,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Matte PLA",
+        "group": "PLA",
+        "name": "Watermelon (Spool, 1kg)",
+        "sku": "3DPM0126",
+        "productId": "39118",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0126#product-39118",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
