@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-12T20:15:12+00:00",
-  "previousUpdatedAt": "2026-10-12T10:39:18+00:00",
+  "updatedAt": "2026-10-13T02:33:03+00:00",
+  "previousUpdatedAt": "2026-10-12T20:15:12+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -455,7 +455,7 @@
           "hex": "#6f4e34",
           "sku": "3DPF358",
           "productId": "33818",
-          "inStock": true,
+          "inStock": false,
           "price": 18.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF358#product-33818"
         },
@@ -6121,42 +6121,20 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "ASA",
-        "group": "ASA",
-        "name": "Gray (1kg, Spool)",
-        "sku": "3DPF118",
-        "productId": "28860",
-        "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html?sku=3DPF118#product-28860",
-        "price": 29.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PA6 GF",
-        "group": "PA",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF181",
-        "productId": "31290",
-        "url": "https://www.gigaparts.com/bambu-lab-pa6-gf-3d-printer-filament.html?sku=3DPF181#product-31290",
-        "price": 59.99,
-        "inStock": true
-      },
+    "inStock": [],
+    "outOfStock": [
       {
         "brand": "Bambu",
         "line": "PLA Basic",
         "group": "PLA",
-        "name": "Jade White (1kg, Refill)",
-        "sku": "3DPF221",
-        "productId": "32369",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF221#product-32369",
-        "price": 15.99,
-        "inStock": true
+        "name": "Cocoa Brown (1kg, Spool)",
+        "sku": "3DPF358",
+        "productId": "33818",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF358#product-33818",
+        "price": 18.99,
+        "inStock": false
       }
-    ],
-    "outOfStock": []
+    ]
   },
   "errors": []
 }
