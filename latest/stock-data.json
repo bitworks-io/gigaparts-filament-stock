@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-14T15:06:32+00:00",
-  "previousUpdatedAt": "2026-10-14T10:07:52+00:00",
+  "updatedAt": "2026-10-14T19:21:07+00:00",
+  "previousUpdatedAt": "2026-10-14T15:06:32+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -865,7 +865,7 @@
           "hex": "#000000",
           "sku": "3DPF241",
           "productId": "33098",
-          "inStock": false,
+          "inStock": true,
           "price": 31.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html?sku=3DPF241#product-33098"
         }
@@ -3855,7 +3855,7 @@
           "hex": "",
           "sku": "3DPM0080",
           "productId": "39076",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0080#product-39076"
         }
@@ -6121,8 +6121,32 @@
     }
   ],
   "changes": {
-    "inStock": [],
-    "outOfStock": []
+    "inStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA CF",
+        "group": "PLA",
+        "name": "Black (1kg, Refill)",
+        "sku": "3DPF241",
+        "productId": "33098",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html?sku=3DPF241#product-33098",
+        "price": 31.99,
+        "inStock": true
+      }
+    ],
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Dual Silk PLA",
+        "group": "PLA",
+        "name": "Sunset Gold-Red (Spool, 1kg)",
+        "sku": "3DPM0080",
+        "productId": "39076",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0080#product-39076",
+        "price": 22.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
