@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-13T23:15:30+00:00",
-  "previousUpdatedAt": "2026-10-13T18:12:07+00:00",
+  "updatedAt": "2026-10-14T04:45:49+00:00",
+  "previousUpdatedAt": "2026-10-13T23:15:30+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -2171,7 +2171,7 @@
           "hex": "#ffffff",
           "sku": "3DPF166",
           "productId": "31857",
-          "inStock": true,
+          "inStock": false,
           "price": 18.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF166#product-31857"
         },
@@ -6121,7 +6121,8 @@
     }
   ],
   "changes": {
-    "inStock": [
+    "inStock": [],
+    "outOfStock": [
       {
         "brand": "Bambu",
         "line": "PETG HF",
@@ -6131,41 +6132,6 @@
         "productId": "31857",
         "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF166#product-31857",
         "price": 18.99,
-        "inStock": true
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA CF",
-        "group": "PLA",
-        "name": "Lava Gray (1kg, Refill)",
-        "sku": "3DPF240",
-        "productId": "33085",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-cf-3d-printer-filament.html?sku=3DPF240#product-33085",
-        "price": 31.99,
-        "inStock": true
-      }
-    ],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Dual Matte PLA",
-        "group": "PLA",
-        "name": "Shadow Red Black-Red (Spool, 1kg)",
-        "sku": "3DPM0142",
-        "productId": "39134",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-dual-matte-pla-3d-printer-filament.html?sku=3DPM0142#product-39134",
-        "price": 22.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "PolyLite PLA Pro",
-        "group": "PLA",
-        "name": "Black (Spool, 1kg)",
-        "sku": "3DPM0312",
-        "productId": "38506",
-        "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0312#product-38506",
-        "price": 22.99,
         "inStock": false
       }
     ]
