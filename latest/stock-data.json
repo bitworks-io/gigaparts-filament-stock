@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T17:05:20+00:00",
-  "previousUpdatedAt": "2026-10-17T13:41:17+00:00",
+  "updatedAt": "2026-10-17T19:20:56+00:00",
+  "previousUpdatedAt": "2026-10-17T17:05:20+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3201,7 +3201,7 @@
           "hex": "#000000",
           "sku": "3DPF181",
           "productId": "31290",
-          "inStock": true,
+          "inStock": false,
           "price": 59.99,
           "url": "https://www.gigaparts.com/bambu-lab-pa6-gf-3d-printer-filament.html?sku=3DPF181#product-31290"
         },
@@ -4013,7 +4013,7 @@
           "hex": "#2e4462",
           "sku": "3DPM0173",
           "productId": "38457",
-          "inStock": true,
+          "inStock": false,
           "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0173#product-38457"
         },
@@ -6124,14 +6124,25 @@
     "inStock": [],
     "outOfStock": [
       {
+        "brand": "Bambu",
+        "line": "PA6 GF",
+        "group": "PA",
+        "name": "Black (1kg, Spool)",
+        "sku": "3DPF181",
+        "productId": "31290",
+        "url": "https://www.gigaparts.com/bambu-lab-pa6-gf-3d-printer-filament.html?sku=3DPF181#product-31290",
+        "price": 59.99,
+        "inStock": false
+      },
+      {
         "brand": "Polymaker",
-        "line": "Panchroma Basic PLA",
+        "line": "Panchroma Matte PLA",
         "group": "PLA",
-        "name": "Olive Green (Spool, 1kg)",
-        "sku": "3DPM0251",
-        "productId": "38479",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0251#product-38479",
-        "price": 19.99,
+        "name": "Army Blue (Refill, 1kg)",
+        "sku": "3DPM0173",
+        "productId": "38457",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0173#product-38457",
+        "price": 17.99,
         "inStock": false
       }
     ]
