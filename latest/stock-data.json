@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T19:20:56+00:00",
-  "previousUpdatedAt": "2026-10-17T17:05:20+00:00",
+  "updatedAt": "2026-10-17T22:13:56+00:00",
+  "previousUpdatedAt": "2026-10-17T19:20:56+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6122,30 +6122,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PA6 GF",
-        "group": "PA",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF181",
-        "productId": "31290",
-        "url": "https://www.gigaparts.com/bambu-lab-pa6-gf-3d-printer-filament.html?sku=3DPF181#product-31290",
-        "price": 59.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
-        "group": "PLA",
-        "name": "Army Blue (Refill, 1kg)",
-        "sku": "3DPM0173",
-        "productId": "38457",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0173#product-38457",
-        "price": 17.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
