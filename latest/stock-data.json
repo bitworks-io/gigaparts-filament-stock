@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T13:41:17+00:00",
-  "previousUpdatedAt": "2026-10-17T09:15:40+00:00",
+  "updatedAt": "2026-10-17T17:05:20+00:00",
+  "previousUpdatedAt": "2026-10-17T13:41:17+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3379,7 +3379,7 @@
           "hex": "#948802",
           "sku": "3DPM0251",
           "productId": "38479",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0251#product-38479"
         },
@@ -6122,7 +6122,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Basic PLA",
+        "group": "PLA",
+        "name": "Olive Green (Spool, 1kg)",
+        "sku": "3DPM0251",
+        "productId": "38479",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0251#product-38479",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
