@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-18T23:04:40+00:00",
-  "previousUpdatedAt": "2026-10-18T20:35:27+00:00",
+  "updatedAt": "2026-10-19T01:10:34+00:00",
+  "previousUpdatedAt": "2026-10-18T23:04:40+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6122,19 +6122,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Nardo Gray (1kg, Refill)",
-        "sku": "3DPF363",
-        "productId": "33829",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF363#product-33829",
-        "price": 15.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
