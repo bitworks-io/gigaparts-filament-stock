@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T21:01:37+00:00",
-  "previousUpdatedAt": "2026-10-19T15:46:20+00:00",
+  "updatedAt": "2026-10-20T00:16:54+00:00",
+  "previousUpdatedAt": "2026-10-19T21:01:37+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -275,7 +275,7 @@
           "hex": "#3f8e43",
           "sku": "3DPF212",
           "productId": "32644",
-          "inStock": true,
+          "inStock": false,
           "price": 15.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF212#product-32644"
         },
@@ -1599,7 +1599,7 @@
           "hex": "#2a4b91",
           "sku": "3DPF372",
           "productId": "33835",
-          "inStock": true,
+          "inStock": false,
           "price": 18.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF372#product-33835"
         },
@@ -4073,7 +4073,7 @@
           "hex": "#61bcc3",
           "sku": "3DPM0097",
           "productId": "39089",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0097#product-39089"
         },
@@ -6125,23 +6125,12 @@
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PETG Translucent",
-        "group": "PETG",
-        "name": "Translucent Teal (1kg, Refill)",
-        "sku": "3DPF262",
-        "productId": "33238",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-translucent-3d-printer-filament.html?sku=3DPF262#product-33238",
-        "price": 15.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
         "line": "PLA Basic",
         "group": "PLA",
-        "name": "Beige (1kg, Refill)",
-        "sku": "3DPF216",
-        "productId": "32736",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF216#product-32736",
+        "name": "Mistletoe Green (1kg, Refill)",
+        "sku": "3DPF212",
+        "productId": "32644",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF212#product-32644",
         "price": 15.99,
         "inStock": false
       },
@@ -6149,22 +6138,22 @@
         "brand": "Bambu",
         "line": "PLA Silk+",
         "group": "PLA",
-        "name": "Gold (1kg, Spool)",
-        "sku": "3DPF383",
-        "productId": "33839",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF383#product-33839",
+        "name": "Blue (1kg, Spool)",
+        "sku": "3DPF372",
+        "productId": "33835",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF372#product-33835",
         "price": 18.99,
         "inStock": false
       },
       {
         "brand": "Polymaker",
-        "line": "Panchroma Dual Silk PLA",
+        "line": "Panchroma Matte PLA",
         "group": "PLA",
-        "name": "Crown Gold-Silver (Spool, 1kg)",
-        "sku": "3DPM0077",
-        "productId": "39073",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0077#product-39073",
-        "price": 22.99,
+        "name": "Arctic Teal (Spool, 1kg)",
+        "sku": "3DPM0097",
+        "productId": "39089",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0097#product-39089",
+        "price": 19.99,
         "inStock": false
       }
     ]
