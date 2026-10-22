@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-22T20:01:05+00:00",
-  "previousUpdatedAt": "2026-10-22T15:16:22+00:00",
+  "updatedAt": "2026-10-22T23:18:15+00:00",
+  "previousUpdatedAt": "2026-10-22T20:01:05+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6212,41 +6212,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
-        "group": "PLA",
-        "name": "Forest Green (Refill, 1kg)",
-        "sku": "3DPM0169",
-        "productId": "38453",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0169#product-38453",
-        "price": 17.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
-        "group": "PLA",
-        "name": "Lava Red (Refill, 1kg)",
-        "sku": "3DPM0164",
-        "productId": "38448",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0164#product-38448",
-        "price": 17.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Starlight PLA",
-        "group": "PLA",
-        "name": "Neptune (Refill, 1kg)",
-        "sku": "3DPM0047",
-        "productId": "38433",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-starlight-pla-3d-printer-filament.html?sku=3DPM0047#product-38433",
-        "price": 26.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
