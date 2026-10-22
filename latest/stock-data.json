@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-22T04:34:13+00:00",
-  "previousUpdatedAt": "2026-10-21T23:17:15+00:00",
+  "updatedAt": "2026-10-22T10:05:18+00:00",
+  "previousUpdatedAt": "2026-10-22T04:34:13+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6212,19 +6212,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG Basic",
-        "group": "PETG",
-        "name": "White (1kg, Refill)",
-        "sku": "3DPF474",
-        "productId": "39457",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF474#product-39457",
-        "price": 13.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
