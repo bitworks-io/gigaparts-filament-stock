@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-22T23:18:15+00:00",
-  "previousUpdatedAt": "2026-10-22T20:01:05+00:00",
+  "updatedAt": "2026-10-23T04:39:47+00:00",
+  "previousUpdatedAt": "2026-10-22T23:18:15+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1915,7 +1915,7 @@
           "hex": "#000000",
           "sku": "3DPF469",
           "productId": "39452",
-          "inStock": true,
+          "inStock": false,
           "price": 16.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF469#product-39452"
         },
@@ -3825,7 +3825,7 @@
           "hex": "",
           "sku": "3DPM0077",
           "productId": "39073",
-          "inStock": false,
+          "inStock": true,
           "price": 22.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0077#product-39073"
         },
@@ -4284,7 +4284,7 @@
           "sku": "3DPM0118",
           "productId": "39110",
           "inStock": true,
-          "price": 14.99,
+          "price": 9.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0118#product-39110"
         },
         {
@@ -5374,7 +5374,7 @@
           "sku": "3DPM0318",
           "productId": "38512",
           "inStock": true,
-          "price": 17.99,
+          "price": 12.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-metallic-pla-pro-metallic-3d-printer-filament.html?sku=3DPM0318#product-38512"
         },
         {
@@ -5432,7 +5432,7 @@
           "sku": "3DPM0313",
           "productId": "38507",
           "inStock": true,
-          "price": 17.99,
+          "price": 12.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0313#product-38507"
         },
         {
@@ -5562,7 +5562,7 @@
           "sku": "3DPM0327",
           "productId": "38521",
           "inStock": true,
-          "price": 17.99,
+          "price": 12.99,
           "url": "https://www.gigaparts.com/polymaker-polylite-pla-pro-3d-printer-filament.html?sku=3DPM0327#product-38521"
         },
         {
@@ -5808,7 +5808,7 @@
           "sku": "3DPM0380",
           "productId": "38528",
           "inStock": true,
-          "price": 24.99,
+          "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-polymax-petg-3d-printer-filament.html?sku=3DPM0380#product-38528"
         }
       ]
@@ -6211,8 +6211,32 @@
     }
   ],
   "changes": {
-    "inStock": [],
-    "outOfStock": []
+    "inStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Dual Silk PLA",
+        "group": "PLA",
+        "name": "Crown Gold-Silver (Spool, 1kg)",
+        "sku": "3DPM0077",
+        "productId": "39073",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0077#product-39073",
+        "price": 22.99,
+        "inStock": true
+      }
+    ],
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PETG Basic",
+        "group": "PETG",
+        "name": "Black (1kg, Spool)",
+        "sku": "3DPF469",
+        "productId": "39452",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF469#product-39452",
+        "price": 16.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
