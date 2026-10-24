@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-24T19:27:33+00:00",
-  "previousUpdatedAt": "2026-10-24T16:33:16+00:00",
+  "updatedAt": "2026-10-24T22:25:44+00:00",
+  "previousUpdatedAt": "2026-10-24T19:27:33+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -2351,7 +2351,7 @@
           "hex": "#f9dfb9",
           "sku": "3DPF443",
           "productId": "38565",
-          "inStock": true,
+          "inStock": false,
           "price": 18.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF443#product-38565"
         },
@@ -2771,7 +2771,7 @@
           "hex": "#c9c9c9",
           "sku": "3DPF106",
           "productId": "28848",
-          "inStock": true,
+          "inStock": false,
           "price": 18.99,
           "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF106#product-28848"
         },
@@ -3639,7 +3639,7 @@
           "hex": "#d9dfe5",
           "sku": "3DPM0277",
           "productId": "38505",
-          "inStock": true,
+          "inStock": false,
           "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0277#product-38505"
         }
@@ -6215,46 +6215,35 @@
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PETG CF",
+        "line": "ABS",
+        "group": "ABS",
+        "name": "Silver (1kg, Spool)",
+        "sku": "3DPF106",
+        "productId": "28848",
+        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF106#product-28848",
+        "price": 18.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PETG HF",
         "group": "PETG",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF171",
-        "productId": "28896",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-cf-3d-printer-filament.html?sku=3DPF171#product-28896",
-        "price": 34.99,
+        "name": "Cream (1kg, Spool)",
+        "sku": "3DPF443",
+        "productId": "38565",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF443#product-38565",
+        "price": 18.99,
         "inStock": false
       },
       {
-        "brand": "Bambu",
-        "line": "PLA Basic",
+        "brand": "Polymaker",
+        "line": "Panchroma Basic PLA",
         "group": "PLA",
-        "name": "Cocoa Brown (1kg, Refill)",
-        "sku": "3DPF348",
-        "productId": "33066",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF348#product-33066",
-        "price": 15.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Dark Blue (1kg, Refill)",
-        "sku": "3DPF227",
-        "productId": "32733",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF227#product-32733",
-        "price": 15.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Latte Brown (1kg, Refill)",
-        "sku": "3DPF232",
-        "productId": "33040",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF232#product-33040",
-        "price": 15.99,
+        "name": "Cold White (Refill, 1kg)",
+        "sku": "3DPM0277",
+        "productId": "38505",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0277#product-38505",
+        "price": 17.99,
         "inStock": false
       }
     ]
