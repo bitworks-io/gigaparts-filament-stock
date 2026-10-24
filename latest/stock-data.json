@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-24T01:33:34+00:00",
-  "previousUpdatedAt": "2026-10-23T23:05:19+00:00",
+  "updatedAt": "2026-10-24T07:13:48+00:00",
+  "previousUpdatedAt": "2026-10-24T01:33:34+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6212,19 +6212,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Basic PLA",
-        "group": "PLA",
-        "name": "Cream (Spool, 1kg)",
-        "sku": "3DPM0258",
-        "productId": "38486",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0258#product-38486",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
