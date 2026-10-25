@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-25T16:06:09+00:00",
-  "previousUpdatedAt": "2026-10-25T11:16:46+00:00",
+  "updatedAt": "2026-10-25T19:00:58+00:00",
+  "previousUpdatedAt": "2026-10-25T16:06:09+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3873,7 +3873,7 @@
           "hex": "#2f2e30",
           "sku": "3DPM0159",
           "productId": "38443",
-          "inStock": true,
+          "inStock": false,
           "price": 17.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0159#product-38443"
         },
@@ -6212,7 +6212,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Matte PLA",
+        "group": "PLA",
+        "name": "Charcoal Black (Refill, 1kg)",
+        "sku": "3DPM0159",
+        "productId": "38443",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0159#product-38443",
+        "price": 17.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
