@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-28T08:21:23+00:00",
-  "previousUpdatedAt": "2026-10-28T01:15:30+00:00",
+  "updatedAt": "2026-10-28T15:57:40+00:00",
+  "previousUpdatedAt": "2026-10-28T08:21:23+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -747,7 +747,7 @@
           "hex": "#2d2b28",
           "sku": "3DPF065",
           "productId": "28812",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-sparkle-3d-printer-filament.html?sku=3DPF065#product-28812"
         },
@@ -2801,7 +2801,7 @@
           "hex": "#ffffff",
           "sku": "3DPF113",
           "productId": "28855",
-          "inStock": true,
+          "inStock": false,
           "price": 22.99,
           "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF113#product-28855"
         },
@@ -6162,7 +6162,30 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "ABS",
+        "group": "ABS",
+        "name": "White (1kg, Spool)",
+        "sku": "3DPF113",
+        "productId": "28855",
+        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF113#product-28855",
+        "price": 22.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Sparkle",
+        "group": "PLA",
+        "name": "Onyx Black Sparkle (1kg, Spool)",
+        "sku": "3DPF065",
+        "productId": "28812",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-sparkle-3d-printer-filament.html?sku=3DPF065#product-28812",
+        "price": 24.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
