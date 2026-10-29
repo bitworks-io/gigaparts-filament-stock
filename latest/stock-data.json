@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-29T00:51:03+00:00",
-  "previousUpdatedAt": "2026-10-28T21:00:46+00:00",
+  "updatedAt": "2026-10-29T06:59:41+00:00",
+  "previousUpdatedAt": "2026-10-29T00:51:03+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1321,7 +1321,7 @@
           "hex": "#ffffff",
           "sku": "3DPF040",
           "productId": "28787",
-          "inStock": true,
+          "inStock": false,
           "price": 18.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF040#product-28787"
         },
@@ -6164,14 +6164,14 @@
     "inStock": [],
     "outOfStock": [
       {
-        "brand": "Polymaker",
-        "line": "Panchroma Basic PLA",
+        "brand": "Bambu",
+        "line": "PLA Matte",
         "group": "PLA",
-        "name": "Azure Blue (Spool, 1kg)",
-        "sku": "3DPM0261",
-        "productId": "38489",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0261#product-38489",
-        "price": 19.99,
+        "name": "Ivory White (1kg, Spool)",
+        "sku": "3DPF040",
+        "productId": "28787",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF040#product-28787",
+        "price": 18.99,
         "inStock": false
       }
     ]
