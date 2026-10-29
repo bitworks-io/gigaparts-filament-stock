@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-29T06:59:41+00:00",
-  "previousUpdatedAt": "2026-10-29T00:51:03+00:00",
+  "updatedAt": "2026-10-29T14:11:50+00:00",
+  "previousUpdatedAt": "2026-10-29T06:59:41+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3105,7 +3105,7 @@
           "hex": "#000000",
           "sku": "3DPF134",
           "productId": "28867",
-          "inStock": true,
+          "inStock": false,
           "price": 23.99,
           "url": "https://www.gigaparts.com/bambu-lab-pc-3d-printer-filament.html?sku=3DPF134#product-28867"
         },
@@ -6165,13 +6165,13 @@
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Ivory White (1kg, Spool)",
-        "sku": "3DPF040",
-        "productId": "28787",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF040#product-28787",
-        "price": 18.99,
+        "line": "PC",
+        "group": "PC",
+        "name": "Black (1kg, Spool)",
+        "sku": "3DPF134",
+        "productId": "28867",
+        "url": "https://www.gigaparts.com/bambu-lab-pc-3d-printer-filament.html?sku=3DPF134#product-28867",
+        "price": 23.99,
         "inStock": false
       }
     ]
