@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T12:15:58+00:00",
-  "previousUpdatedAt": "2026-10-31T05:28:36+00:00",
+  "updatedAt": "2026-10-31T17:40:45+00:00",
+  "previousUpdatedAt": "2026-10-31T12:15:58+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -2921,7 +2921,7 @@
           "hex": "#00ae43",
           "sku": "3DPF247",
           "productId": "33092",
-          "inStock": true,
+          "inStock": false,
           "price": 15.99,
           "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF247#product-33092"
         }
@@ -6122,7 +6122,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "ABS",
+        "group": "ABS",
+        "name": "Bambu Green (1kg, Refill)",
+        "sku": "3DPF247",
+        "productId": "33092",
+        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF247#product-33092",
+        "price": 15.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
