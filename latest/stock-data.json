@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T15:00:37+00:00",
-  "previousUpdatedAt": "2026-11-01T07:28:25+00:00",
+  "updatedAt": "2026-11-01T19:35:32+00:00",
+  "previousUpdatedAt": "2026-11-01T15:00:37+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -125,7 +125,7 @@
           "hex": "#ffffff",
           "sku": "3DPF022",
           "productId": "28769",
-          "inStock": true,
+          "inStock": false,
           "price": 17.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF022#product-28769"
         },
@@ -1331,7 +1331,7 @@
           "hex": "#f7da59",
           "sku": "3DPF193",
           "productId": "32102",
-          "inStock": true,
+          "inStock": false,
           "price": 15.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF193#product-32102"
         },
@@ -6122,7 +6122,30 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Jade White (1kg, Spool)",
+        "sku": "3DPF022",
+        "productId": "28769",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF022#product-28769",
+        "price": 17.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Matte",
+        "group": "PLA",
+        "name": "Lemon Yellow (1kg, Refill)",
+        "sku": "3DPF193",
+        "productId": "32102",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF193#product-32102",
+        "price": 15.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
