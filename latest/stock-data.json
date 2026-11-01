@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T21:27:22+00:00",
-  "previousUpdatedAt": "2026-10-31T17:40:45+00:00",
+  "updatedAt": "2026-11-01T01:03:47+00:00",
+  "previousUpdatedAt": "2026-10-31T21:27:22+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6122,52 +6122,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "ABS",
-        "group": "ABS",
-        "name": "Red (1kg, Refill)",
-        "sku": "3DPF250",
-        "productId": "32723",
-        "url": "https://www.gigaparts.com/bambu-lab-abs-3d-printer-filament.html?sku=3DPF250#product-32723",
-        "price": 15.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PETG HF",
-        "group": "PETG",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF164",
-        "productId": "31855",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF164#product-31855",
-        "price": 18.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Caramel (1kg, Refill)",
-        "sku": "3DPF366",
-        "productId": "33827",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF366#product-33827",
-        "price": 15.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Luminous PLA",
-        "group": "PLA",
-        "name": "Luminous Pink (Spool, 1kg)",
-        "sku": "3DPM0034",
-        "productId": "39066",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-luminous-pla-3d-printer-filament.html?sku=3DPM0034#product-39066",
-        "price": 24.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
