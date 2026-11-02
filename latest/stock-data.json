@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-02T05:54:13+00:00",
-  "previousUpdatedAt": "2026-11-01T23:32:04+00:00",
+  "updatedAt": "2026-11-02T15:38:57+00:00",
+  "previousUpdatedAt": "2026-11-02T05:54:13+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6122,19 +6122,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG Basic",
-        "group": "PETG",
-        "name": "Dark Brown (1kg, Refill)",
-        "sku": "3DPF457",
-        "productId": "39448",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF457#product-39448",
-        "price": 13.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
