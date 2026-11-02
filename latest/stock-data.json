@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T23:32:04+00:00",
-  "previousUpdatedAt": "2026-11-01T19:35:32+00:00",
+  "updatedAt": "2026-11-02T05:54:13+00:00",
+  "previousUpdatedAt": "2026-11-01T23:32:04+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1875,7 +1875,7 @@
           "hex": "#4f2c1d",
           "sku": "3DPF457",
           "productId": "39448",
-          "inStock": true,
+          "inStock": false,
           "price": 13.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF457#product-39448"
         },
@@ -6125,46 +6125,13 @@
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Red (1kg, Spool)",
-        "sku": "3DPF021",
-        "productId": "28768",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF021#product-28768",
-        "price": 17.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Gradient Matte PLA",
-        "group": "PLA",
-        "name": "Pastel Rainbow (Spool, 1kg)",
-        "sku": "3DPM0146",
-        "productId": "39138",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0146#product-39138",
-        "price": 24.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
-        "group": "PLA",
-        "name": "Army Beige (Spool, 1kg)",
-        "sku": "3DPM0098",
-        "productId": "39090",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0098#product-39090",
-        "price": 19.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
-        "group": "PLA",
-        "name": "Muted White (Spool, 1kg)",
-        "sku": "3DPM0119",
-        "productId": "39111",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0119#product-39111",
-        "price": 19.99,
+        "line": "PETG Basic",
+        "group": "PETG",
+        "name": "Dark Brown (1kg, Refill)",
+        "sku": "3DPF457",
+        "productId": "39448",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF457#product-39448",
+        "price": 13.99,
         "inStock": false
       }
     ]
