@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-02T15:38:57+00:00",
-  "previousUpdatedAt": "2026-11-02T05:54:13+00:00",
+  "updatedAt": "2026-11-02T23:27:31+00:00",
+  "previousUpdatedAt": "2026-11-02T15:38:57+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -3128,34 +3128,34 @@
       "url": "https://www.gigaparts.com/bambu-lab-pc-fr-3d-printer-filament.html",
       "items": [
         {
-          "name": "Black (1kg, Spool)",
-          "color": "Black",
-          "hex": "#000000",
-          "sku": "3DPF387",
-          "productId": "33807",
-          "inStock": false,
-          "price": 32.99,
-          "url": "https://www.gigaparts.com/bambu-lab-pc-fr-3d-printer-filament.html?sku=3DPF387#product-33807"
-        },
-        {
           "name": "Gray (1kg, Spool)",
           "color": "Gray",
           "hex": "#878787",
-          "sku": "3DPF386",
+          "sku": "",
           "productId": "33808",
-          "inStock": true,
-          "price": 32.99,
-          "url": "https://www.gigaparts.com/bambu-lab-pc-fr-3d-printer-filament.html?sku=3DPF386#product-33808"
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pc-fr-3d-printer-filament.html#product-33808"
+        },
+        {
+          "name": "Black (1kg, Spool)",
+          "color": "Black",
+          "hex": "#000000",
+          "sku": "",
+          "productId": "33807",
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pc-fr-3d-printer-filament.html#product-33807"
         },
         {
           "name": "White (1kg, Spool)",
           "color": "White",
           "hex": "#ffffff",
-          "sku": "3DPF388",
+          "sku": "",
           "productId": "33809",
-          "inStock": true,
-          "price": 32.99,
-          "url": "https://www.gigaparts.com/bambu-lab-pc-fr-3d-printer-filament.html?sku=3DPF388#product-33809"
+          "inStock": false,
+          "price": 0,
+          "url": "https://www.gigaparts.com/bambu-lab-pc-fr-3d-printer-filament.html#product-33809"
         }
       ]
     },
@@ -6122,7 +6122,30 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PC FR",
+        "group": "PC",
+        "name": "Gray (1kg, Spool)",
+        "sku": "",
+        "productId": "33808",
+        "url": "https://www.gigaparts.com/bambu-lab-pc-fr-3d-printer-filament.html#product-33808",
+        "price": 0,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PC FR",
+        "group": "PC",
+        "name": "White (1kg, Spool)",
+        "sku": "",
+        "productId": "33809",
+        "url": "https://www.gigaparts.com/bambu-lab-pc-fr-3d-printer-filament.html#product-33809",
+        "price": 0,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
