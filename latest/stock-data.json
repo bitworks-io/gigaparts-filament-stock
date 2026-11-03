@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-03T06:38:51+00:00",
-  "previousUpdatedAt": "2026-11-02T23:27:31+00:00",
+  "updatedAt": "2026-11-03T15:02:05+00:00",
+  "previousUpdatedAt": "2026-11-03T06:38:51+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6122,19 +6122,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
-        "group": "PLA",
-        "name": "Mint (Spool, 1kg)",
-        "sku": "3DPM0123",
-        "productId": "39115",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0123#product-39115",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
