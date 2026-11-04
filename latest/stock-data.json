@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-04T09:02:08+00:00",
-  "previousUpdatedAt": "2026-11-04T01:16:47+00:00",
+  "updatedAt": "2026-11-04T17:08:56+00:00",
+  "previousUpdatedAt": "2026-11-04T09:02:08+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -45,7 +45,7 @@
           "hex": "#c9c9c9",
           "sku": "3DPF006",
           "productId": "28753",
-          "inStock": true,
+          "inStock": false,
           "price": 17.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF006#product-28753"
         },
@@ -2141,7 +2141,7 @@
           "hex": "#2a4b91",
           "sku": "3DPF161",
           "productId": "31853",
-          "inStock": false,
+          "inStock": true,
           "price": 18.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF161#product-31853"
         },
@@ -2291,7 +2291,7 @@
           "hex": "#39541a",
           "sku": "3DPF392",
           "productId": "33812",
-          "inStock": false,
+          "inStock": true,
           "price": 19.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF392#product-33812"
         },
@@ -2331,7 +2331,7 @@
           "hex": "#39541a",
           "sku": "3DPF281",
           "productId": "38236",
-          "inStock": false,
+          "inStock": true,
           "price": 18.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF281#product-38236"
         },
@@ -5006,54 +5006,14 @@
       "url": "https://www.gigaparts.com/polymaker-panchroma-luminous-pla-3d-printer-filament.html",
       "items": [
         {
-          "name": "Luminous Blue (Spool, 1kg)",
-          "color": "Luminous Blue",
-          "hex": "#5fa8c2",
-          "sku": "3DPM0031",
-          "productId": "39063",
+          "name": "Default",
+          "color": "",
+          "hex": "",
+          "sku": "3DP-PM-PLA-LUMINOUS",
+          "productId": "39168",
           "inStock": false,
-          "price": 24.99,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-luminous-pla-3d-printer-filament.html?sku=3DPM0031#product-39063"
-        },
-        {
-          "name": "Luminous Green (Spool, 1kg)",
-          "color": "Luminous Green",
-          "hex": "#bfeb8c",
-          "sku": "3DPM0032",
-          "productId": "39064",
-          "inStock": false,
-          "price": 24.99,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-luminous-pla-3d-printer-filament.html?sku=3DPM0032#product-39064"
-        },
-        {
-          "name": "Luminous Orange (Spool, 1kg)",
-          "color": "Luminous Orange",
-          "hex": "#febe5f",
-          "sku": "3DPM0033",
-          "productId": "39065",
-          "inStock": false,
-          "price": 24.99,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-luminous-pla-3d-printer-filament.html?sku=3DPM0033#product-39065"
-        },
-        {
-          "name": "Luminous Pink (Spool, 1kg)",
-          "color": "Luminous Pink",
-          "hex": "#fe9176",
-          "sku": "3DPM0034",
-          "productId": "39066",
-          "inStock": false,
-          "price": 24.99,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-luminous-pla-3d-printer-filament.html?sku=3DPM0034#product-39066"
-        },
-        {
-          "name": "Luminous Yellow (Spool, 1kg)",
-          "color": "Luminous Yellow",
-          "hex": "#eedb48",
-          "sku": "3DPM0035",
-          "productId": "39067",
-          "inStock": true,
-          "price": 24.99,
-          "url": "https://www.gigaparts.com/polymaker-panchroma-luminous-pla-3d-printer-filament.html?sku=3DPM0035#product-39067"
+          "price": 0.0,
+          "url": "https://www.gigaparts.com/polymaker-panchroma-luminous-pla-3d-printer-filament.html?sku=3DP-PM-PLA-LUMINOUS#product-39168"
         }
       ]
     },
@@ -6121,8 +6081,54 @@
     }
   ],
   "changes": {
-    "inStock": [],
-    "outOfStock": []
+    "inStock": [
+      {
+        "brand": "Bambu",
+        "line": "PETG HF",
+        "group": "PETG",
+        "name": "Blue (1kg, Spool)",
+        "sku": "3DPF161",
+        "productId": "31853",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF161#product-31853",
+        "price": 18.99,
+        "inStock": true
+      },
+      {
+        "brand": "Bambu",
+        "line": "PETG HF",
+        "group": "PETG",
+        "name": "Forest Green (1kg, Refill)",
+        "sku": "3DPF392",
+        "productId": "33812",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF392#product-33812",
+        "price": 19.99,
+        "inStock": true
+      },
+      {
+        "brand": "Bambu",
+        "line": "PETG HF",
+        "group": "PETG",
+        "name": "Forest Green (1kg, Spool)",
+        "sku": "3DPF281",
+        "productId": "38236",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF281#product-38236",
+        "price": 18.99,
+        "inStock": true
+      }
+    ],
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Silver (1kg, Spool)",
+        "sku": "3DPF006",
+        "productId": "28753",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF006#product-28753",
+        "price": 17.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
