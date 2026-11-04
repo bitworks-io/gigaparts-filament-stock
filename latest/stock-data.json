@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-04T01:16:47+00:00",
-  "previousUpdatedAt": "2026-11-03T20:56:55+00:00",
+  "updatedAt": "2026-11-04T09:02:08+00:00",
+  "previousUpdatedAt": "2026-11-04T01:16:47+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6122,19 +6122,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PETG Basic",
-        "group": "PETG",
-        "name": "Red (1kg, Refill)",
-        "sku": "3DPF472",
-        "productId": "39455",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF472#product-39455",
-        "price": 13.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
