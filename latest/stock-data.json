@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-03T20:56:55+00:00",
-  "previousUpdatedAt": "2026-11-03T15:02:05+00:00",
+  "updatedAt": "2026-11-04T01:16:47+00:00",
+  "previousUpdatedAt": "2026-11-03T20:56:55+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1945,7 +1945,7 @@
           "hex": "#e8102d",
           "sku": "3DPF472",
           "productId": "39455",
-          "inStock": true,
+          "inStock": false,
           "price": 13.99,
           "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF472#product-39455"
         },
@@ -6127,22 +6127,11 @@
         "brand": "Bambu",
         "line": "PETG Basic",
         "group": "PETG",
-        "name": "Black (1kg, Spool)",
-        "sku": "3DPF469",
-        "productId": "39452",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF469#product-39452",
-        "price": 16.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Terracotta (1kg, Refill)",
-        "sku": "3DPF367",
-        "productId": "33832",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF367#product-33832",
-        "price": 15.99,
+        "name": "Red (1kg, Refill)",
+        "sku": "3DPF472",
+        "productId": "39455",
+        "url": "https://www.gigaparts.com/bambu-lab-petg-basic-3d-printer-filament.html?sku=3DPF472#product-39455",
+        "price": 13.99,
         "inStock": false
       }
     ]
