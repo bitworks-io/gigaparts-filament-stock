@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-04T23:36:58+00:00",
-  "previousUpdatedAt": "2026-11-04T17:08:56+00:00",
+  "updatedAt": "2026-11-05T06:34:33+00:00",
+  "previousUpdatedAt": "2026-11-04T23:36:58+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6061,43 +6061,8 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Matte",
-        "group": "PLA",
-        "name": "Caramel (1kg, Refill)",
-        "sku": "3DPF366",
-        "productId": "33827",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF366#product-33827",
-        "price": 15.99,
-        "inStock": true
-      }
-    ],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Glow",
-        "group": "PLA",
-        "name": "Yellow (1kg, Spool)",
-        "sku": "3DPF086",
-        "productId": "28832",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-glow-3d-printer-filament.html?sku=3DPF086#product-28832",
-        "price": 24.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Sparkle",
-        "group": "PLA",
-        "name": "Alpine Green Sparkle (1kg, Spool)",
-        "sku": "3DPF064",
-        "productId": "28811",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-sparkle-3d-printer-filament.html?sku=3DPF064#product-28811",
-        "price": 24.99,
-        "inStock": false
-      }
-    ]
+    "inStock": [],
+    "outOfStock": []
   },
   "errors": []
 }
