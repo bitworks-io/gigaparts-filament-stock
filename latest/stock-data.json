@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-05T06:34:33+00:00",
-  "previousUpdatedAt": "2026-11-04T23:36:58+00:00",
+  "updatedAt": "2026-11-05T15:24:39+00:00",
+  "previousUpdatedAt": "2026-11-05T06:34:33+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -415,7 +415,7 @@
           "hex": "#9d2234",
           "sku": "3DPF350",
           "productId": "33089",
-          "inStock": true,
+          "inStock": false,
           "price": 14.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF350#product-33089"
         },
@@ -6062,7 +6062,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Maroon Red (1kg, Refill)",
+        "sku": "3DPF350",
+        "productId": "33089",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF350#product-33089",
+        "price": 14.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
