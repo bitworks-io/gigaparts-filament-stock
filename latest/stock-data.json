@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-08T15:05:13+00:00",
-  "previousUpdatedAt": "2026-11-08T07:14:30+00:00",
+  "updatedAt": "2026-11-08T19:38:23+00:00",
+  "previousUpdatedAt": "2026-11-08T15:05:13+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1609,7 +1609,7 @@
           "hex": "#018813",
           "sku": "3DPF375",
           "productId": "33836",
-          "inStock": true,
+          "inStock": false,
           "price": 18.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF375#product-33836"
         },
@@ -6112,7 +6112,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Silk+",
+        "group": "PLA",
+        "name": "Candy Green (1kg, Spool)",
+        "sku": "3DPF375",
+        "productId": "33836",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF375#product-33836",
+        "price": 18.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
