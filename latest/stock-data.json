@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-07T20:50:38+00:00",
-  "previousUpdatedAt": "2026-11-07T16:22:12+00:00",
+  "updatedAt": "2026-11-08T00:29:54+00:00",
+  "previousUpdatedAt": "2026-11-07T20:50:38+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1001,7 +1001,7 @@
           "hex": "",
           "sku": "3DPF461",
           "productId": "39667",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF461#product-39667"
         }
@@ -4839,7 +4839,7 @@
           "hex": "",
           "sku": "3DPM0197",
           "productId": "39157",
-          "inStock": true,
+          "inStock": false,
           "price": 29.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-celestial-pla-3d-printer-filament.html?sku=3DPM0197#product-39157"
         },
@@ -5215,7 +5215,7 @@
           "hex": "",
           "sku": "3DPM0084",
           "productId": "39077",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-silk-pla-3d-printer-filament.html?sku=3DPM0084#product-39077"
         },
@@ -6115,24 +6115,35 @@
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Tough+",
+        "line": "PLA Silk Multi-Color",
         "group": "PLA",
-        "name": "Black (Refill, 1kg)",
-        "sku": "3DPF464",
-        "productId": "39484",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-tough-plus-3d-printer-filament.html?sku=3DPF464#product-39484",
-        "price": 20.99,
+        "name": "Phantom Blue (1kg, Spool)",
+        "sku": "3DPF461",
+        "productId": "39667",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF461#product-39667",
+        "price": 24.99,
         "inStock": false
       },
       {
         "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
+        "line": "Panchroma Gradient Celestial PLA",
         "group": "PLA",
-        "name": "Army Beige (Refill, 1kg)",
-        "sku": "3DPM0175",
-        "productId": "38459",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0175#product-38459",
-        "price": 17.99,
+        "name": "Blue-Purple (Spool, 1kg)",
+        "sku": "3DPM0197",
+        "productId": "39157",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-celestial-pla-3d-printer-filament.html?sku=3DPM0197#product-39157",
+        "price": 29.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Gradient Silk PLA",
+        "group": "PLA",
+        "name": "Rainbow (Spool, 1kg)",
+        "sku": "3DPM0084",
+        "productId": "39077",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-silk-pla-3d-printer-filament.html?sku=3DPM0084#product-39077",
+        "price": 24.99,
         "inStock": false
       }
     ]
