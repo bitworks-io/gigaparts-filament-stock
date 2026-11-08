@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-08T00:29:54+00:00",
-  "previousUpdatedAt": "2026-11-07T20:50:38+00:00",
+  "updatedAt": "2026-11-08T07:14:30+00:00",
+  "previousUpdatedAt": "2026-11-08T00:29:54+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6112,41 +6112,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Silk Multi-Color",
-        "group": "PLA",
-        "name": "Phantom Blue (1kg, Spool)",
-        "sku": "3DPF461",
-        "productId": "39667",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-multi-color-3d-printer-filament.html?sku=3DPF461#product-39667",
-        "price": 24.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Gradient Celestial PLA",
-        "group": "PLA",
-        "name": "Blue-Purple (Spool, 1kg)",
-        "sku": "3DPM0197",
-        "productId": "39157",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-celestial-pla-3d-printer-filament.html?sku=3DPM0197#product-39157",
-        "price": 29.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Gradient Silk PLA",
-        "group": "PLA",
-        "name": "Rainbow (Spool, 1kg)",
-        "sku": "3DPM0084",
-        "productId": "39077",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-silk-pla-3d-printer-filament.html?sku=3DPM0084#product-39077",
-        "price": 24.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
