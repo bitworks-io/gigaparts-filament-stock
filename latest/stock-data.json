@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-14T10:22:45+00:00",
-  "previousUpdatedAt": "2026-11-14T03:07:18+00:00",
+  "updatedAt": "2026-11-14T17:00:22+00:00",
+  "previousUpdatedAt": "2026-11-14T10:22:45+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1371,7 +1371,7 @@
           "hex": "#9b9ea0",
           "sku": "3DPF228",
           "productId": "32642",
-          "inStock": true,
+          "inStock": false,
           "price": 15.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF228#product-32642"
         },
@@ -3439,7 +3439,7 @@
           "hex": "#4cc1c7",
           "sku": "3DPM0257",
           "productId": "38485",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0257#product-38485"
         },
@@ -5207,7 +5207,7 @@
           "hex": "",
           "sku": "3DPM0149",
           "productId": "39141",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0149#product-39141"
         },
@@ -6132,7 +6132,41 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Bambu",
+        "line": "PLA Matte",
+        "group": "PLA",
+        "name": "Ash Gray (1kg, Refill)",
+        "sku": "3DPF228",
+        "productId": "32642",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF228#product-32642",
+        "price": 15.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Basic PLA",
+        "group": "PLA",
+        "name": "Teal (Spool, 1kg)",
+        "sku": "3DPM0257",
+        "productId": "38485",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0257#product-38485",
+        "price": 19.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Gradient Matte PLA",
+        "group": "PLA",
+        "name": "Winter (Spool, 1kg)",
+        "sku": "3DPM0149",
+        "productId": "39141",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0149#product-39141",
+        "price": 24.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
