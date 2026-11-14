@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-14T03:07:18+00:00",
-  "previousUpdatedAt": "2026-11-13T22:34:02+00:00",
+  "updatedAt": "2026-11-14T10:22:45+00:00",
+  "previousUpdatedAt": "2026-11-14T03:07:18+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6132,19 +6132,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Matte PLA",
-        "group": "PLA",
-        "name": "Earth Brown (Spool, 1kg)",
-        "sku": "3DPM0108",
-        "productId": "39100",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0108#product-39100",
-        "price": 19.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
