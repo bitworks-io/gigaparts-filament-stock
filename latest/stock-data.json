@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-14T17:00:22+00:00",
-  "previousUpdatedAt": "2026-11-14T10:22:45+00:00",
+  "updatedAt": "2026-11-14T21:24:46+00:00",
+  "previousUpdatedAt": "2026-11-14T17:00:22+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -35,7 +35,7 @@
           "hex": "#878787",
           "sku": "3DPF005",
           "productId": "28752",
-          "inStock": true,
+          "inStock": false,
           "price": 17.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF005#product-28752"
         },
@@ -185,7 +185,7 @@
           "hex": "#ffffff",
           "sku": "3DPF221",
           "productId": "32369",
-          "inStock": true,
+          "inStock": false,
           "price": 14.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF221#product-32369"
         },
@@ -195,7 +195,7 @@
           "hex": "#000000",
           "sku": "3DPF214",
           "productId": "32370",
-          "inStock": true,
+          "inStock": false,
           "price": 14.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF214#product-32370"
         },
@@ -225,7 +225,7 @@
           "hex": "",
           "sku": "3DPF207",
           "productId": "32374",
-          "inStock": true,
+          "inStock": false,
           "price": 69.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF207#product-32374"
         },
@@ -553,7 +553,7 @@
           "hex": "",
           "sku": "3DPF015",
           "productId": "28762",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF015#product-28762"
         },
@@ -3519,7 +3519,7 @@
           "hex": "#485259",
           "sku": "3DPM0265",
           "productId": "38493",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0265#product-38493"
         },
@@ -4223,7 +4223,7 @@
           "hex": "#ed2e2e",
           "sku": "3DPM0112",
           "productId": "39104",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0112#product-39104"
         },
@@ -4897,7 +4897,7 @@
           "hex": "",
           "sku": "3DPM0200",
           "productId": "39160",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-crystal-pla-3d-printer-filament.html?sku=3DPM0200#product-39160"
         },
@@ -6135,35 +6135,90 @@
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Matte",
+        "line": "PLA Basic",
         "group": "PLA",
-        "name": "Ash Gray (1kg, Refill)",
-        "sku": "3DPF228",
-        "productId": "32642",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF228#product-32642",
-        "price": 15.99,
+        "name": "Black (1kg, Refill)",
+        "sku": "3DPF214",
+        "productId": "32370",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF214#product-32370",
+        "price": 14.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "CMYK (4kg, Spool)",
+        "sku": "3DPF207",
+        "productId": "32374",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF207#product-32374",
+        "price": 69.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Gray (1kg, Spool)",
+        "sku": "3DPF005",
+        "productId": "28752",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF005#product-28752",
+        "price": 17.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic",
+        "group": "PLA",
+        "name": "Jade White (1kg, Refill)",
+        "sku": "3DPF221",
+        "productId": "32369",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF221#product-32369",
+        "price": 14.99,
+        "inStock": false
+      },
+      {
+        "brand": "Bambu",
+        "line": "PLA Basic Gradient",
+        "group": "PLA",
+        "name": "Mint Lime (1kg, Spool)",
+        "sku": "3DPF015",
+        "productId": "28762",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-gradient-3d-printer-filament.html?sku=3DPF015#product-28762",
+        "price": 24.99,
         "inStock": false
       },
       {
         "brand": "Polymaker",
         "line": "Panchroma Basic PLA",
         "group": "PLA",
-        "name": "Teal (Spool, 1kg)",
-        "sku": "3DPM0257",
-        "productId": "38485",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0257#product-38485",
+        "name": "Dark Grey (Spool, 1kg)",
+        "sku": "3DPM0265",
+        "productId": "38493",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-basic-pla-3d-printer-filament.html?sku=3DPM0265#product-38493",
         "price": 19.99,
         "inStock": false
       },
       {
         "brand": "Polymaker",
-        "line": "Panchroma Gradient Matte PLA",
+        "line": "Panchroma Gradient Crystal PLA",
         "group": "PLA",
-        "name": "Winter (Spool, 1kg)",
-        "sku": "3DPM0149",
-        "productId": "39141",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0149#product-39141",
+        "name": "Tourmaline (Spool, 1kg)",
+        "sku": "3DPM0200",
+        "productId": "39160",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-crystal-pla-3d-printer-filament.html?sku=3DPM0200#product-39160",
         "price": 24.99,
+        "inStock": false
+      },
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Matte PLA",
+        "group": "PLA",
+        "name": "Lava Red (Spool, 1kg)",
+        "sku": "3DPM0112",
+        "productId": "39104",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0112#product-39104",
+        "price": 19.99,
         "inStock": false
       }
     ]
