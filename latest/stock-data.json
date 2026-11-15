@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-15T09:15:11+00:00",
-  "previousUpdatedAt": "2026-11-15T01:50:05+00:00",
+  "updatedAt": "2026-11-15T17:01:14+00:00",
+  "previousUpdatedAt": "2026-11-15T09:15:11+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1421,7 +1421,7 @@
           "hex": "#de4343",
           "sku": "3DPF236",
           "productId": "32730",
-          "inStock": true,
+          "inStock": false,
           "price": 15.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF236#product-32730"
         },
@@ -6135,13 +6135,13 @@
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Galaxy",
+        "line": "PLA Matte",
         "group": "PLA",
-        "name": "Green (1kg, Spool)",
-        "sku": "3DPF091",
-        "productId": "30717",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-galaxy-3d-printer-filament.html?sku=3DPF091#product-30717",
-        "price": 24.99,
+        "name": "Scarlet Red (1kg, Refill)",
+        "sku": "3DPF236",
+        "productId": "32730",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF236#product-32730",
+        "price": 15.99,
         "inStock": false
       }
     ]
