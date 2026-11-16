@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-15T21:42:58+00:00",
-  "previousUpdatedAt": "2026-11-15T17:01:14+00:00",
+  "updatedAt": "2026-11-16T01:56:47+00:00",
+  "previousUpdatedAt": "2026-11-15T21:42:58+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -2693,7 +2693,7 @@
           "hex": "#000000",
           "sku": "3DPF331",
           "productId": "38237",
-          "inStock": true,
+          "inStock": false,
           "price": 26.99,
           "url": "https://www.gigaparts.com/bambu-lab-tpu-90a-85a-3d-printer-filament.html?sku=3DPF331#product-38237"
         },
@@ -5197,7 +5197,7 @@
           "hex": "",
           "sku": "3DPM0148",
           "productId": "39140",
-          "inStock": true,
+          "inStock": false,
           "price": 24.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0148#product-39140"
         },
@@ -6135,46 +6135,24 @@
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PETG HF",
-        "group": "PETG",
-        "name": "Blue (1kg, Spool)",
-        "sku": "3DPF161",
-        "productId": "31853",
-        "url": "https://www.gigaparts.com/bambu-lab-petg-hf-3d-printer-filament.html?sku=3DPF161#product-31853",
-        "price": 18.99,
+        "line": "TPU 85A / TPU 90A",
+        "group": "TPU",
+        "name": "Black (TPU 85A, 1kg, Spool)",
+        "sku": "3DPF331",
+        "productId": "38237",
+        "url": "https://www.gigaparts.com/bambu-lab-tpu-90a-85a-3d-printer-filament.html?sku=3DPF331#product-38237",
+        "price": 26.99,
         "inStock": false
       },
       {
-        "brand": "Bambu",
-        "line": "PLA Basic",
+        "brand": "Polymaker",
+        "line": "Panchroma Gradient Matte PLA",
         "group": "PLA",
-        "name": "Cobalt Blue (1kg, Refill)",
-        "sku": "3DPF346",
-        "productId": "33068",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF346#product-33068",
-        "price": 14.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Purple (1kg, Spool)",
-        "sku": "3DPF019",
-        "productId": "28766",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF019#product-28766",
-        "price": 17.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Silk+",
-        "group": "PLA",
-        "name": "White (1kg, Refill)",
-        "sku": "3DPF463",
-        "productId": "39386",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-silk-plus-3d-printer-filament.html?sku=3DPF463#product-39386",
-        "price": 15.99,
+        "name": "Summer (Spool, 1kg)",
+        "sku": "3DPM0148",
+        "productId": "39140",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0148#product-39140",
+        "price": 24.99,
         "inStock": false
       }
     ]
