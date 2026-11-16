@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T01:56:47+00:00",
-  "previousUpdatedAt": "2026-11-15T21:42:58+00:00",
+  "updatedAt": "2026-11-16T09:31:23+00:00",
+  "previousUpdatedAt": "2026-11-16T01:56:47+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6132,30 +6132,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "TPU 85A / TPU 90A",
-        "group": "TPU",
-        "name": "Black (TPU 85A, 1kg, Spool)",
-        "sku": "3DPF331",
-        "productId": "38237",
-        "url": "https://www.gigaparts.com/bambu-lab-tpu-90a-85a-3d-printer-filament.html?sku=3DPF331#product-38237",
-        "price": 26.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Gradient Matte PLA",
-        "group": "PLA",
-        "name": "Summer (Spool, 1kg)",
-        "sku": "3DPM0148",
-        "productId": "39140",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-matte-pla-3d-printer-filament.html?sku=3DPM0148#product-39140",
-        "price": 24.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
