@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-17T03:45:25+00:00",
-  "previousUpdatedAt": "2026-11-16T20:21:57+00:00",
+  "updatedAt": "2026-11-17T13:12:30+00:00",
+  "previousUpdatedAt": "2026-11-17T03:45:25+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6132,30 +6132,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Brown (1kg, Spool)",
-        "sku": "3DPF016",
-        "productId": "28763",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF016#product-28763",
-        "price": 17.99,
-        "inStock": false
-      },
-      {
-        "brand": "Bambu",
-        "line": "PLA Wood",
-        "group": "PLA",
-        "name": "White Oak (1kg, Spool)",
-        "sku": "3DPF315",
-        "productId": "33084",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-wood-3d-printer-filament.html?sku=3DPF315#product-33084",
-        "price": 24.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
