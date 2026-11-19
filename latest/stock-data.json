@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-19T03:17:37+00:00",
-  "previousUpdatedAt": "2026-11-18T21:52:34+00:00",
+  "updatedAt": "2026-11-19T12:54:31+00:00",
+  "previousUpdatedAt": "2026-11-19T03:17:37+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6132,19 +6132,7 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Translucent",
-        "group": "PLA",
-        "name": "Blue (Spool, 1kg)",
-        "sku": "3DPF419",
-        "productId": "36441",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-translucent-3d-printer-filament.html?sku=3DPF419#product-36441",
-        "price": 18.99,
-        "inStock": false
-      }
-    ]
+    "outOfStock": []
   },
   "errors": []
 }
