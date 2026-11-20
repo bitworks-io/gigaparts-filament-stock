@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-20T11:26:40+00:00",
-  "previousUpdatedAt": "2026-11-20T03:03:55+00:00",
+  "updatedAt": "2026-11-20T20:03:09+00:00",
+  "previousUpdatedAt": "2026-11-20T11:26:40+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -4203,7 +4203,7 @@
           "hex": "#60ad70",
           "sku": "3DPM0110",
           "productId": "39102",
-          "inStock": true,
+          "inStock": false,
           "price": 19.99,
           "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0110#product-39102"
         },
@@ -6132,7 +6132,19 @@
   ],
   "changes": {
     "inStock": [],
-    "outOfStock": []
+    "outOfStock": [
+      {
+        "brand": "Polymaker",
+        "line": "Panchroma Matte PLA",
+        "group": "PLA",
+        "name": "Forest Green (Spool, 1kg)",
+        "sku": "3DPM0110",
+        "productId": "39102",
+        "url": "https://www.gigaparts.com/polymaker-panchroma-matte-pla-3d-printer-filament.html?sku=3DPM0110#product-39102",
+        "price": 19.99,
+        "inStock": false
+      }
+    ]
   },
   "errors": []
 }
