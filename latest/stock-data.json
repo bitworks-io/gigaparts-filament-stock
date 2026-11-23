@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-23T01:35:52+00:00",
-  "previousUpdatedAt": "2026-11-22T20:18:12+00:00",
+  "updatedAt": "2026-11-23T10:40:24+00:00",
+  "previousUpdatedAt": "2026-11-23T01:35:52+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -1521,7 +1521,7 @@
           "hex": "#ae835b",
           "sku": "3DPF366",
           "productId": "33827",
-          "inStock": true,
+          "inStock": false,
           "price": 15.99,
           "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF366#product-33827"
         },
@@ -6135,13 +6135,13 @@
     "outOfStock": [
       {
         "brand": "Bambu",
-        "line": "PLA Basic",
+        "line": "PLA Matte",
         "group": "PLA",
-        "name": "Cocoa Brown (1kg, Refill)",
-        "sku": "3DPF348",
-        "productId": "33066",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF348#product-33066",
-        "price": 14.99,
+        "name": "Caramel (1kg, Refill)",
+        "sku": "3DPF366",
+        "productId": "33827",
+        "url": "https://www.gigaparts.com/bambu-lab-pla-matte-3d-printer-filament.html?sku=3DPF366#product-33827",
+        "price": 15.99,
         "inStock": false
       }
     ]
