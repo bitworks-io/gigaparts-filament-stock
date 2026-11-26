@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-25T22:27:34+00:00",
-  "previousUpdatedAt": "2026-11-25T12:42:01+00:00",
+  "updatedAt": "2026-11-26T04:58:10+00:00",
+  "previousUpdatedAt": "2026-11-25T22:27:34+00:00",
   "source": "https://www.gigaparts.com",
   "lines": [
     {
@@ -6131,54 +6131,8 @@
     }
   ],
   "changes": {
-    "inStock": [
-      {
-        "brand": "Bambu",
-        "line": "PLA Basic",
-        "group": "PLA",
-        "name": "Red (1kg, Spool)",
-        "sku": "3DPF021",
-        "productId": "28768",
-        "url": "https://www.gigaparts.com/bambu-lab-pla-basic-3d-printer-filament.html?sku=3DPF021#product-28768",
-        "price": 17.99,
-        "inStock": true
-      }
-    ],
-    "outOfStock": [
-      {
-        "brand": "Bambu",
-        "line": "ASA",
-        "group": "ASA",
-        "name": "Red (1kg, Spool)",
-        "sku": "3DPF121",
-        "productId": "28863",
-        "url": "https://www.gigaparts.com/bambu-lab-asa-3d-printer-filament.html?sku=3DPF121#product-28863",
-        "price": 17.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Dual Silk PLA",
-        "group": "PLA",
-        "name": "Aubergine Lime-Magenta (Spool, 1kg)",
-        "sku": "3DPM0072",
-        "productId": "39068",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-dual-silk-pla-3d-printer-filament.html?sku=3DPM0072#product-39068",
-        "price": 22.99,
-        "inStock": false
-      },
-      {
-        "brand": "Polymaker",
-        "line": "Panchroma Gradient Crystal PLA",
-        "group": "PLA",
-        "name": "Aquamarine (Spool, 1kg)",
-        "sku": "3DPM0202",
-        "productId": "39162",
-        "url": "https://www.gigaparts.com/polymaker-panchroma-gradient-crystal-pla-3d-printer-filament.html?sku=3DPM0202#product-39162",
-        "price": 24.99,
-        "inStock": false
-      }
-    ]
+    "inStock": [],
+    "outOfStock": []
   },
   "errors": []
 }
